@@ -19,9 +19,17 @@ export const fibonacing = {
   _1597: '1597px',
 };
 
+export const fontsize = {
+  small: '10px',
+  medium: '14px',
+  large: '22px',
+  xlarge: '28px',
+};
+
 // font.google.com
 export const font = {
-  Noto: "'Noto Serif KR', sans-serif",
+  SansSerif: "'Noto Serif KR', sans-serif",
+  Serif: "'Montserrat', sans-serif",
 };
 
 export const goldenRatio: number = 1.62;
@@ -41,6 +49,7 @@ export const color = {
   background_primary: '#F5F5F6',
   background_secondary: '#E1E2E1',
   text: boxShadowColor,
+  text_secondary: '#a0a0a0',
   box_shadow: getOpacity(0.5, boxShadowColor),
 };
 

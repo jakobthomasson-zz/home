@@ -2,12 +2,15 @@ import * as React from 'react';
 import styled from 'styled-components';
 import { fibonacing } from 'src/theme';
 import { Title } from 'src/components/Heading';
+import { SmallText } from 'src/components/Text';
+
 interface HeaderProps extends React.Props<Header> {
 }
 
 const Wrapper = styled.div`
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: ${fibonacing._8};
 `;
 
@@ -16,7 +19,10 @@ class Header extends React.Component<HeaderProps> {
     const { } = this.props;
     return (
       <Wrapper>
+        <SmallText>Vänster</SmallText>
         <Title>Header</Title>
+        <SmallText>Höger</SmallText>
+
       </Wrapper>
 
     );
