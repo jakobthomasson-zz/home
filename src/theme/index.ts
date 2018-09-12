@@ -19,6 +19,11 @@ export const fibonacing = {
   _1597: '1597px',
 };
 
+// font.google.com
+export const font = {
+  Noto: "'Noto Serif KR', sans-serif",
+};
+
 export const goldenRatio: number = 1.62;
 export const pi: number = 3.14;
 

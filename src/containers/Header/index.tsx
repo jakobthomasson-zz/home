@@ -1,7 +1,7 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { fibonacing } from 'src/theme';
-
+import { Title } from 'src/components/Heading';
 interface HeaderProps extends React.Props<Header> {
 }
 
@@ -16,7 +16,7 @@ class Header extends React.Component<HeaderProps> {
     const { } = this.props;
     return (
       <Wrapper>
-        Header
+        <Title>Header</Title>
       </Wrapper>
 
     );

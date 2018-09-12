@@ -1,19 +1,12 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import { color, fibonacing } from 'src/theme';
 
 interface DialogProps extends React.Props<Dialog> {
 }
 
 const Wrapper = styled.div`
-  position: absolute;
-  width: 100vw;
-  height: ${fibonacing._2};
-  top: 0;
-  left: 0;
-  background-color: ${color.secondary_light};
+  display: none;
 `;
-
 class Dialog extends React.Component<DialogProps> {
   public render(): React.ReactElement<{}> {
     const { } = this.props;

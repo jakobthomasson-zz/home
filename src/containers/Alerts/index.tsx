@@ -1,17 +1,11 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import { color, fibonacing } from 'src/theme';
 
 interface AlertsProps extends React.Props<Alerts> {
 }
 
 const Wrapper = styled.div`
-  position: absolute;
-  width: 100vw;
-  height: ${fibonacing._2};
-  top: 0;
-  left: 0;
-  background-color: ${color.secondary_light};
+  display: none;
 `;
 
 class Alerts extends React.Component<AlertsProps> {
