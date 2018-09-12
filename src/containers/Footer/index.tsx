@@ -1,58 +1,44 @@
 import * as React from 'react';
-import { createStructuredSelector } from 'reselect';
-import { TopAnime } from 'src/store/example/reducer';
-const connect = require('react-redux').connect;
-import { fetch } from 'src/store/example/actions';
-import { selectTopAnime, selectIsLoading, selectIsFetched } from 'src/store/example/selectors';
+import styled from 'styled-components';
+import { color, fibonacing } from 'src/theme';
 
-interface UsersPageProps extends React.Props<Users> {
-  topAnime: TopAnime[];
-  isLoading: boolean;
-  isFetched: boolean;
-  onTopAnimeFetch: () => void;
+interface FooterProps extends React.Props<Footer> {
 }
 
-class Users extends React.Component<UsersPageProps, void> {
+const Wrapper = styled.div`
+  background-color: ${color.background_primary};
+  max-width: ${fibonacing._987};
+  flex-grow: 1;
+`;
+
+class Footer extends React.Component<FooterProps> {
   public render(): React.ReactElement<{}> {
-    const { topAnime, isLoading, isFetched, onTopAnimeFetch } = this.props;
-    console.log('topAnime');
-    console.log(topAnime);
-
+    const { } = this.props;
     return (
-      <div>
-        {isLoading && <p>laddar...</p>}
-
-        <ul>
-          {topAnime.map((item, idx) => {
-            return (
-              <li key={idx}>
-                {item.title}
-              </li>
-            );
-          })}
-        </ul>
-
-        {!isFetched && <button onClick={onTopAnimeFetch}>Fetch</button>}
-      </div>
+      <Wrapper>
+        Footer
+      </Wrapper>
 
     );
   }
 }
 
-function mapStateToProps() {
-  return createStructuredSelector({
-    topAnime: selectTopAnime(),
-    isLoading: selectIsLoading(),
-    isFetched: selectIsFetched(),
-  });
-}
+export default Footer;
 
-function mapDispatchToProps(dispatch: any) {
-  return {
-    onTopAnimeFetch: (): void => {
-      dispatch(fetch());
-    },
-  };
-}
+// function mapStateToProps() {
+//   return createStructuredSelector({
+//     topAnime: selectTopAnime(),
+//     isLoading: selectIsLoading(),
+//     isFetched: selectIsFetched(),
+//   });
+// }
 
-export default connect(mapStateToProps, mapDispatchToProps)(Users);
+// function mapDispatchToProps(dispatch: any) {
+//   return {
+//     onTopAnimeFetch: (): void => {
+//       dispatch(fetch());
+//     },
+//   };
+// }
+
+// export default connect(mapStateToProps, mapDispatchToProps)(Loader);

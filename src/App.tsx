@@ -4,6 +4,12 @@ import './App.css';
 // import TopAnime from 'src/containers/TopAnime';
 import styled from 'styled-components';
 import { color, fibonacing } from 'src/theme';
+import Loader from 'src/containers/Loader';
+import Header from 'src/containers/Header';
+import Menu from 'src/containers/Menu';
+import Content from 'src/containers/Content';
+import Footer from 'src/containers/Footer';
+import Alerts from 'src/containers/Alerts';
 
 const Wrapper = styled.div`
   background-color: ${color.background_secondary};
@@ -19,45 +25,16 @@ const Container = styled.div`
   flex-grow: 1;
 `;
 
-const Loader = styled.div`
-  position: absolute;
-  width: 100vw;
-  height: ${fibonacing._2};
-  top: 0;
-  left: 0;
-  background-color: ${color.secondary_light};
-`;
-
-const Header = styled.div`
-  display: flex;
-  justify-content: space-between;
-  padding: ${fibonacing._8};
-`;
-const Menu = styled.div`
-`;
-const Page = styled.div``;
-const Footer = styled.div``;
-
 class App extends React.Component {
   public render() {
     return (
       <Wrapper>
+        <Loader />
+        <Alerts />
         <Container>
-          <Loader />
-          <Header>
-            <p>
-              vänster
-            </p>
-            <h2>
-              SIDANS NAMN
-            </h2>
-            <p>
-              höger
-            </p>
-
-          </Header>
+          <Header />
           <Menu />
-          <Page />
+          <Content />
           <Footer />
           {/* <Switch>
           <Redirect exact from="/" to="/topanime" />

@@ -1,29 +1,29 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import { fibonacing } from 'src/theme';
+import { color, fibonacing } from 'src/theme';
 
-interface HeaderProps extends React.Props<Header> {
+interface NotificationsProps extends React.Props<Notifications> {
 }
 
 const Wrapper = styled.div`
-  display: flex;
-  justify-content: space-between;
-  padding: ${fibonacing._8};
+  position: absolute;
+  width: 100vw;
+  height: ${fibonacing._2};
+  top: 0;
+  left: 0;
+  background-color: ${color.secondary_light};
 `;
 
-class Header extends React.Component<HeaderProps> {
+class Notifications extends React.Component<NotificationsProps> {
   public render(): React.ReactElement<{}> {
     const { } = this.props;
     return (
-      <Wrapper>
-        Header
-      </Wrapper>
-
+      <Wrapper />
     );
   }
 }
 
-export default Header;
+export default Notifications;
 
 // function mapStateToProps() {
 //   return createStructuredSelector({
