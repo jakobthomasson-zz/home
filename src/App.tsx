@@ -10,6 +10,7 @@ import Menu from 'src/containers/Menu';
 import Content from 'src/containers/Content';
 import Footer from 'src/containers/Footer';
 import Alerts from 'src/containers/Alerts';
+import Dialog from 'src/containers/Dialog';
 
 const Wrapper = styled.div`
   background-color: ${color.background_secondary};
@@ -29,18 +30,18 @@ class App extends React.Component {
   public render() {
     return (
       <Wrapper>
+
         <Loader />
+        <Dialog />
         <Alerts />
+
         <Container>
           <Header />
           <Menu />
           <Content />
           <Footer />
-          {/* <Switch>
-          <Redirect exact from="/" to="/topanime" />
-          <Route path="/topanime" component={TopAnime} />
-        </Switch> */}
         </Container>
+
       </Wrapper>
     );
   }
