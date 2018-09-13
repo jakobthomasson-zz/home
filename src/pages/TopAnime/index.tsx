@@ -5,19 +5,17 @@ const connect = require('react-redux').connect;
 import { fetch } from 'src/store/example/actions';
 import { selectTopAnime, selectIsLoading, selectIsFetched } from 'src/store/example/selectors';
 
-interface UsersPageProps extends React.Props<Users> {
+interface TopAnimePageProps extends React.Props<TopAnimePage> {
   topAnime: TopAnime[];
   isLoading: boolean;
   isFetched: boolean;
   onTopAnimeFetch: () => void;
 }
 
-class Users extends React.Component<UsersPageProps, void> {
+class TopAnimePage extends React.Component<TopAnimePageProps, void> {
   public render(): React.ReactElement<{}> {
+    console.log('render of TopAnimePage');
     const { topAnime, isLoading, isFetched, onTopAnimeFetch } = this.props;
-    console.log('topAnime');
-    console.log(topAnime);
-
     return (
       <div>
         {isLoading && <p>laddar...</p>}
@@ -55,4 +53,4 @@ function mapDispatchToProps(dispatch: any) {
   };
 }
 
-export default connect(mapStateToProps, mapDispatchToProps)(Users);
+export default connect(mapStateToProps, mapDispatchToProps)(TopAnimePage);

@@ -1,8 +1,11 @@
 import * as React from 'react';
 import styled from 'styled-components';
 import { color, fibonacing } from 'src/theme';
+import { Switch, Route } from 'react-router';
+import { IRoute } from 'src/routes';
 
 interface ContentProps extends React.Props<Content> {
+  routes: IRoute[];
 }
 
 const Wrapper = styled.div`
@@ -13,10 +16,15 @@ const Wrapper = styled.div`
 
 class Content extends React.Component<ContentProps> {
   public render(): React.ReactElement<{}> {
-    const { } = this.props;
+    const { routes } = this.props;
     return (
       <Wrapper>
-        Content
+        <Switch>
+          {routes.map(route => (
+            <Route key={route.path} path={route.path} component={route.component} exact={route.exact} />
+          ),
+          )}
+        </Switch>
       </Wrapper>
 
     );
@@ -24,21 +32,3 @@ class Content extends React.Component<ContentProps> {
 }
 
 export default Content;
-
-// function mapStateToProps() {
-//   return createStructuredSelector({
-//     topAnime: selectTopAnime(),
-//     isLoading: selectIsLoading(),
-//     isFetched: selectIsFetched(),
-//   });
-// }
-
-// function mapDispatchToProps(dispatch: any) {
-//   return {
-//     onTopAnimeFetch: (): void => {
-//       dispatch(fetch());
-//     },
-//   };
-// }
-
-// export default connect(mapStateToProps, mapDispatchToProps)(Loader);

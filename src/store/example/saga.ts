@@ -1,11 +1,12 @@
-import axios, { AxiosResponse } from 'axios';
+import { AxiosResponse } from 'axios';
 import { all, call, put, takeEvery } from 'redux-saga/effects';
 import { actionTypes as at } from './constants';
-import { TopAnime } from './reducer';
+// import { TopAnime } from './reducer';
+import { get } from './service';
 
 // https://jikan.docs.apiary.io/#reference/0/top/top-request-example+schema?console=1
 function* fetchTest() {
-  const test: AxiosResponse<{ top: TopAnime[] }> = yield call([axios, axios.get], 'https://api.jikan.moe/v3/top/anime/1/upcoming');
+  const test: AxiosResponse<{ top: any }> = yield call(get, '/api/library/books');
   yield put({ type: at.ANIME_TOP_FETCH_SUCCESS, payload: test.data.top });
 }
 

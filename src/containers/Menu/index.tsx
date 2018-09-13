@@ -2,11 +2,12 @@ import * as React from 'react';
 import styled from 'styled-components';
 import { fibonacing, color, font, fontsize } from 'src/theme';
 import { Link, withRouter, RouteComponentProps } from 'react-router-dom';
-import routes from 'src/routes';
+import { IRoute } from 'src/routes';
 interface MenuProps extends React.Props<Menu>, RouteComponentProps<any> {
+  routes: IRoute[];
 }
 
-const Wrapper = styled.div`
+const Nav = styled.nav`
   display: flex;
   align-items: center;
   padding: ${fibonacing._8};
@@ -14,7 +15,6 @@ const Wrapper = styled.div`
 
 const ListItem = styled.li`
   margin-right: ${fibonacing._13};
-
 `;
 
 const List = styled.ul`
@@ -37,54 +37,46 @@ const LinkText = styled(Link)`
 
 const ActiveLinkText = styled(LinkText)`
   color: ${color.text};
-
-
 `;
 
 class Menu extends React.Component<MenuProps> {
   public render(): React.ReactElement<{}> {
-    const { } = this.props;
+    const { routes, location: { pathname } } = this.props;
     return (
-      <Wrapper>
+      <Nav>
         <List>
-          {routes.map((route) => {
-            const isActive = this.props.location.pathname === route.path;
-            console.log(route.path);
-            return (
-              <ListItem key={route.path}>
-                {isActive ?
-                  <ActiveLinkText to={route.path || '/'}  >
-                    {route.title}
-                  </ActiveLinkText>
-                  :
-                  <LinkText to={route.path || '/'}  >
-                    {route.title}
-                  </LinkText>
-                }
-              </ListItem>);
-          })}
+          {routes.map(route =>
+            <MenuItem key={route.path} pathname={pathname} route={route} />,
+          )}
         </List>
-      </Wrapper>
+      </Nav>
     );
   }
 }
 
-// export default Menu;
+interface MenuItemProps {
+  route: IRoute;
+  pathname: string;
+}
 
-// function mapStateToProps() {
-//   return createStructuredSelector({
-//     topAnime: selectTopAnime(),
-//     isLoading: selectIsLoading(),
-//     isFetched: selectIsFetched(),
-//   });
-// }
+const MenuItem: React.StatelessComponent<MenuItemProps> = ({ route, pathname }) => {
+  const isActive = pathname === route.path;
 
-// function mapDispatchToProps(dispatch: any) {
-//   return {
-//     onTopAnimeFetch: (): void => {
-//       dispatch(fetch());
-//     },
-//   };
-// }
+  return (
+    <ListItem>
+      {/* {console.log(route.path)} */}
+      {isActive ?
+        <ActiveLinkText to={route.path || '/'}  >
+          {route.title}
+
+        </ActiveLinkText>
+        :
+        <LinkText to={route.path || '/'}  >
+          {route.title}
+        </LinkText>
+      }
+    </ListItem>
+  );
+};
 
 export default withRouter(Menu);

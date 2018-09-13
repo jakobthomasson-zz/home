@@ -11,6 +11,7 @@ import Content from 'src/containers/Content';
 import Footer from 'src/containers/Footer';
 import Alerts from 'src/containers/Alerts';
 import Dialog from 'src/containers/Dialog';
+import routes from 'src/routes';
 
 const Wrapper = styled.div`
   background-color: ${color.background_secondary};
@@ -37,8 +38,8 @@ class App extends React.Component {
 
         <Container>
           <Header />
-          <Menu />
-          <Content />
+          <Menu routes={routes} />
+          <Content routes={routes} />
           <Footer />
         </Container>
 
