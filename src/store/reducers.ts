@@ -3,14 +3,14 @@ import { combineReducers, Reducer } from 'redux';
 // import usersReducer from '../containers/Users/reducer';
 // usersDomain: any;
 import exampleReducer, { State as AnimeState } from './example/reducer';
-import loadingReducer, { State as LoadingState } from './loading/reducer';
+import loaderReducer, { State as LoaderState } from './loader/reducer';
 
 export interface IState {
   animeDomain: AnimeState;
-  loadingDomain: LoadingState;
+  loaderDomain: LoaderState;
 }
 
 export const state: Reducer<IState> = combineReducers({
   animeDomain: exampleReducer,
-  loadingDomain: loadingReducer,
+  loaderDomain: loaderReducer,
 });

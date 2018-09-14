@@ -2,42 +2,58 @@ import * as React from 'react';
 const connect = require('react-redux').connect;
 // import { connect } from 'react-redux';
 // import { createStructuredSelector } from 'reselect';
-// import { fetch } from 'src/store/example/actions';
+import { startLoader, updateLoader, stopLoader } from 'src/store/loader/actions';
+import { Dispatch } from 'redux';
 // import { selectTopAnime, selectIsLoading, selectIsFetched } from 'src/store/example/selectors';
 
 interface HomePageProps extends React.Props<HomePage> {
+  onStartLoader: (isComputable: boolean) => void;
+  onUpdateLoader: (loader: I.Loader) => void;
+  onStopLoader: (loader: I.Loader) => void;
 }
 
 class HomePage extends React.Component<HomePageProps, void> {
+
   public render(): React.ReactElement<{}> {
-    const { } = this.props;
+    const { onStartLoader, onUpdateLoader, onStopLoader } = this.props;
     console.log('render of HomePage');
 
     return (
       <div>
-        hej
+        <button onClick={() => onStartLoader(false)}>Start noncomputable loader</button>
+        <button onClick={() => onStopLoader}>Stop noncomputable load</button>
+
+        <button onClick={() => onStartLoader(true)}>Start computable loader</button>
+        <button onClick={() => onUpdateLoader}>Start computable load</button>
+
       </div>
 
     );
   }
 }
 
-function mapStateToProps() {
-  // return createStructuredSelector({
-  //   topAnime: selectTopAnime(),
-  //   isLoading: selectIsLoading(),
-  //   isFetched: selectIsFetched(),
-  // });
+// function mapStateToProps() {
+//   // return createStructuredSelector({
+//   //   topAnime: selectTopAnime(),
+//   //   isLoading: selectIsLoading(),
+//   //   isFetched: selectIsFetched(),
+//   // });
+// }
+
+function mapDispatchToProps(dispatch: Dispatch) {
+  return {
+    onStartLoader: (isComputable: boolean): void => {
+      dispatch(startLoader(isComputable));
+    },
+    onUpdateLoader: (loader: I.Loader): void => {
+      dispatch(updateLoader(loader));
+    },
+    onStopLoader: (loader: I.Loader): void => {
+      dispatch(stopLoader(loader));
+    },
+  };
 }
 
-function mapDispatchToProps(dispatch: any) {
-  // return {
-  //   onTopAnimeFetch: (): void => {
-  //     dispatch(fetch());
-  //   },
-  // };
-}
-
-export default connect(mapStateToProps, mapDispatchToProps)(HomePage);
+export default connect(undefined, mapDispatchToProps)(HomePage);
 
 // export default HomePage;
