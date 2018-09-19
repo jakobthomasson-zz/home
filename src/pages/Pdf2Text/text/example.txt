@@ -1,0 +1,462 @@
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 1/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+A 26 JUN 18 ISSUE FOR INQUIRY S.G. JEONG T.K.KIM J.S.AHN
+REV. DATE
+(DD MMM YY)
+STATUS WRITTEN BY
+(name & visa)
+CHECKED BY
+(name & visa)
+APPROV./AUTHOR. BY
+(name & visa)
+DOCUMENT REVISIONS
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+PARTICULAR TECHNICAL SPECIFICATION 
+FOR
+PLATE AND FRAME HEAT EXCHANGER
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 2/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+INDEX
+                                                                               Page
+1. GENERAL OUTLINE 3
+1.1. Language 3
+2. OBJECT 3
+2.1. Documents Priority 3
+3. SCOPE OF SUPPLY 4
+3.1. Inclusions 4
+3.2. Exclusions: 6
+3.3. Sub Supplier List 6
+4. GUARANTEES 6
+5. SPECIFIC REQUIREMENTS 6
+5.1. General 6
+5.2. Design: 7
+5.3. Additional Requirements to Base Metal 11
+5.4. Additional Requirements for Production 11
+5.5. Schedule of Main Data 12
+5.6. Additional Technical Agreements 13
+6. LIST OF DEVIATIONS TO APPLICABLE SPECIFICATIONS 13
+7. INSPECTIONS AND TESTS 13
+8. QUALITY MANAGEMENT SYSTEM REQUIREMENTS 14
+8.1. Job Organization 14
+8.2. Design Quality Control 14
+8.3. Job Quality Plan 14
+9. QUOTATION INFORMATION 15
+9.1. The following information, documents and drawings shall be provided along with of the 
+technical offer: 15
+10. SPARE PARTS 16
+10.1 Construction, Start-up and Commissioning Spares. 16
+10.2 Two Years Operating spares. 17
+10.3 Capital Spares. 17
+11. CONSUMABLES ALSO NAMED OPERATING MATERIALS 17
+12. SPECIAL TOOLS 17
+13. SUPPLIER SPECIALIST ASSISTANCE 17
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 3/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe

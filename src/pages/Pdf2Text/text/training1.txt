@@ -1,0 +1,1134 @@
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  1  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+TABLE OF CONTENTS 
+ 
+Section Title  Page No. 
+ 
+1.  UScopeU ·············································································· 3 
+ 
+2.  Normatove References U ······················································· 3 
+ 
+3. Terms and Definitions ························································ 4 
+ 
+4.  UGeneral U ············································································ 4 
+ 
+5. Proposal Information Required ············································ 5 
+ 
+6. Drawings and Other Data Requirements ································ 5 
+ 
+7. Design ············································································· 6 
+7.1 General .................................................................................... 6 
+7.3 Design Pressure ....................................................................... 7 
+7.4 Fouling Margin ......................................................................... 7 
+7.5 Corrosion Allowance ................................................................. 7 
+7.6 Components ............................................................................. 7 
+7.7 Connections ............................................................................. 8 
+7.8 Plate Gaskets ........................................................................... 9 
+7.9 Handling Devices ..................................................................... 9 
+7.10 Pressure Bolting for Connections .............................................. 9 
+7.11 Supports .................................................................................. 9 
+7.12 Anchor/Setting Bolts ................................................................ 10 
+7.13 Special Tools .......................................................................... 10 
+7.14 Performance Design ................................................................ 10 
+ 
+8. Materials ········································································· 11 
+ 
+      
+      
+      
+R0 2014.09.18 For issue  N. Sato N. Sato K. Tada 
+Rev. Date Notes By Checked Approved 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  2  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+TABLE OF CONTENTS 
+ 
+Section Title  Page No. 
+ 
+9. Fabrication ······································································ 12 
+9.1 Welding ................................................................................... 12 
+9.3 Surface Finish ......................................................................... 13 
+9.4 Assembly ................................................................................ 14 
+ 
+10. Inspections and Testing ···················································· 14 
+10.1 Quality Control ........................................................................ 14 
+10.2 Hydrostatic Test ...................................................................... 17 
+10.3 Name Plates and Stampings ................................................... 17 
+10.4 Inspection and Test Plan ......................................................... 18 
+10.5 Inspection and Test Records ................................................... 18 
+10.6 Rejection ................................................................................. 18 
+ 
+11. Preparation for Shipment ··················································· 19 
+11.5 General ................................................................................... 19 
+11.6 Internal Protection ................................................................... 19 
+11.7 External Protection .................................................................. 19 
+ 
+ 
+Attachments 
+• TABLE-2  Inspection and Testing Plan (ITP)  (For Reference) ....... 21 
+• TABLE-3 Required Inspection and Test Records ........................... 23 
+• FIG-1 Standard Fabrication Tolerances  .................................. 24 
+ 
+ 
+ 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  3  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+1. Scope 
+1.1* (Addition) 
+ This specification defines the minimum requirements for design, material selection, 
+fabrication, inspection & testing, painting, and preparation of shipment for Plate and 
+Frame heat exchangers (referred to hereinafter also as PHE). 
+1.2* (Addition) 
+ All requirements in this specification are amendments and/or supplements to API 662 
+Part-1 / ISO 15547-1 1st edition (2011).   The paragraph numbers in this specification 
+correspond to those used in API 662 / ISO 15547.   All requirements, whose 
+paragraph number is not addressed in this standard, shall be considered as additional 
+requirements specified by KHI. 
+1.3* (Addition) 
+ If “(Supplement)” is shown next to the paragraph number, the requirement specified in 
+this specification shall be applied instead of the original API 662 / ISO 15547 
+requirement.  If “(Addition)” is shown next to the paragraph number, the 
+requirement specified in this specification shall be applied in addition to API 662 / ISO 
+15547 requirements. 
+ 
+ 
+2. Normative References 
+2.1* (Addition) 
+ The following documents are referenced herein and form part of the Order.   
+Additional Purchaser’s documents, when applicable, will be listed on the Requisition.  
+The issue of Purchaser’s documents shall be as specified in the Requisition.  Current 
+editions of the industry standards including all mandatory addenda in effect at the time 
+of the order shall apply unless otherwise specified. 
+KHI PROJECT SPECIFICATION 
+• 9103-G57GS01 “General Welding Requirements” 
+• 9103-D00DS01 “Material Selection Pressure Vessels, Heat 
+Exchangers and Tanks” 
+• 9103-G40QC10 “Positive Material Identification (PMI)” 
+• 9103-D00DS05  “Standard Drawings for Vessels, Tanks and Heat 
+Exchangers” 
+• 9103-G25FMSDR-1 “Supplier Document and Data Requirement (SDR-1)” 
+• 9103-G25FMSDR-2H-PHE  “Supplier Drawing and Data Requirements (SDR-2H-
+PHE)” 
+• 9103-G45GS01 “General Packing Instructions” 
+• 9103-G50GS01 “Shipping Instructions” 
+AMERICAN SOCIETY OF MECHANICAL ENGINEERS (ASME) 
+ASME Boiler and Pressure Vessel Code, current edition, including all mandatory 
+addenda in effect on the date of the Order and referenced standards according to year 
+of acceptable edition listed in the appropriate sections of the ASME Code. 
+• Section II “Material Specifications” 
+• Part A - “Ferrous Materials” 
+• Part B -  “Nonferrous Materials” 
+• Part C - “Welding Rods, Electrodes and Filler Metals” 
+• Part D - “Material Properties” 
+• Section V “Nondestructive Examination” 
+• Section VIII “Boiler and Pressure Vessels” Division 1 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  4  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+• Section IX “Welding and Brazing Qualifications” 
+• ASME B1.1 “Unified Inch Screw Thread (UN and UNR Thread 
+Form)” 
+• ASME B1.13M “Metric Screw Thread – M Profile” 
+• ASME B16.5 “Pipe Flanges and Flanged Fittings” 
+• ASME B18.2.2 “Square and Hex Nuts (Unified)” 
+• ASME B18.2.4.1M “Square and Hex Nuts (Metric)” 
+AMERICAN INSTITUTE OF STEEL CONSTRUCTION (AISC)  
+• AISC M011 ”Manual of Steel Construction” 
+AMERICAN WELDING SOCIETY (AWS) 
+• AWS D1.1/D1.1M ”Structural Welding Code – Steel” 
+AMERICAN PETROLEUM INSTITUTE (API) / INTERNATIONAL ORGANIZATION 
+FOR STANDARDIZATION (ISO) 
+• API 662 / ISO 15547 "Plate Heat Exchangers for General Refinery 
+Services." / “Petroleum and Natural Gas Industries – 
+Plate Heat Exchangers” 
+ 
+ 
+3. Terms and Definitions 
+ No Addition and Supplement. 
+ 
+ 
+4.  General 
+4.1 (Supplement) 
+ Pressure parts of PHE shall be mechanically designed in accordance with ASME 
+Boiler and Pressure Vessel Code Section VIII Division 1, unless otherwise specified.  
+Structural welding code shall be AWS D1.1/D1.1M, unless otherwise specified. 
+4.2 (Supplement) 
+ Supplier shall comply with the applicable local rules and regulations that are specified 
+in Purchaser’s documents and/or datasheets. 
+4.3* (Addition) 
+  The necessity of ASME certification mark shall be in accordance with data sheet.   
+National Board (NB) registration shall be provided for all PHE, if ASME certification 
+mark is required. 
+4.4* (Addition) 
+ Supplier shall be responsible for all manufacture of PHE, which includes design, 
+supply of all materials, fabrication, inspection and testing, painting, and preparation of 
+shipment are conducted in accordance with all of the applicable codes, standards, 
+local regulations, and Purchaser’s documents. 
+4.5* (Addition) 
+ Supplier shall guarantee all of the thermal, hydraulic and mechanical performance of 
+PHE. 
+ 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  5  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+4.6* (Addition) 
+ UAcceptance of Supplier drawings and data with details which deviate from those 
+shown on Purchaser’s drawings, datasheets or specifications does not 
+constitute acceptance of the deviations.  Supplier shall obtain separate written 
+acceptance from Purchaser for all such deviations prior to submission of 
+drawings and data for Purchaser’s review and acceptance. 
+4.7* (Addition) 
+ Supplier shall submit drawings and data of the type and quantity specified in the 
+“Supplier Drawing and Data Requirements (SDR-2H-PHE)” attached on Purchaser’s 
+Requisition.  Instructions and requirements for Supplier drawings and data are 
+specified in “Supplier Document and Data Requirement (SDR-1)”. 
+ 
+ 
+5. Proposal Information Required 
+5.9* (Addition) 
+ Multi pass design may also be proposed in addition to the single pass design as an 
+alternative case. 
+5.10* (Addition) 
+  The following drawings and documents shall be submitted to Purchaser with Supplier’s 
+quotation as a minimum. 
+(1) Preliminary Datasheets using API 662 Plate & Frame Exchanger Form 
+(2) Preliminary General Assembly Drawing 
+(3) The Detail Construction of Alloy Linings for Connections(Nozzles) 
+(4) Expected Life of the Gasket for the Heat Transfer Plates in operation 
+(5) Minimum required clearance around the PHE for maintenance 
+(6) Information of (1) to (5) above for the Multi-Pass Arrangement Case (Alternative 
+Case), if proposed. 
+ 
+ 
+6. Drawings and Other Data Requirements 
+6.1.5  (Supplement) 
+ See Para.6.1.8 (9) on this specification. 
+6.1.6 (Supplement) 
+ See Para.6.1.8 (6) on this specification. 
+6.1.7*  (Addition) 
+ English and SI unit shall be used for Supplier’s documents, drawings and calculations, 
+unless otherwise specified. 
+6.1.8* (Addition) 
+  All drawings and documents specified in “Supplier Drawing and Data Requirements” 
+(SDR-2H-PHE) shall be submitted to Purchaser after the contract as a minimum.   
+Major documents and drawings to be submitted after the contract are shown as follows. 
+(1) Document List 
+(2) Completed Datasheets using API 662 Plate & Frame Exchanger Form 
+(3) General Assembly Drawing 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  6  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+(4) Detail Drawings 
+(5) Loading Data 
+(6) Strength Calculation (inc. code calculations, support design calculation, nozzle 
+local stress analysis, etc.) 
+(7) Fabrication Procedure (inc. Heat Treatment Procedure(if applicable)) 
+(8) Inspections and Testing Plan(ITP) and Inspection Procedures (inc. NDT 
+Procedures) 
+(9) WPS, PQR and Qualified Welders List 
+(10) Painting and Coating Procedure (inc. Marking Procedure) 
+(11) Packing Procedure (inc. Shipping Drawing) 
+(12) Packing List 
+(13) Supply Parts List 
+(14) Spare Parts List 
+(15) Installation, Maintenance and Operation Instructions (IMOI) 
+(16) Inspection and Testing Reports (inc. Mill Test Certificates for all Pressure 
+Retaining Parts, Dimensional Inspections, NDT Reports, and Hydrostatic Test 
+Reports, etc) 
+(17) Manufacturer’s Data Report (MDR) as specified in Code. 
+(18) Nameplate Rubbings or Photocopy 
+(19) Fabrication Schedule 
+(20) Monthly Status Reports 
+ 
+ 
+7. Design 
+7.1 General 
+7.1.4* (Addition) 
+ PHE shall be designed for the single pass counter flow arrangement, unless otherwise 
+specified. 
+7.1.5* (Addition) 
+ Multiple exchangers of the same size and material either in series or parallel 
+arrangement shall have interchangeable components as much as possible. 
+7.1.6* (Addition) 
+ Wind and earthquake load shall be determined in accordance with the local regulation, 
+Purchaser’s specifications and/or datasheet. 
+7.1.7* (Addition) 
+ PHE with their anchor/setting bolts shall be designed to withstand stresses resulting 
+from load combinations in accordance with, but not limited to, those shown in 
+Paragraph UG-22 of ASME Section VIII Div.1. 
+7.1.8* (Addition) 
+ PHE shall be designed so that those can withstand 50% of design wind load during site 
+hydrostatic test after their installation. 
+7.1.9* (Addition) 
+ For cyclic service, fatigue design shall be performed in accordance with ASME Section 
+VIII Div.2. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  7  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+7.3 Design Pressure 
+7.3.1* (Addition) 
+ When “F.V. (Full Vacuum)” is specified as design pressure, PHE shall be designed to 
+withstand for external pressure of 101.325 kPaG. 
+ 
+7.4 Fouling Margin 
+7.4 (Supplement) 
+ PHE shall be designed with minimum 20% of excess overall heat transfer coefficient as 
+an overall fouling allowance, unless otherwise specified. 
+  
+7.4.1* (Addition) 
+ Wall shear stress shall be calculated and specified in Supplier’s datasheet.  PHE shall 
+be designed so that wall shear stress will be greater than 50 Pa, unless otherwise 
+specified. 
+ 
+7.5 Corrosion Allowance 
+7.5.3* (Addition) 
+ Unless otherwise specified, the following corrosion allowance shall be used. 
+• 3 mm for “Carbon steel” and “Low alloy steel” 
+• 0 mm for “Stainless steel”, “High alloy steel”, and “Non-ferrous materials” 
+ 
+7.6 Components 
+7.6.1 (h)* (Addition) 
+ All plates shall be cold pressed from a homogeneous single metal sheet in one 
+pressing.   Weld plates shall not be used on any heat transfer plate. 
+7.6.1 (i)* (Addition) 
+ Each heat transfer plate shall be permanently marked to identify the type and 
+orientation on the plate pack to avoid miss-assembly. 
+7.6.2 (a) (Supplement) 
+ Stiffeners shall not be used for fixed covers and movable covers. 
+7.6.2 (b) (Supplement) 
+ Covers shall be furnished with slotted holes for tie bolts uniformly distributed around 
+the periphery.   These covers shall be properly designed to retain the bolt loads. 
+7.6.2 (c)* (Addition) 
+ All connections shall be located on the fixed cover for all single-pass PHE. 
+7.6.2 (d)* (Addition) 
+ The cover thickness shall be designed to include all connection’s reinforcement.   
+Reinforcing pad shall not be used on cover plates. 
+7.6.2 (e)* (Addition) 
+ If connections are located on the movable cover, the design should use piping spools 
+which allow for the retraction of the movable cover for maintenance and future addition 
+of new plate. 
+ 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  8  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+7.6.3 (e)* (Addition) 
+ Lock washers shall be provided for all tie-bolts. 
+7.6.4 (c)* (Addition) 
+ The carrying bar and the guide bar shall be made with a single length of material. 
+7.6.6 (Supplement) 
+ Supplier shall provide details of the reaction at the support points. 
+7.6.7 (Supplement) 
+ A metal shroud to protect against spray leak for heat transfer plates shall be provided if 
+required in Purchaser’s specification and/or datasheet, or Supplier recommend to 
+provide it. 
+7.6.8 (Supplement) 
+ A suitable fire protection shroud shall be provided if required in Purchaser’s 
+specification and/or datasheet, or Supplier recommend to provide it. 
+7.6.9 (Supplement) 
+ A drip tray shall be provided if required in Purchaser’s specification and/or datasheet, 
+or Supplier recommend to provide it. 
+ 
+7.7 Connections 
+7.7.1 (Supplement) 
+ Connections shall be bolted and shall be of either studded or flanged design.  
+Studded connections may be used only for the utility (non-process) services with 
+design pressure not exceeding 1,000 kPa(G). 
+7.7.9 (Supplement) 
+ Carbon steel or low alloy steel nozzles NPS 4 and smaller shall be weld overlayed with 
+the same material as heat transfer plates followed by machining if high alloy material is 
+required for nozzles.    Nozzles greater than NPS 4 may be either lined or weld 
+overlayed, unless otherwise specified.    The construction details of alloy linings and 
+connections shall be provided in Supplier’s proposal and approved by Purchaser.  
+7.7.10 (Supplement) 
+ Severe service nozzle loading as shown in Table 2 of API 662 shall be applied, unless 
+otherwise specified. 
+7.7.11* (Addition) 
+ The minimum thickness of nozzle neck shall be as follows. 
+• C.S. and low alloy steels : Sch.160 for NPS 3 and smaller 
+• S.S. and non-ferrous : Sch 80S for NPS 3 and smaller 
+7.7.12* (Addition) 
+ Welded pipe shall not be used for nozzle neck when nominal nozzle size is NPS 8 and 
+smaller.  Welded pipe may be used when nozzle neck size is greater than NPS 8. 
+7.7.13* (Addition) 
+ The minimum requirements for attachment of flanged connections on PHE covers shall 
+be to use partial penetration welding on both the inside and outside of the covers in 
+accordance with ASME VIII-1 UW-16 (j).  When full penetration weld is required, the 
+design shall be of the set-on type in accordance with ASME VIII-1 UW-16 (a) or (b), or 
+set-in type in accordance with ASME VIII-1 UW-16 (c), (d), (e) or (g). 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  9  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+7.7.14* (Addition) 
+ Slip on flanges shall not be used above ASME Class 150 rating. 
+7.7.15* (Addition) 
+ Gasket surface of all connections shall have raised face furnished with 3.2 μm to 6.3 
+μm Ra finish, unless otherwise specified. 
+ 
+7.7.16* (Addition) 
+ Inlet and outlet connections shall be ground flush with the inner edge of the respective 
+cover in accordance with the applicable code. 
+ 
+7.8 Plate Gaskets 
+7.8.6* (Addition) 
+ The type and material of gasket shall be selected by Supplier properly, unless 
+otherwise specified.   The selected gaskets shall be guaranteed by Supplier for a 
+minimum of two years of continuous operation at the design temperature and design 
+pressure without any failure. 
+7.8.7* (Addition) 
+ Material certification shall be submitted for all gaskets. 
+ 
+7.9 Handling Devices 
+7.9.1* (Addition) 
+ Lifting devices shall be of the same P-Number groupings as the part to which they are 
+welded. 
+ 
+7.10* Pressure Bolting for Connections (Addition) 
+7.10.1* (Addition) 
+ Stud bolts with threaded on full length and heavy hex nuts shall be used for 
+pressure bolting, unless otherwise specified. 
+7.10.2* (Addition) 
+ Threads for bolts/nuts shall be as per the followings ; 
+(1) Unified Inch Screw Thread (ASME B 1.1) 
+• 1” and smaller : Coarse Thread Series (UNC) 
+• 1-1/8” and larger : 8 Thread per Inch Series (8UN) 
+(2) Metric Screw Thread (ASME B 1.13M) 
+• M27 and smaller : Coarse Thread Series 
+• M30 and larger : 3 mm Pitch Thread Series 
+ 
+7.11* Supports (Addition) 
+7.11.1* (Addition) 
+ PHE shall be designed as self-supporting unit on a base. 
+ 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  10  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+7.11.2* (Addition) 
+ The allowable concrete bearing stress to be used for the design of base plates shall 
+be as follows ; 
+(1) For long term vertical load : 5.17 MPa 
+(2) For short term vertical load including wind or earthquake load : 8.28 MPa 
+7.11.3* (Addition) 
+ A follower roller or a similar device shall be provided at the movable cover when the 
+weight of the movable cover exceeds 50 kg or Supplier recommend to provide it. 
+ 
+7.12* Anchor/Setting Bolts (Addition) 
+7.12.1* (Addition) 
+ The size of anchor (setting) bolts shall be designed by Supplier properly.   
+Minimum size of anchor (setting) bolts shall be M16, and minimum anchor bolt 
+spacing shall be set at 10 times nominal bolt diameter. 
+7.12.2* (Addition) 
+ 3 mm of diametrical corrosion allowance shall be taken for all anchor bolts.  No 
+corrosion allowance is required for setting bolts, unless otherwise specified. 
+7.12.3* (Addition) 
+ ASTM A-307 Gr.B shall be used as an anchor bolt material in principle.  The 
+maximum allowable stress of anchor bolts shall be 138 MPa based on the root area 
+of the thread (no further increase in stress is allowed for wind/earthquake).  
+ 
+7.13* Special Tools (Addition) 
+7.13.1* (Addition) 
+ A removable protective metal shroud shall be provided when PHE is in flammable or 
+toxic service, or handling of 60 deg.C and higher fluid.  The shroud shall 
+completely cover the top and sides of the plate pack.   A drip tray shall also be 
+provided below the plate pack for the full length of the frame when metal shroud is 
+provided. 
+7.13.2* (Addition) 
+ Earth lug shall be provided for all PHEs in accordance with 9103-D00DS05 
+“Standard Drawings for Vessels, Tanks and Heat Exchangers”. 
+7.13.3* (Addition) 
+ Special tools such as jigs for the dismantling of the plate pack shall be provided by 
+Supplier, if any. 
+ 
+7.14* Performance Design (Addition) 
+7.14.1* (Addition) 
+ PHE shall be designed so that 110% duty can be achieved and pressure drop shall not 
+exceed the allowable value under 110% flow rate, unless otherwise specified. 
+7.14.2* (Addition) 
+ The selection of the plate corrugation style and the combination of heat transfer plates 
+shall be determined by Supplier properly. 
+ 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  11  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+8. Materials 
+8.1  (Supplement) 
+ The material of fixed/movable cover plates shall be SA-516 Gr.60 or 70, unless 
+otherwise specified. 
+8.2 (Supplement) 
+ Non-pressure retaining parts (such as lifting lugs, clips and supports) that are welded 
+directly to pressure parts shall be ASME SA-283 Gr.C, SA-285 Gr.C, or any grade of 
+SA-515 or SA-516, unless otherwise specified. 
+8.5* (Addition) 
+ The material of tie bolts / nuts shall be ASME SA-193 Gr.B7 / SA-194 Gr.2H, unless 
+otherwise specified. 
+8.6* (Addition) 
+ Unless otherwise specified in datasheet, PHE materials shall be selected in 
+accordance with 9103-D00PS01 “Material Selection Pressure Vessels, Heat 
+Exchangers and Tanks”, and those shall also be of ASME Section II. 
+8.7* (Addition) 
+ Heat transfer plate material shall be properly selected by Supplier taking into account 
+of the service fluid.  Metal temperature of the plate during operation and chloride 
+content in the water shall also be considered when PHE is in cooling water service.   
+The recommended material of plate shall be advised by Supplier if the material 
+specified in datasheet is not suitable under the considered service. 
+8.8* (Addition) 
+ Heat transfer plates and inlet/outlet connections shall be Titanium for seawater service, 
+unless otherwise specified. 
+8.9* (Addition) 
+ Carbon content of all welded C.S. parts of PHE shall not exceed 0.30%. 
+8.10* (Addition) 
+ Casting shall not be used for any part of PHE. 
+8.11* (Addition) 
+ The use of the items containing asbestos exceeding 0.1% of the weight is prohibited. 
+8.12* (Addition) 
+ All materials including gasket of heat transfer plates must be clearly identified and 
+provided with legible original or certified true copies of Mill Test Certificates.  Lack 
+of adequate identification and certification shall be cause for rejection. 
+8.13* (Addition) 
+ Supplier is responsible for determining the required charpy impact energy value(s) 
+based on the test temperature specified in the datasheet and the component 
+thickness of PHE. 
+8.14* (Addition) 
+ Impact test temperature for a component of PHE shall be in accordance with 
+applied code and datasheet. 
+8.15* (Addition) 
+ Austenitic stainless steels shall be procured in solution annealed and pickled 
+conditions, unless otherwise specified. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  12  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+8.16* (Addition) 
+ Welding electrodes and rods shall be selected in accordance with 9103-G57GS01 
+“General Welding Requirements”. 
+ 
+ 
+9 Fabrication 
+9.1 Welding 
+9.1.1* General (Addition) 
+9.1.1.1* (Addition) 
+ Fabrication including welding shall not be sublet to others without advance written 
+acceptance of Purchaser. 
+9.1.1.2* (Addition) 
+ Weld metal shall not be used to build up the edges of plates or forgings without 
+advance written acceptance of Purchaser. 
+ 
+9.1.2* Pre-heating (Addition) 
+9.1.2.1* (Addition) 
+ All P-1 material shall be preheated to 100°C minimum. 
+9.1.2.2* (Addition) 
+ It is recommended that preheat temperature shall be determined in accordance with 
+AWS D1.1 Annex I. 
+ 
+9.1.3* Preparation for Welding (Addition) 
+9.1.3.1* (Addition) 
+ Weld edges shall be prepared by machining or automatic oxy-acetylene, followed by 
+grinding.  Shear cutting is allowed only for carbon steel plates thinner than 12 mm.  
+Manual oxy-acetylene cutting is allowed only for nozzles, provided that grinding is 
+subsequently carried out. 
+9.1.3.2* (Addition) 
+ The ripples and the oxides of the weld preparation surface after oxygen-acetylene 
+cutting or air arc gouging operation shall be ground away in order to obtain the 
+bright metal finish. 
+ 
+9.1.4* Welding (Addition) 
+9.1.4.1* (Addition) 
+ Welding shall be in accordance with the applicable code and 9103-G57GS01 
+“General Welding Requirements”.  “Welding Procedure Specification (WPS)”, 
+“Procedure Qualification Record (PQR)”, “Weld Map” and “Weld Repair Procedure” 
+shall be submitted to Purchaser for review prior to start of fabrication. 
+9.1.4.2* (Addition) 
+ All welds, including those for non-pressure parts and attachments (including 
+temporary attachments and shipping attachments), shall be made by welders and/or 
+welding operators in accordance with welding procedures qualified under the 
+provisions of ASME Code Section IX. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  13  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+9.1.4.3* (Addition) 
+ Temporary attachment welds on pressure-retaining parts shall be removed prior to 
+hydrostatic test.  The surface under such welds which have been removed shall be 
+properly conditioned to eliminate surface stress raisers.  Such surfaces shall also 
+be examined by either MT or PT. 
+9.1.4.4* (Addition) 
+ Arc strikes on the pressure-retaining parts shall be minimized.  When they occur, 
+the surface shall be properly conditioned followed by grinding to eliminate surface 
+stress raisers.  Such surfaces shall also be examined by either MT or PT.  Any 
+found defects shall be removed and the surface repaired and re-examined. 
+9.1.4.5* (Addition) 
+ Weld overlay shall be in accordance with the applicable code and 9103-G57GS01 
+“General Welding Requirements” for weld overlay requirements. 
+9.1.4.6* (Addition) 
+ Weld overlay shall be applied circumferentially and it shall be smooth with no 
+notches, flaws, or undercuts that would act as stress raisers.  Small bore nozzles 
+may be overlay welded longitudinally followed by grinding or machining to a smooth 
+surface. 
+ 
+9.3 Surface Finish 
+9.3.2  (Supplement) 
+ All carbon steel and low alloy steel exposed surfaces shall be prepared and painted in 
+accordance with Purchaser's specifications and/or datasheet. 
+9.3.3*  (Addition) 
+ For design temperature 150°C and above, threads of bolts/nuts shall be coated with 
+anti-seize & lubricating compound.  Technical data for anti-seize & lubricating 
+compound to be used on austenitic and high nickel alloy steels shall be submitted to 
+Purchaser for review and acceptance prior to use. 
+9.3.4*  (Addition) 
+ Gasket contact surfaces shall be properly protected from blasting and shall not be 
+coated or painted. 
+9.3.5*  (Addition) 
+  Austenitic stainless steel and nickel-iron-chromium alloy material parts shall be kept 
+free of paints containing zinc to avoid the possibility of embrittlement at elevated 
+temperatures.   All traces of zinc containing paints which spatter on such parts shall 
+be promptly removed. 
+9.3.6*  (Addition) 
+ Marking paint or water insoluble ink for use on austenitic and high nickel alloy steels 
+shall contain no substance (e.g., metallic pigments, lead, sulfur, zinc, cadmium, 
+mercury, chlorine, or any other halogens) which would be harmful to these materials at 
+ambient or elevated temperatures.  Technical data for marking paint or water 
+insoluble ink to be used shall be submitted to Purchaser for review and acceptance 
+prior to marking. 
+9.3.7*  (Addition) 
+ “Painting Procedure” and “Marking Procedure” shall be submitted to Purchaser for 
+review and acceptance prior to painting work. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  14  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+9.4 Assembly 
+9.4.1* (Addition) 
+ Gasket contact surface of each plate shall be thoroughly cleaned with a degreasing 
+solvent and dried before gasket installation. 
+9.4.2* (Addition) 
+ The location and quantities of each type of heat transfer plate shall be confirmed prior 
+to the assembly work to avoid miss-assembly. 
+ 
+ 
+10. Inspections and Testing 
+10.1 Quality Control 
+10.1.1 (Supplement) 
+ Supplier shall establish the organization system to be necessary in the quality 
+assurance and/or quality control. 
+10.1.2 (Supplement) 
+ Unless otherwise specified in Purchaser’s documents, Supplier shall prepare 
+detailed “Inspection and Test Plan (ITP)” and detail procedures in accordance with 
+TABLE-2. 
+10.1.3 (Supplement) 
+ When set-on connections are used on cover plates, the cover plate material shall be 
+ultrasonically examined in accordance with ASME SA-388 before the installation of 
+nozzles.   Acceptance criteria shall be Supplementary Requirement S2 of ASME SA-
+508, unless otherwise specified. 
+10.1.4* (Addition) 
+ Purchaser's inspector is not to be construed as the Authorized Inspector responsible 
+for performing code inspections. 
+10.1.5* (Addition) 
+ Supplier shall provide Purchaser’s Inspector(s) all reasonable facilities to satisfy him 
+(them) that the inspection and testing work is being performed as specified. 
+ 
+10.1.6* Inspection and Testing for Materials (Addition) 
+10.1.6.1* (Addition) 
+ Material inspection and testing shall be performed as required in the applicable code, 
+standard, local regulation and this specification. 
+10.1.6.2* (Addition) 
+ Plate material 50 mm thick or greater shall be ultrasonically examined in accordance 
+with ASME SA-578.   Acceptance criteria shall be Level B of SA-578. 
+10.1.6.3* (Addition) 
+ All forged products whose thickness is 50 mm or greater shall be ultrasonically examined 
+in accordance with ASME SA-388.   Acceptance criteria shall be Supplementary 
+Requirement S2 of ASME SA-508, unless otherwise specified. 
+10.1.6.4* (Addition) 
+ On all surfaces of forgings shall be examined by MT(or PT) after final machining.   
+MT(or PT) shall be performed in accordance with SA-275(or ASTM E-165 for PT) and 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  15  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+acceptance criteria shall be Appendix 6 (or Appendix 8) of ASME Section VIII Div.1. 
+ 
+10.1.7* Inspection and Testing during Fabrication (Addition) 
+10.1.7.1* Chemical Analysis for Weld Overlay (Addition) 
+10.1.7.1.1* (Addition) 
+ Samples of production weld overlay shall be taken to confirm chemical analysis to the 
+required depth (the lesser of 3 mm or 1/2 the specified overlay thickness).    Samples 
+shall be taken as follows to represent both automatic and manual overlay welding prior 
+to final PWHT : 
+(1) Automatic welding : One sample from each overlay welded part/section 
+(2) Manual welding : Two samples from each overlay welded part/section 
+and each overlaid weld seam.  One sample is 
+required for nozzles smaller than NPS 6. 
+10.1.7.1.2* (Addition) 
+ A quantitative chemical analysis shall report all elements for which specific values 
+are given in ASME Section II, Part C. 
+10.1.7.1.3* (Addition) 
+ Acceptance criteria shall be that the deposited overlays have the chemical 
+composition of the applicable filler metal as specified in ASME Section II, Part C.     
+In the case of low carbon grade stainless steels, the carbon content shall not 
+exceed 0.045%. 
+ 
+10.1.7.2* Hardness Test (Addition) 
+10.1.7.2.1* (Addition) 
+ Brinell hardness test shall be performed on weld metals and HAZ for the following 
+PHEs with portable macro hardness testing instrument.  Hardness test shall be 
+performed after PWHT, if PWHT is required. 
+ (1) PHEs made of P-1 Gr.1, 2, 3 materials for the following service 
+• Caustic soda service 
+• Amine service 
+• Boiler deaerator service 
+• Wet H2S service 
+ (2) PHEs made of P-1 Gr.4, P-3, P-4, P-5, P-6 or P-7 materials  
+10.1.7.2.2* (Addition) 
+ Hardness test shall be done on inside surface when inside surface is not clad or 
+overlay welded.    Hardness test shall be done on outside surface when inside 
+surface is clad, or overlay welded. 
+10.1.7.2.3* (Addition) 
+ Frequency and location of hardness test shall be as follows. 
+(1) 1 reading from each nozzle to cover plate weld and HAZ 
+(2) 1 reading from each butt weld and HAZ for pressure parts, if any 
+ 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  16  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+10.1.7.2.4* (Addition) 
+ Hardness shall not exceed the value specified in TABLE-1. 
+ 
+TABLE-1.  Maximum Brinell Hardness 
+Material P Number Maximum Brinell Hardness 
+P-1 Gr.1, 2, 3 200 
+P-1 Gr.4 250 
+P-3, P-4 225 
+P-5 235 
+P-6, P-7 240 
+10.1.7.2.5* (Addition) 
+ “Equotip” is not accepted for production weld hardness test without advance written 
+acceptance from Purchaser. 
+ 
+10.1.7.3* Visual Inspection (Addition) 
+10.1.7.3.1* (Addition) 
+ All external and internal surfaces of weld joints shall be visually inspected.  Any 
+injurious defect on inside and outside surface such as cracks, scratches, abrasions, 
+dents and local unevenness of surface is not acceptable. 
+ 
+10.1.7.4* Dimensional Inspection (Addition) 
+10.1.7.4.1* (Addition) 
+ Unless otherwise specified, tolerances shall conform to the requirements of the 
+applicable code, standards, or FIG.1 on this specification whichever is most stringent. 
+10.1.7.4.2* (Addition) 
+ Minimum 5 % of heat transfer plates shall be dimensionally inspected after cold 
+pressing for each plate type.   Actual thickness after cold pressing shall not be less 
+than the specified minimum thickness in code calculation. 
+  
+10.1.7.5* Non-Destructive Testing (NDT) (Addition) 
+10.1.7.5.1* (Addition) 
+ Minimum 5 % of heat transfer plates shall be PT examined after cold pressing for each 
+plate type.   Any indication shall not be acceptable. 
+10.1.7.5.2* (Addition) 
+ MT (or PT) shall be performed for all nozzle to cover plate connections and all 
+structural attachment welds on pressure retaining parts in accordance with Article 7 
+(Article 6 for PT) of ASME Sect. V.  The acceptance criteria of MT(or PT) shall be 
+Appendix 6 (Appendix 8 for PT) of ASME Sect. VIII Div.1. 
+ 
+ 
+10.1.7.6* Positive Material Identification (PMI) (Addition) 
+10.1.7.6.1* (Addition) 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  17  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+ PMI shall be performed for all materials and weld deposits except for C.S. in 
+accordance with 9103-G40QC10 “Positive Material Identification (PMI)”. 
+ 
+10.1.7.7* Repairs of Defective Welds (Addition) 
+10.1.7.7.1* (Addition) 
+  Welds with defective areas shall have : 
+(1) The defect removed 
+(2) Confirmation of defect removal by MT or PT examination 
+(3) Repair welding using qualified welding procedures 
+(4) Re-postweld heat treatment if originally required. 
+10.1.7.7.2* (Addition) 
+  The finished weld-repair shall be radiographed if originally required, and the surface 
+shall be re-examined by MT (or PT). If the repair involves any alterations, the 
+acceptance of Purchaser shall be obtained before proceeding with the repair. 
+10.1.7.7.3* (Addition) 
+ Record of major repair shall be retained and included in quality control dossier. The 
+extent of major repair and repair procedure is confirmed at pre-inspection meeting. 
+ 
+10.2 Hydrostatic Test 
+10.2.1 (Supplement) 
+ The hydrostatic test shall be separately applied to the hot side and to the cold side 
+with atmospheric pressure on the other side.   In addition, both hot side and cold 
+side test pressure shall be applied on PHE simultaneously. 
+10.2.2 (Supplement) 
+ Test pressure shall be kept for a minimum 1 hour for each test case. 
+10.2.6* (Addition) 
+ Pneumatic test instead of hydrostatic test is not acceptable, unless otherwise 
+specified. 
+10.2.7* (Addition) 
+ Protective metal shroud shall be removed during hydrostatic test. 
+ 
+10.3 Name Plates and Stampings 
+10.3.5* (Addition) 
+ All PHEs shall be furnished with a stainless steel nameplate in accordance with 
+9103-D00DS05 “Standard Drawings for Vessels, Tanks and Heat Exchangers”. 
+10.3.6* (Addition) 
+ The code nameplate as specified in Paragraph UG-119 in ASME Section VIII Div.1  
+shall be provided when certification mark is required. 
+10.3.7* (Addition) 
+ Nameplate shall be 1 mm minimum thickness and made with Type 304 stainless 
+steel. 
+10.3.8* (Addition) 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  18  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+ Nameplate shall be installed on the bracket which is designed so that the nameplate 
+can project at least 10 mm beyond the external insulation.      The nameplate 
+bracket is not required when PHE is not externally insulated. 
+10.3.9* (Addition) 
+ The nameplate bracket shall be continuously welded on the fixed cover plate, and 
+positioned not to collect moisture or rain. 
+10.3.10* (Addition) 
+ The manufacturer's serial number shall be stamped on the nameplate. 
+ 
+10.4* Inspection and Test Plan (Addition) 
+10.4.1* (Addition) 
+ Due date of “Notification for Inspection” shall be finalized at PIM. 
+10.4.2* (Addition) 
+ For the Hold and Witness point, Supplier shall notify to Purchaser in writing at least 
+10 working days in advance of any shop testing planned. 
+10.4.3* (Addition) 
+ When a change of the inspection date notified occurs, Supplier shall immediately 
+notify to Purchaser of the revised inspection date by writing. 
+ 
+10.5* Inspection and Test Records (Addition) 
+10.5.1* (Addition) 
+ Unless otherwise specified in individual requisition, Supplier shall submit applicable 
+inspection and test reports as specified on TABLE-3. 
+10.5.2* (Addition) 
+ Unless otherwise specified in individual requisition, the quantity of inspection and 
+test reports shall be finalized at PIM. 
+10.5.3* (Addition) 
+ Unless otherwise specified, inspection and test reports shall be gathered and 
+submitted by each item number. 
+ 
+10.6* Rejection (Addition) 
+10.6.1* (Addition) 
+ Completed PHEs, parts of PHEs, or materials containing defects originating with 
+Supplier's design, materials, or workmanship, or that are not in complete compliance 
+with the requirements of the Order will be rejected. 
+10.6.2* (Addition) 
+ Discovery of rejected conditions, after inspection and acceptance of PHE by Purchaser, 
+does not relieve Supplier of responsibility to comply with the Order. 
+ 
+11. Preparation for Shipment 
+11.1 (Supplement) 
+ PHE shall be cleaned and all openings shall be sealed before shipment. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  19  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+11.5* General (Addition) 
+11.5.1* (Addition) 
+ Supplier is responsible for ensuring that the shipped PHEs are adequately 
+reinforced, and shall provide temporary supports where appropriate to ensure 
+adequate supporting of PHEs during shipment.  All ends that will be open during 
+shipment shall be covered to prevent ingress of dirt and other foreign matters.  
+Supplier shall advise Purchaser of the method of protection for review and 
+acceptance. 
+11.5.2* (Addition) 
+ Export packaging, marking and shipping shall be in accordance with 9103-
+G45GS01 “General Packing Instructions” and 9103-G50GS01 “Shipping 
+Instructions”. 
+ 
+11.6* Internal Protection (Addition) 
+11.6.1* (Addition) 
+ Thoroughly dry the internal surface of PHE for both sides.   Thoroughly purge PHE 
+with dry air so that relative humidity inside PHE is less than 40% at the lowest 
+ambient temperature likely to be experienced in shipping and storage. 
+11.6.2* (Addition) 
+ Nitrogen blanketing shall be used during transportation or periods of storage at the 
+construction site.   To apply nitrogen blanketing, pressurize PHE to 0.4 MPaG with 
+nitrogen and bleed down to 0.05 MPaG. 
+11.6.3* (Addition) 
+ Necessary valves and pressure gauges shall be provided for each side of nozzles. 
+11.6.4* (Addition) 
+ The following warning tags shall be provided for each valve of nitrogen purge. 
+ 
+ 
+ 
+ 
+11.6.5* (Addition) 
+ Other preservation products or methods such as desiccant or volatile corrosion 
+inhibitor may be applied with the prior written acceptance of Purchaser. 
+ 
+11.7* External Protection (Addition) 
+11.7.1* (Addition) 
+ PHEs shall be fully wrapped with Polyethylene sheets so that austenitic and high 
+nickel alloy steels used in PHEs shall not be exposed to wetting by salt water or salt 
+spray during transportation. 
+ 
+11.7.2* (Addition) 
+ All machined surfaces and threaded surfaces, except gasket contact surface shall 
+be coated with heavy grease.  Technical data for heavy grease to be used on 
+austenitic and high nickel alloy steels shall be submitted to Purchaser for review 
+WARNING 
+NITROGEN FILLED - NOT TO BE OPENED 
+WITHOUT THE CONSENT OF PURCHASER 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  20  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+and acceptance prior to use. 
+11.7.3* (Addition) 
+ Each tie bolt shall be furnished with a plastic sleeve to protect it from the environment. 
+11.7.4* (Addition) 
+ All flanges, furnished with permanent cover flanges, shall be secured with the gaskets 
+and bolting specified for service. 
+11.7.5* (Addition) 
+ All flanged openings, not furnished with permanent cover flanges, shall be protected 
+and made waterproof with 6 mm minimum thickness steel covers and 3 mm thick 
+rubber gaskets between the flange face and cover.  These steel flange covers shall 
+be tightened with full number of bolts. 
+11.7.6* (Addition) 
+ All flanged connections shall be covered with heavy-duty plastic bags securely 
+taped to the nozzles. 
+11.7.7* (Addition) 
+ All temporary cover plates shall be painted with yellow. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  21  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+TABLE-2.   Inspection and Testing Plan (ITP)  (For Reference) 
+Abbreviation 
+Owner : Per Individual Requisition 
+KHI : Kawasaki Heavy Industries, Ltd. 
+MOM : Minutes of Meeting 
+R : Review of Record SW : Spot Witness 
+W : Witness H : Hold Point  
+- : Not Perform O : Submit Record 
+E : Execute by manufacturer / Sub-Supplier 
+Inspection and Test Item 
+Inspection by 
+Record Remarks 
+Owner KHI Supplier 
+MEETING      
+1. Pre-Inspection Meeting - H E MOM  
+       
+MATERIAL      
+1. Material Certificate R R E O  
+2. Identification Raw Marking R SW E O As Built Sketch 
+3. NDE(PT) of Material R R E O Incl. UT of thicker plates and forgings 
+4. Visual / Dimension - SW E O  
+5. Positive Material Identification (PMI) R SW E O When PMI is required. 
+       
+PRE-FABRICATED 
+PARTS      
+1. Visual / Dimension of Pre-fabricated Parts - SW E O Heat Transfer Plates 
+2. NDE of Pre-fabricated Parts R SW/R E O Heat Transfer Plates 
+       
+WELDING      
+1. Material Certificate for Welding Consumables R R E O  
+2. WPS / PQR / Weld Map R R E O To be submitted prior to 
+welding 3. New PQR R SW E O 
+4. Welder & Welding Operator Qualification R R E O 
+Welder & Welding 
+Operator List 
+5. Fit-Up Inspection - SW E -  
+6. NDE of Edge Preparation R SW/R E O  
+7. Monitoring of Welding - SW E -  
+8. Back-Chipping Inspection - SW E O MT (or PT), if applicable 
+9. NDE (RT/UT/MT/PT) R SW/R E O In case of RT, Films to be reviewed. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  22  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+Abbreviation 
+Owner : Per Individual Requisition 
+KHI : Kawasaki Heavy Industries, Ltd. 
+MOM : Minutes of Meeting 
+R : Review of Record SW : Spot Witness 
+W : Witness H : Hold Point  
+- : Not Perform O : Submit Record 
+E : Execute by manufacturer / Sub-Supplier 
+Inspection and Test Item Inspection by Record Remarks Owner KHI Supplier 
+10. Visual / Appearance - SW E -  
+11. Heat Treatment R R E O When required (Heat Treatment Chart) 
+12. Hardness Test R SW E O When required 
+13. Production (Impact) Test R SW E O When required 
+14. Ferrite Check for S.S. Weld R SW E O When required 
+15. PMI R SW E O When required 
+16. Chemical Analysis for Overlay Weld R SW E O When required 
+       
+ASSEMBLY      
+1. Visual / Appearance SW SW E O  
+2. Dimensions SW W E O  
+3. Assembly - SW E O  
+4. Hydrostatic Test W H E O  
+5. Cleaning Check - SW E -  
+6. Painting / Coating R W E O  
+7. Nitrogen Gas Purge - SW E -  
+8. Marking Inspection - W E - Tag, Accessories 
+9. Nameplate R SW E O  
+10. Final Inspection Report R R E O  
+11. Inspection of Quantities SW W E - Packing List 
+12. Packing Inspection SW W E - Packing List 
+Note 1. Based on this Inspection Plan along with the requisition, datasheets and drawings or other 
+documents in the requisition package, Supplier shall issue the detailed “Inspection and 
+Test Plan” and get acceptance by Purchaser before starting of any inspection. 
+ 2. Spare parts and special tools, when required, will be subject to the above inspection items 
+as applicable. 
+ 3. Above “Inspection and Test Plan” does not include the Authority Inspection required by 
+Code, Regulation, etc. 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  23  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+TABLE-3.   Required Inspection and Test Records 
+No. Name of Inspection and Test Records KHI to Owner 
+Supplier 
+to KHI 
+(1) Certificate of Compliance issued by Supplier O O 
+(2) 
+Material Certificate with Material Table 
+(Pressure Retaining Parts and Non-Pressure Retaining Parts 
+which are directly welded on Pressure Retaining Parts) 
+O O 
+(3) Material Certificate with Material Table (Non-Pressure Retaining Parts not mentioned in (2) above) O O 
+(4) Record of Cutting of Plates  O 
+(5) NDE Records of Materials O O 
+(6) Inspection and Test Records for Prefabricated / Preformed Parts O O 
+(7) Qualified Welder(s) List with their Certificate O O 
+(8) WPS and PQR O O 
+(9) Records of Welding Conditions  O 
+(10) NDE Records of Welding O O 
+(11) Qualified NDE Examiner(s) & Operator(s) List with their Certificates  O 
+(12) Production Test Record O O 
+(13) Records of Chemical Analysis for Weld Overlay O O 
+(14) Records of Positive Material Identification O O 
+(15) Dimensional Inspection Records in Numerical O O 
+(16) Visual Inspection Records O O 
+(17) Records of Heat Treatment with Charts including PWHT O O 
+(18) Pressure Test Records O O 
+(19) Records of Painting and Coating O O 
+(20) Rubbing of Nameplate O O 
+(21) List of Measurement Instruments used at the Shop Test  O 
+(22) Repair Records and Re-Inspection Records O O 
+(23) Non-Conformity Report / Concession Report O O 
+    
+ 
+ 
+KAWASAKI HEAVY INDUSTRIES, LTD.  
+  9103-H10DS01- R0 
+SUPPLEMENT SPECIFICATION FOR API662 /  
+ISO15547 PLATE HEAT EXCHANGRES 
+ PAGE  24  0F  24 
+CHEMICAL PLANT 
+DEP  DATE  2014.09.18 
+ 
+FIG-1.  Standard Fabrication Tolerances 
+ 

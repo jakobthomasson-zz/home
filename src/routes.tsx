@@ -1,7 +1,7 @@
-import * as React from 'react';
 import { RouteProps } from 'react-router-dom';
 import TopAnimePage from 'src/pages/TopAnime';
 import HomePage from 'src/pages/Home';
+import Pdf2TextPage from 'src/pages/Pdf2Text';
 
 export interface IRoute extends RouteProps {
   title?: string;
@@ -20,10 +20,10 @@ const routes: IRoute[] = [
     exact: false,
     component: TopAnimePage,
   }, {
-    title: 'Try hard',
-    path: '/tryhard',
+    title: 'PDF to Text',
+    path: '/pdf2text',
     exact: false,
-    component: () => <div>tryhard</div>,
+    component: Pdf2TextPage,
   },
 ];
 

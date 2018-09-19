@@ -1,0 +1,3585 @@
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 1/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+A 26 JUN 18 ISSUE FOR INQUIRY S.G. JEONG T.K.KIM J.S.AHN
+REV. DATE
+(DD MMM YY)
+STATUS WRITTEN BY
+(name & visa)
+CHECKED BY
+(name & visa)
+APPROV./AUTHOR. BY
+(name & visa)
+DOCUMENT REVISIONS
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+PARTICULAR TECHNICAL SPECIFICATION 
+FOR
+PLATE AND FRAME HEAT EXCHANGER
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 2/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+INDEX
+                                                                               Page
+1. GENERAL OUTLINE 3
+1.1. Language 3
+2. OBJECT 3
+2.1. Documents Priority 3
+3. SCOPE OF SUPPLY 4
+3.1. Inclusions 4
+3.2. Exclusions: 6
+3.3. Sub Supplier List 6
+4. GUARANTEES 6
+5. SPECIFIC REQUIREMENTS 6
+5.1. General 6
+5.2. Design: 7
+5.3. Additional Requirements to Base Metal 11
+5.4. Additional Requirements for Production 11
+5.5. Schedule of Main Data 12
+5.6. Additional Technical Agreements 13
+6. LIST OF DEVIATIONS TO APPLICABLE SPECIFICATIONS 13
+7. INSPECTIONS AND TESTS 13
+8. QUALITY MANAGEMENT SYSTEM REQUIREMENTS 14
+8.1. Job Organization 14
+8.2. Design Quality Control 14
+8.3. Job Quality Plan 14
+9. QUOTATION INFORMATION 15
+9.1. The following information, documents and drawings shall be provided along with of the 
+technical offer: 15
+10. SPARE PARTS 16
+10.1 Construction, Start-up and Commissioning Spares. 16
+10.2 Two Years Operating spares. 17
+10.3 Capital Spares. 17
+11. CONSUMABLES ALSO NAMED OPERATING MATERIALS 17
+12. SPECIAL TOOLS 17
+13. SUPPLIER SPECIALIST ASSISTANCE 17
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 3/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+1. GENERAL OUTLINE
+Bahrain Petroleum Company b.s.c. (closed) (BAPCO) awarded to TTSJV a Joint 
+Venture among Technip U.S.A., Technip Italy, Tecnicas Reunidas and Samsung 
+Engineering a LSTK Contract for the execution of the BMP expansion program.
+The TTJVS will be led by a JV Directorate that will be in charge for all Procurements 
+activities for the Joint Venture.
+The BMP expansion program Scope of Work will allow the Bapco Refinery throughput 
+to increase from 267 up to 380 thousand barrels per day and enhance the overall slate 
+of products with the introduction in the Refinery of High Conversion units. The above 
+Scope of Work will be obtained through the Engineering, Procurement, Construction, 
+PC&C, start-up and initial operation up to Provisional Acceptance Certificate (PAC) of a 
+certain number of Grass Root Plants and revamping of existing plants in brown field 
+area.
+1.1. Language
+The official language for the Project is ENGLISH.
+2. OBJECT
+This specification defines the specific technical requirements for the design, materials 
+selection, extent of supply, fabrication, inspection, testing and preparation for shipment 
+of PLATE AND FRAME HEAT EXCHANGER.
+The material requisition (MR) for PLATE AND FRAME HEAT EXCHANGER defines 
+the contractual basis between the PURCHASER and the SUPPLIER. It is the list of 
+applicable contractual documents for the purchase order.
+The scope of supply is defined in the SR Part I while in the SR document Part II are 
+listed the documents and drawings to be issued by the SUPPLIER.
+The scope of supply is detailed in the present particular specification and data sheets 
+and/or duty specification issued by PURCHASER as attachment of MR.
+This document, in combination with the applicable industry standards, project 
+standards, technical specifications and specific data-sheets referenced herein and in 
+the Material Requisition, outlines the requirements for the supply of the PLATE AND 
+FRAME HEAT EXCHANGER, as described in the scope of supply.
+ 
+2.1. Documents Priority
+In case of conflict among MR, Project specifications, Standards and codes, the 
+following order shall govern:
+ Local laws applicable to the place of installation.
+ This Particular Technical Specification
+ Equipment Data Sheets
+ Project Specifications and Standards
+ International Codes and Standards
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 4/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+3. SCOPE OF SUPPLY
+The supply shall include all the items and services with all the appurtenances and 
+accessories (internal and external) shown on the attached drawings, sketches, 
+specifications, standards, requested in this specification and/or necessary for testing, 
+shipment, operation and maintenance 
+3.1. Inclusions
+The SUPPLIER shall include in his supply the services and materials/accessories listed 
+below:
+- Services:
+ Detail mechanical design of the equipment (for all parts included in the 
+supply) to ASME Section VIII Div.1 Ed.2017, API662 Ed.2006 (R 2011), and
+in accordance with Data Sheet, Mechanical Drawing and Project Specification.
+ Thermal and hydraulic design
+ Thermal and performance guarantee
+ Mechanical guarantee
+ Pressure calculation (design pressure / hydrostatic test pressure)
+ Loading data for foundation design.
+ Detailed engineering and drawings including weights of components and 
+total weight of the equipment (including insulation supports and fireproofing 
+clips etc.).
+ Drawings for transportation and lifting
+ As-built Drawings and Data Sheets. (Data Sheets as per BAPCO forms)
+ Completion of Safety instruction Sheet (SIS) as per BMPS-A17 instruction 
+and enclosed SIS format “BMPS-SF-E-286 SAFETY INSTRUCTION SHEET 
+- SHELL AND TUBE HEAT EXCHANGERS)
+ Shell local calculation with WRC 297 or 537 as applicable for nozzles and 
+any other loaded external attachment
+ Finite Element Analysis (FEA) according to design codes or specifications if 
+required for nozzle loads validations which are not covered by WRC 297 or 
+537
+ Stability check (including transport, lifting, hydrostatic test and other load 
+combinations specified in BMPS-C2) 
+ Anchor bolts design and load verification
+ Procurement of all the materials that are necessary for the manufacturing of 
+the heat exchangers
+ Procurement management and coordination
+ Fabrication of equipment
+ Preparation of WPS and PQR (new PQRs, if necessary) in accordance with 
+Project specification
+ Post weld heat treatment
+ PMI test
+ Hydrostatic test
+ All required inspection and tests as per Code, Data Sheet, Project
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 5/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+Specification
+ External surface preparation and finishing cycle as per BMPS-B5
+(including accessories such as shroud and drip tray made of Stainless Steel)
+ Internal surface cleaning and preparation
+ Acid pickling and passivation for welded or damaged parts of stainless steel 
+surfaces for plate pack and cladding part.
+ Packing, marking, preservation and identification of equipment and materials
+ N2 purging
+ Warranty and technical assistance during warranty period as per amended 
+Commercial Conditions
+ Delivery and transportation as per general purchase conditions
+ Quality Assurance Plan and Quality Control
+ Documentation and Drawings as per 000-E-SOW-80006-001 Part 2
+ Inspection, test activities and certificates as indicated in 000-E-ITP-80006-
+001
+ Packing and preservation for shipping (refer also to PTC-604)
+- Material / Accessories
+ Equipment proper (Pressure and non-pressure parts, including supports, 
+nozzles, nozzle flanges, internal and external attachments, etc.)
+ Internals and external accessories according to specifications and data 
+sheets
+ Frame (Fixed cover, movable cover, upper and lower carrying bars, closure 
+Bolts, carrying bar support column)
+ All parts directly welded to equipments 
+ Plate pack
+ Protective shroud, if any
+ Liner plate for installation
+ Nameplates and its support brackets
+ Earthing / grounding lugs
+ Insulation support clips
+ 4 Lifting eyes for single point lift. 
+ Temporary blind flanges with gaskets and fasteners for hydrostatic test and 
+for transportation.
+ N2 purging with all relevant accessories
+ All necessary devices for transportation (refer also to PTC-604)
+ All required protection for transportation (refer also to PTC-604)
+ External surface preparation and finishing cycle as per relevant specification
+- Spare parts for Construction, pre-commissioning commissioning and start up, 2 
+year operation as per paragraph 10
+ Spare for Commissioning and Start up
+- Inter-plate gasket : 5% (Min. 2 sets)
+- Tightening bolts, nuts and washer : 5% (Min. 4 sets)
+ Spare for 2 year operation
+-   Vendor recommendation for Inter-plate
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 6/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+-   Vendor recommendation for Inter-plate gasket
+-   Vendor recommendation for Tightening bolts, nuts and washer
+3.2. Exclusions:
+The following are not included in the supply:
+ Foundations and Grouting
+ External insulation material and work
+ Anchor bolts (designed and submitted by exchanger SUPPLIER with detail of 
+reaction)
+3.3. Sub Supplier List 
+3.3.1. The SUPPLIER shall follow Extract from Approved Vendor List for the supply of PLATE 
+AND FRAME HEAT EXCHANGER. SUPPLIER may propose additional Vendors 
+subjected to COMPANY/PURCHASER review and approval.
+4. GUARANTEES 
+For guarantee requirements see the Particular Terms & Conditions PTC-601.
+5. SPECIFIC REQUIREMENTS
+5.1. General
+Equipment shall be designed, fabricated and tested in accordance with the notes of this 
+document and all the specifications herein mentioned and/or listed in the 000-E-MRQ-
+80006-001.
+Any ambiguity or contradiction between the notes of this document and the 
+attachments of 000-E-MRQ-80006-001 shall be submitted by SUPPLIER, in writing for 
+PURCHASER’s resolution.
+For any part of the supply not covered by the 000-E-MRQ-80006-001 and its 
+attachments SUPPLIER shall submit his standards for PURCHASER review.
+Unless otherwise specified in the deviation list the proposal is deemed fully in 
+compliance with the requirements of this material requisition.
+PURCHASER shall in no way be entitled to discover exceptions to the job spec. which 
+SUPPLIER may unintentionally have considered in its proposal.
+If these exceptions have not been included in the above deviation list and approved by 
+PURCHASER before the order award, they will not be deemed valid even if shown on 
+a drawing approved by PURCHASER, and shall not be considered a base for future 
+claims by SUPPLIER.
+It is SUPPLIER responsibility to:
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 7/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+a) ask for any documents called for in the attached documents, which PURCHASER 
+may unintentionally have omitted to mention in the Material Requisition.
+b) comply with any other effective local laws or code, and to bring to the attention of 
+the PURCHASER, in writing, any requirement of the applicable technical 
+specifications in conflict with them for a resolution by the PURCHASER.
+5.1.1. Specifications and procedures contain language that could imply that certain 
+standards, specifications and practices are discretionary; where the words such as 
+“will“, “may“, or “should“ appear in the standards, procedures and / or  documentation 
+attached to the Material Requisition, these shall mean and be interpreted as “shall“ by 
+SUPPLIER except if previously agreed by PURCHASER at Bid Stage.
+5.1.2. The word “shall” is to be understood as mandatory.
+5.2. Design:
+5.2.1. The basic process design is performed by CONTRACTOR (i.e. design data, main 
+dimensions, main material classes).
+5.2.2. The SUPPLIER is responsible for detail design of the equipment. SUPPLIER has to 
+confirm thicknesses, weights and loads, and is fully responsible for the design. 
+Increasing of equipment thickness and re-design of nozzles reinforcements according 
+to applicable codes, specifications and piping loads shall not involve any extra-price.
+5.2.3. The design of the plate and frame heat exchangers shall be according to the data 
+sheet latest revision shown in 000-E-MRQ-80006-001. Overdesigns shall be considered 
+as indicated in the data sheets. The SUPPLIER shall provide full performance data for 
+each of the specified cases to confirm that all specified process and mechanical design 
+requirements will be met. SUPPLIER shall provide a complete Equipment Data Sheet 
+within the technical bid.
+Safety Instruction Sheet is completed for each exchanger and submitted to the 
+PURCHASER for approval prior to commencement of exchanger fabrication.
+5.2.4. After placement of the Purchase Order, SUPPLIER shall send Technical Specifications 
+conform to the requirements indicated in applicable documents for this Project. These 
+requirements apply to all the materials required for pressure components for heat 
+exchangers and where CONTRACTOR considers it appropriate.
+5.2.5. Wind Design
+Wind load will be calculated in accordance with the following data:
+Basic wind speed 120 mph
+Importance factor (I) N/A ASCE 7-10
+Exposure C
+5.2.6. Earthquake Design: Seismic loads not applicable for this project
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 8/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+5.2.7. Number of pack (equipment) per unit to be optimized by SUPPLIER considering 
+properly work at three specified cases.(Design, Operating,  HUB1 on Data sheet) and 
+considering the provision of one additional spare pack(equipment) per unit (N+1 
+Philosophy). No single unit to be considered unless strictly necessary.
+5.2.8. Foundation Anchor Bolts 
+The SUPPLIER shall validate the size and number for anchor Bolts shown in the 
+mechanical drawing.
+The allowable loads for the sizing of the anchor bolts must comply with the material 
+specify in the process data sheet and mechanical drawing.
+For the Anchor bolts design, the following stresses shall be as follow:
+Allowable Stress for F1554 Grade 36 (up to M48)
+• Allowable tensile stress: 19290 psi (133MPa)
+• Allowable shear stress: 9573 psi (66MPa)
+Allowable Stress for F1554 Grade 105 (M56 include and over)
+• Allowable tensile stress: 41625 psi (287MPa)
+• Allowable shear stress: 20740 psi (143MPa)
+5.2.9. The SUPPLIER shall guarantee the thermal performance and mechanical design of the 
+plate and frame heat exchanger, when operated at the design conditions specified on 
+the completed Data Sheet which has been approved by the PURCHASER, for a period 
+extending for one year after the unit is placed in operation in the specified service or 
+eighteen months after date of shipment, whichever is the shorter, unless the 
+PURCHASER otherwise specifies.
+5.2.10. The SUPPLIER shall further guarantee the plate and frame heat exchanger against 
+defective material and workmanship for two years after placement in service or thirty 
+months after date of shipment, whichever is the lesser period. The SUPPLIER shall 
+repair or replace, without costs to the PURCHASER, any parts found defective within 
+that period
+5.2.11. All carbon steel and low alloy steel bolts and nuts shall be PTFE fluoropolymer coating 
+suitable for normal operating temperature of the equipment.
+5.2.12. Nozzles shall be lined or constructed of solid material as specified on the data sheet.
+Nozzle liner material shall be the same material used for the plates. 
+Vendor shall provide liner details for Purchaser review and acceptance prior to the start
+of fabrication.
+5.2.13. Slip-on flanges and studded connections shall not be allowed.
+• Set-on type nozzles with full penetration welds shall be used in most cases.
+Set- through type nozzles with partial penetration welds shall not be used.
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 9/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+• When specified, a partial set-in nozzle configuration with full penetration welds 
+shall be used.
+5.2.14. Gasketed plates wider than 900 mm (36 in.) or taller than 1800 mm (72 in.) shall not be
+less than 0.7 mm (0.028 in.) nominal thickness prior to pressing. 
+ 
+Plate shall be pressed from a single metal sheet in one pressing.
+5.2.15. Plate-and-frame heat exchangers shall be designed using the fouling margin specified
+      on the data sheet. A minimum fouling margin of 10% shall be provided. 
+The additional area needed to account for the fouling margin shall be provided with
+additional plate height and shall not be achieved by adding plates.
+5.2.16. Maximum liquid velocities through inlet and outlet ports shall not exceed the following:
+• 8.5 m/s (28 ft/sec) for clean fluids
+• 4.6 m/s (15 ft/sec) for fluids containing solids.
+5.2.17. Each lifting eye shall be capable of supporting the weight of the entire unit.
+5.3. Additional Requirements to Base Metal
+5.3.1. The material shall comply with relevant certificates per European Standard EN10204, 
+3.1 type, for the following parts, unless otherwise required by MR or local Authority:
+• All pressure retaining parts.
+• All elements directly welded on pressure parts.
+• Welding Consumables
+• All alloy steel and non-ferrous material.
+For all others remaining parts certificate 2.2 is required.
+5.3.2. All carbon steels which are to be welded shall have chemistry restrictions as follows:
+• C = 0.25% max
+• C + Mn/6 = 0.41% max
+5.4. Additional Requirements for Production
+5.4.1. All WPSs developed specifically for the Purchaser shall be reported on Standard Form 
+‘BMPS-SFA-635 Weld Procedure Specification and Qualification Record’ and 
+submitted for the Purchaser’s approval, prior to carrying out the procedure qualification 
+tests.
+5.4.2. For ferritic alloy pressure parts greater than 38mm (1-1/2 in) thick, and for heavy wall 
+carbon steel pressure vessels to ‘BMPS-C2’, final hydrotesting shall not be carried out 
+until two days after PWHT.
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 10/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+5.4.3. A minimum of 10% of plates from each heat of material shall receive liquid penetrant 
+examination.
+5.4.4. UT shall be performed on the completed joint.
+Nozzle bore and completed nozzle to cover plate welds shall be 100% magnetic particle
+inspected (MPI) both pre and post hydrotest
+5.5. Schedule of Main Data
+5.5.1. Considering the SUPPLIER fabrication schedule agreed and in particular:
+• The main material availability (plates or main forgings) within (**) Weeks after 
+PO.
+• Start-up of nozzle marking within (**) Weeks after PO.
+• Start-up of internals support welding within (**) Weeks after PO.
+It is CONTRACTOR responsibility to define the below listed information as follows:
+• Process Nozzles elevation within (**) months after PO
+• Instrument Nozzle elevation within (**) months after PO
+• Nozzle orientation within (**) months after PO
+• Nozzle sizes definition (for nozzles in hold only) within (**) months after PO
+It is intended that nozzles elevation indicated in documents attached to the 000-E-
+MRQ-80006-001, are valid for material procurement even if indicated in Hold.
+Any clashing will be solved and agreed between parties.
+5.5.2. SUPPLIER & CONTRACTOR mutually agreed that modifications to nozzles orientation 
+will be accepted without cost nor delivery impact even after the agreed deadlines, 
+provided that construction activities already executed are not impacted (e.g., nozzles 
+opening not fabricated yet etc.).
+5.5.3. Contrary to any requirement on applicable documents attached to 000-C-MRQ-80007-
+001, but in fully compliance with contractual agreements, SUPPLIER shall consider in 
+the preparation of fabrication schedules and definition of contractual delivery dates 
+that:
+• All documentation with or without comments from CONTRACTOR will be 
+returned back within (**) weeks from SUPPLIER official transmission.
+• Material procurement may start, at the sole responsibility of the SUPPLIER, as 
+soon as Purchase order is confirmed. 
+• Any fabrication activity may start when relevant documents have been at least 
+approved with comments by CONTRACTOR, provided that comments are 
+incorporated. 
+(**) To be defined during technical negotiation meeting
+5.6. Additional Technical Agreements
+(to be agreed during technical negotiation meeting)
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 11/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+6. LIST OF DEVIATIONS TO APPLICABLE SPECIFICATIONS 
+SUPPLIER is requested to prepare a list of amendments (if any) to the job 
+documentation attached to the material requisition 000-E-MRQ-80006-001.
+List of amendments shall be issued by SUPPLIER for PURCHASER resolution at Bid 
+stage using the DL form (000-E-IDL-80006-001) attached to the Material Requisition. 
+Unless otherwise specified in the deviation list the proposal is deemed fully in 
+compliance with the requirements of this material requisition
+7. INSPECTIONS AND TESTS 
+The minimum extent of inspection activities by PURCHASER (approval and/or review 
+of documents, random and/or complete inspection of material, spot and/or complete 
+witnessing of tests) is specified in the “Inspection and Test Plan” 000-E-ITP-80006-001 
+attached to the material requisition 000-E-MRQ-80006-001.
+A Third Party Inspection Agency can be named by the Company and entitled to witness 
+the inspections and tests on behalf of the Company.
+Supplier shall provide at no cost all necessary assistance, instruments, equipment and 
+energy to perform the inspection activities by the Company/PURCHASER’s inspector.
+All welding and testing procedures shall be submitted to PURCHASER for approval 
+before start of relevant activity.
+Company/PURCHASER reserves the right to witness the final tests by means of their   
+Inspectors and to inspect all materials and/or equipment during the working phase in 
+the Manufacturer’s and Sub Suppliers workshop.
+8. QUALITY MANAGEMENT SYSTEM REQUIREMENTS
+SUPPLIER shall establish, implement and maintain a Job Quality Management system 
+based on ISO 9001 or equivalent standard, in order to ensure that the requirements of 
+this Purchase Order are met. 
+SUPPLIER shall establish suitable control mechanisms to ensure quality in all work 
+processes from inquiry, order, design and development, to final delivery. All necessary 
+quality records shall be maintained for evidence of performing the works as per 
+Procedures.
+SUPPLIER shall establish and implement QA/QC management in Sub Supplier’s 
+premises wherever outsourcing is done.
+Whenever non-conformity is detected by SUPPLIER or by others, SUPPLIER shall 
+ensure that the Non-conforming product is segregated, in order to prevent unintended 
+use, and suitable corrective action shall be taken without any delay.
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 12/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+8.1. Job Organization
+SUPPLIER’s management, organization and resources shall be adequate for the 
+fulfilment of his commitments defined in the Purchase Order. SUPPLIER shall submit 
+details of his Job organization and Job execution scheme to PURCHASER for review.
+8.2. Design Quality Control
+SUPPLIER shall take all necessary measures to avoid mistakes, errors and omissions; 
+and make the necessary checks to avoid inconsistencies with other project documents 
+or interferences between the various elements designed.
+8.3. Job Quality Plan 
+When required in the SOW Part II List of Documents and Drawings Supply, SUPPLIER 
+shall issue a Job Quality Plan to be approved by PURCHASER. This plan (refer to ISO 
+10006) shall describe SUPPLIER organization, SUPPLIER execution scheme, 
+procedures & methods, resources, quality control, document control, design control, 
+delivery control, for the specific job to comply with the contractual requirements and 
+with ISO 9001 (or equivalent standard) requirements.
+9. QUOTATION INFORMATION 
+9.1. The following information, documents and drawings shall be provided along with of the 
+technical offer:
+List of documents
+SUPPLIER shall provide a complete and detailed list of the documents (with 
+schedule) that will be provided in case of purchase order. This list shall be in 
+accordance with the requirements of SR-part II.
+Guarantees
+SUPPLIER shall clearly indicate in its quotation the performances and associated 
+guarantees of the PLATE AND FRAME HEAT EXCHANGER 
+(process and mechanical guarantees).
+General arrangement drawing
+SUPPLIER shall provide a preliminary general arrangement drawing with sizes, 
+weights and material of main components.
+Options
+SUPPLIER shall clearly indicate the OPTIONS SEPARATELY.
+List of references
+SUPPLIER shall provide a list of references indicating proven references of similar 
+supply operating at similar process conditions. Any previous experience with 
+COMPANY/CONCTRACTOR shall be submitted.
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 13/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+Quality Control Plan
+SUPPLIER shall provide a preliminary Quality Control Plan with the quotation.
+Preliminary Packing list and transportation drawing
+SUPPLIER execution plan
+The following topics should be addressed in and/or appended to SUPPLIER's 
+execution plan:
+ Place(s) of implementation of design, fabrication, and sub-supply fabrication. 
+(i.e. heads forming, nozzle weld overlay, etc)
+ Sub-contracting, if any, of design and drawing production and of fabrication.
+ Provisional time schedule for main sub-orders placement, which may affect 
+design progress and contractual documentation issuance.
+Forecast fabrication program and delivery time.
+Engineering, Procurement and Fabrication schedule
+List of proposed Sub Suppliers for main material and equipment
+included in the supply including source of raw materials and
+consumables
+Quotation
+Price shall be, as a minimum requirement, broken down as follow
+ Material for equipment proper (main & consumable each)
+ Manufacturing
+ Construction, pre-commissioning commissioning and start-up Spares
+ Inspection & test
+ Items stipulated in request for quotation and condition of purchase
+Specification including in quotation
+ Completed Equipment Data sheets EXH-DS-4870
+ Outline drawings with the design conditions, materials, thickness and loading 
+data including net weight, nozzle schedule and overall dimension
+ Required anchor bolt number and size
+ Mesh size of filtering element considering clearance between plates.
+ Exceptions to the specifications;
+ Proposed coating system (including accessories such as shroud and drip tray 
+made of Stainless Steel);
+ Recommended gasket material and associated gasket life expectancy for the
+operating conditions and fluid composition specified on the data sheet;
+ Detailed description of proposed lifting and handling devices.
+ Spare part list
+ Inspection & test plan
+ Vendor`s catalogue & technical brochure
+ Workshop load
+ Total Shipping Volume (CBM) and weight
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 14/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+Options
+SUPPLIER shall clearly indicate the OPTIONS SEPARATELY.
+ Spare parts for 2 years operation based on industry standards and SUPPLIER 
+experience
+ Separate price for shroud, drip tray
+ Separate price for Glue-on Gasket case and Clip on type gasket case.
+ Alternative proposals (SUPPLIERS are strongly encouraged to submit 
+alternative proposals that can make any cost advantage without quality 
+deterioration. These proposals will be highly evaluated in selection of 
+successful SUPPLIER)
+BOM for Anchor Bolt (Material Supply by PURCHASER)
+10. SPARE PARTS
+10.1 Construction, Start-up and Commissioning Spares. 
+SUPPLIER Shall list, according to its experience, the spare parts and assemblies 
+needed during the construction, pre-commissioning and start-up period, including; 
+hydro testing, cleaning, flushing, and inspection prior to commissioning. These spares 
+shall be quote and shall be part of the Purchase Order and shipped with the original 
+equipment. 
+10.2 Two Years Operating spares. 
+SUPPLIER shall list, according its experience the two years operation spare parts of 
+the equipment, plus any planned maintenance replacements which fall within that 
+period. Two Year Operational Spares (subject to the Owner’s prior approval) will be 
+procured by the PURCHASER as a reimbursable item included in a Provisional.
+Recommended 2-Years Operational Spares shall be submitted by SUPPLIER to 
+PURCHASER Owner for review, in Owner’s SPIL (Spare Parts Interchangeability List) 
+format.
+It is important that package Sub Suppliers shall include spares for auxiliary Mechanical, 
+Electrical and Instrumentation equipment associated with the main equipment. 
+Two years operational spares shall be quoted by SUPPLIER with their bids for the 
+main equipment. Quotation will be valid for 24 months.
+SUPPLIER shall ensure that two year operational spares are shipped well in advance 
+of pre-commissioning dates of the relevant equipment. 
+10.3 Capital Spares.
+Not Applicable. 
+11. CONSUMABLES ALSO NAMED OPERATING MATERIALS
+SUPPLIER shall quote any consumable materials that are required for the 
+commissioning and continuous operation of the facility, and are consumed in the 
+Project N° Unit Document Code Serial N° Rev. Page
+076551C 000S SP 0660 001 A 15/15
+BAPCO Doc. No.: 000-E-GRD-80006-001
+BAPCO MODERNIZATION PROGRAM
+SAMSUNG ENGINEERING Co., LTD. – GEC Sangil-ro 6gil 26,Gangdong-gu, SEOUL, KOREAThe
+ p
+re
+se
+nt
+ d
+oc
+um
+en
+t o
+r d
+ra
+w
+in
+g 
+is
+ p
+ro
+pe
+rty
+ o
+f T
+H
+E
+ B
+A
+H
+R
+A
+IN
+ P
+E
+TR
+O
+LE
+U
+M
+ C
+O
+M
+P
+A
+N
+Y
+ B
+.S
+.C
+. (
+C
+LO
+S
+E
+D
+) (
+B
+A
+P
+C
+O
+) a
+nd
+ s
+ha
+ll 
+no
+t, 
+un
+de
+r a
+ny
+ c
+irc
+um
+st
+an
+ce
+s,
+ b
+e 
+to
+ta
+lly
+ o
+r p
+ar
+tia
+lly
+, d
+ire
+ct
+ly
+ o
+r i
+nd
+ire
+ct
+ly
+, t
+ra
+ns
+fe
+rr
+ed
+, r
+ep
+ro
+du
+ce
+d,
+ c
+op
+ie
+d,
+ d
+is
+cl
+os
+ed
+ o
+r u
+se
+d,
+ w
+ith
+ou
+t i
+ts
+ p
+rio
+r w
+rit
+te
+n 
+co
+ns
+en
+t, 
+fo
+r a
+ny
+ p
+ur
+po
+se
+ 
+an
+d 
+in
+ a
+ny
+ w
+ay
+ o
+th
+er
+ th
+an
+ th
+at
+ fo
+r w
+hi
+ch
+ it
+ is
+ s
+pe
+ci
+fic
+al
+ly
+ fu
+rn
+is
+he
+d 
+or
+ o
+ut
+si
+de
+ th
+e 
+ex
+te
+nt
+ o
+f t
+he
+ a
+gr
+ee
+d 
+up
+on
+ ri
+gh
+t o
+f u
+se
+.
+normal course of, commissioning, and operations and, therefore, require periodic 
+replenishment. 
+12. SPECIAL TOOLS
+SUPPLIER shall quote any special tools and devices required for installation and 
+setting up of equipment during construction and pre-commissioning phase, and those 
+required for their future maintenance during normal operation of Plant. In addition, the 
+scope of supply shall also include the necessary software and laptops required for 
+configuring the system and equipment.
+13. SUPPLIER SPECIALIST ASSISTANCE
+SUPPLIER shall quote on Lumpsum Basis the Site assistance services for installation / 
+construction, pre-commissioning, commissioning and start-up.
+As part of the offer the SUPPLIER shall provide the schedule for site activities for which 
+is required the assistance and shall specify if the assistance will be provided by 
+Expatriate Specialist or local SUPPLIER Specialists.
+SUPPLIER to inform if special tools are required for installation / construction, pre-
+commissioning, commissioning and start-up.

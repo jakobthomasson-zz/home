@@ -1,0 +1,679 @@
+ Page     1   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+VENDOR’S PROPOSAL FOR EQUIPMENT AND/OR MATERIALS SHALL BE IN STRICT ACCORDANCE WITH 
+CONDITIONS STATED IN THIS REQUISITION AND ANY ATTACHED DOCUMENTS. EXCEPTIONS, DEVIATIONS 
+AND ALTERNATIVES WILL BE VALID ONLY IF APPROVED IN WRITING BY PURCHASER. ARTICLES MARKED 
+WITH “X” HEREUNDER ARE APPLIED AS CONDITIONS OF THIS REQUISITION. 
+ 
+ 
+1. Name of Client : PTT GLOBAL CHEMICAL 
+  
+2. Plant and Location : PTTGC Branch 2 and Branch 3, Map Ta Phut 
+ Industrial Estate, Rayong, Thailand 
+ 
+ 
+3. Equipment and/or Materials Inquired 
+ 
+Item No. Description Q’ty (units) 
+ 
+Plate & Frame Heat Exchanger 
+(Please see equipment list) 
+2 
+TOTAL 2 Units 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+        
+0 2-Sep-16 For  Inquiry Sekson W     
+REV. DATE DESCRIPTION MADE BY CHECKED MGR PEM PM 
+ Page     2   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+4. Documents Attached to this Requisition 
+ 
+Engineering Specifications and documents referred to in Table 1 LIST OF APPLICABLE ENGINEERING 
+SPECIFICATIONS AND/OR DOCUMENTS shall form an integral part of this REQUISITION.  
+ 
+Table 1:  LIST OF APPLICABLE ENGINEERING SPECIFICATIONS AND/OR DOCUMENTS 
+Doc. No. Rev. Title Pages Remarks 
+<Data Sheet > : Attachment-1 : Refer to Equipment List   
+~ ~ SHORT SPECIFICATION FOR HEAT 
+EXCHANGER   
+<Engineering Specification> : Attachment-2   
+GCEP-GN-003 F2 BASIC ENGINEERING DESIGN DATA 32  
+GCEP-GN-006 F1 EQUIPMENT PRESERVATION 12  
+GCEP-PP-004 F1 INSULATION 108  
+GCEP-PP-005 F3 PAINTING 37  
+GCEP-PP-008 F1 WELDING 22  
+GCEP-PP-013 F2 PIPE STRESS ANALYSIS (PARTIAL) 2  
+GCEP-EE-017 F2 CATHODIC PROTECTION SYSTEMS 26  
+GCEP-CS-002 F2 DESIGN LOAD AND CRITERIA 28  
+GCEP-CS-012 F2 STRUCTURAL STEEL DESIGN FABRICATION AND ERECTION 23 
+ 
+GCEP-SE-012 F2 MATERIAL CERTIFICATION AND POSSITIVE MATERIAL IDENTIFICATION 17 
+ 
+GCEP-SE-006 F3 UNFIRED PRESSURE VESSEL 57  
+GCEP-SE-005 F3 PALTE HEAT EXCHANGERS 14  
+- - APPROVAL VENDOR LIST BULK MATERIAL (PARTIAL) 16 
+ 
+- - P&ID 1  
+ 
+<Project Procedure> : Attachment-3 
+ 
+ 
+~ 0 Vendor Print Handing Procedure Later  
+~ 0 Project Coordination Procedure Between TTCL and Vendor Later 
+ 
+~ 0 General Packing and Marking Procedure Later  
+~ 0 Shop Inspection Procedure Later  
+~ 0 Shop Inspection and Test Plan Later  
+   Total Later  
+ 
+ 
+ 
+ Page     3   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+5. : Documents to be Submitted with Vendors Quotation 
+  
+5.1 : General 
+  
+All documents and drawings shall be written in English and be submitted in one original and two copies. 
+All documents and drawings shall state the name of Client (end user), Job No., Req. No., Item No. and the 
+name of the equipment and/or materials. 
+ 
+5.2 : Pricing Structure 
+ 
+ Price shall be broken down as follows; 
+ (x) Equipment proper with accessories as specified in attached specification sheets 
+  - Design & Engineering cost, including documentation. 
+ 
+ - Equipment cost 
+- Material Cost 
+- Fabrication cost 
+  - Inspection and test. 
+  - Painting and Cleaning cost 
+  - Special tools for erection, operation and maintenance 
+ 
+(x) Seaworthy Export Packing and Transportation up to CIF Learm Cha Bang port, Thailand (for Off-
+shore vendor) 
+ (x) Domestic Packing and transportation based on DDU at JOB site (for On-shore vendor)  
+ The following items shall be quoted separately.  
+ (x) Spare parts for Commissioning ( Recommended by Vendor ) 
+ (x) Spare parts for Two (2) year operation ( Recommended by Vendor ) 
+ (x) 
+(x) 
+(x) 
+(x) 
+(  ) 
+Third Party inspection  
+PMI examination of alloy materials and welds (Option) 
+ASME Code Stamp (Option) 
+Nitrogen purging for transportation 
+Unit price (per Kg) of Platform and Ladder (Galvanized with Painting, Grating type, including design 
+drawing and fabrication) 
+ 
+5.3  Specifications and Information 
+  
+Vendor shall submit the specification and information shown below; 
+ (x) Detailed scope of supply and work 
+ (x) General assembly drawing for each item including; 
+  - Design condition and Technical description 
+  - Material construction for each part 
+  - Utility consumption information 
+  - Weight, empty weight and total weight full water 
+   - Thickness of pressure-retaining parts 
+ 
+(x) 
+(x) 
+   Civil Information including Loading Data, Anchor Bolt Plan. 
+   Outline drawing 
+ (x)    Delivery condition and schedule. 
+ (x) Terms and Condition of payment. 
+ (x) Vendor’s reference 
+ (x) Catalogue / company profile 
+ (x) Deviations or alternatives, if any. 
+ (x) Potential sub-vendor list for forging, plate and pipe material used for pressure part (Note 1) 
+ (x) Potential sub-vendor list for head forming and other manufacturing to be sublet (Note 1) 
+ (x) Overall manufacturing schedule 
+ (x) List of recommended spare parts for Commissioning with price, if required. 
+ (x) List of recommended spare parts for Two (2) year operation with price 
+ 
+(x) Preliminary estimation of net and gross shipping weights of each piece of equipment (including 
+packing for shipment, if any) and the overall dimensions of each packing 
+   
+ Note 1: Purchaser has the right to reject sub-vendor, if his capability is judged poor or not proven. 
+ Page     4   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+6. Scope of Supply and Work 
+ 
+6.1   Scope of Supply 
+ 
+(x) Equipment proper with support and accessories 
+(  ) Internals indicated on Assembly drawings or Equipment specification sheets. 
+(x) Foundation bolts/nuts or Setting bolts/nuts  
+(x) Name plate and its support 
+(x) Stainless steel earth lugs (min. two (2) per each item) 
+(x)  Lifting lug or lifting hole for installation / handling (min. two (2) lugs per item) 
+(  )   Sliding plate for slide side 
+(  )   Platform, Ladder and Handrail (Option unit price per Kg), (Galvanized with Painting, Grating type) 
+(  )   Painting material for platforms, Stair ways, ladders, ladder Cages, stair trades, safety gates and handrails 
+shall be hot dip galvanized 
+(  )   Lug for Platform, Ladder and Handrail 
+(x)   Insulation and/or fire protection support, if required 
+(x)   Expansion Joint, if required. 
+(  )   Jack bolt, Dowel pin, Pulling eye-bolt and plug for removable tube bundle 
+(  )   Test ring for removable tube bundle type or floating head type heat exchanger  
+           (x)   Painting material for Carbon steel and Stainless steel part as per project specification 
+(x) Stainless Steel parts, all surfaces shall be cleaned and welded seams shall be pickled and passivated 
+(  )   Personal protection sheet, if required 
+(x)   Shroud  
+(x)   Dip Tray  
+(x) Fittings for transportation including ; 
+(x) Steel covers for nozzle opening, bolts/nuts min. 4 sets and gaskets with plastic wrap for shipping 
+(x) Wooden box or crate for transportation 
+(  ) Cradle  
+(  ) Lifting beam and/or spread bar, if necessary  
+(x) Wooden belts for sling the exchangers  
+(x) Others as per specification or vendor’s standard, if no specification is provided 
+(x) Special tools and fittings for site assembling, if necessary 
+(x) Spare parts necessary for commissioning (Option : Separately quoted) 
+(x) Plate Gasket : Recommended by Vendor 
+(x) Spare bolt/nut and gaskets : Recommended by Vendor 
+(x) Others  : Recommended by Vendor 
+(x) Spare parts for 2-years operation (Option : Separately quoted) 
+(x) Plate Gasket : Recommended by Vendor 
+(x) Spare bolt/nut and gaskets : Recommended by Vendor 
+(x) Others  : Recommended by Vendor 
+ 
+6.2   Scope of Work 
+ 
+(x) Design (performance, strength calculation and detail design) including documentation 
+(  )   Design drawing and fabrication of platform and ladder (Option unit price per Kg) 
+(x)   Code calculation for all pressure retaining parts 
+(x)   Structural calculations for internals, lifting lugs, and transportation fitting 
+(x)   Stability check of heat exchanger and support for wind/seismic load 
+(x)   Stability check of heat exchanger and support at transportation loading & unloading and erection 
+(x)   Strength calculation under hydrostatic test condition at shop/site 
+(x)   Local stress analysis at shell around attachment such as lifting lug/tailing lugs, saddle for shop hydrostatic 
+test and transportation etc. 
+(  )   Flow induced vibration of bundle when specified 
+(x) Workmanship guarantee 
+(x) Materials procurement 
+(x) Manufacturing 
+(x) Inspection and test at shop (Non Destructive Examination (NDE)) 
+(x)   Post weld heat treatment, if required 
+(x)   PMI (Positive Material Identification) 
+ Page     5   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+(x)   Local stress analysis around nozzle by WRC 107/297 and indicated in your Drawing 
+(x) Painting for Carbon Steel and Stainless Steel as per project specification  
+(x) Primer coat (x) Intermediate coat (x) Final coat 
+(x) Chemical cleaning for stainless steel parts 
+(x)   Rust prevention of internals proper for transportation and storing as per specification or vendor standard,   
+if not specified 
+(  ) Filling VPI (Volatile Phasing Inhibitor) as per Specification. 
+(  ) Filling desiccant (Silica gel) 
+(x) Nitrogen (N2) charge at 0.4 Kg/cm2 with valve and two (2) pressure gauge (Option : Separately quoted) 
+(x)   ASME Code stamp (Option : Separately quoted) 
+(  ) Supervising at site for installation of internals at site 
+(x) Third Party Inspection (Option : Separately quoted) 
+(x) For offshore vendor  
+(x)   Seaworthy export packing  
+(x)   Transportation up to CIF, Leam Cha Bang port, Thailand 
+(x)   Export customs clearance 
+(x)   To obtain any export license or other official authorization for exportation 
+(x)   For onshore vendor 
+       (x)   Transportation up to DDU at job site, excluded of unloading to equipment foundation at job site  
+ 
+6.3 Out of Scope (Purchaser’s Supply) 
+ 
+(x) All site erection work 
+(x) Instrumentation 
+(x) Insulation material 
+(x)   Fire protection material 
+(x)   Civil work (concrete foundation) 
+ 
+7. Deviation from Purchaser’s Requirements 
+ 
+Vendor’s proposal shall be in strict conformity with Purchaser’s requirements.  Unless exceptions, deviations 
+or alternatives are clearly identified or listed in Vendor’s proposal, the requirements and conditions in this 
+requisition shall be deemed to be accepted by Vendor. 
+ 
+7.1 Deviation of Design Code 
+ 
+ Deviation of design code is ; 
+ (  ) Not accepted 
+(x) Accepted if such deviation reduces the price and/or fabrication schedule of the inquired items. However, 
+design code shall be limited to; 
+(x) Any local design rule  
+(  ) ASME Sec. VIII Div. 2 
+(  ) BS5500 
+(  ) AD Merkablatt 
+ 
+7.2 Deviation of Construction Material Code 
+ 
+ Deviation of material code is ; 
+(x) Not accepted 
+(  ) Accepted if such deviation reduces the price and/or fabrication schedule of the inquired items. Vendor 
+shall issue the evidence to provide the equivalency of alternative material along with the quotation. 
+Design code shall be limited to; 
+(  ) Any material code  
+(  ) BS Code 
+(  ) DIN Code 
+(  )    JIS Code 
+ 
+ 
+ Page     6   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+8. Documents Required after Purchase Order 
+ 
+8.1 General 
+ 
+8.1.1 All documents and drawings shall state the name of Client (end user), TTCL’s Job No., Req No.,    
+             Item No. and description of the equipment and/or material. 
+8.1.2 All documents shall be written in English language. 
+8.1.3 Documents shall be submitted in the following number of sets: 
+ 
+For Information:                  1 Original 4 Copies 
+For Approval/Review  1 Original 4 Copies 
+For Final / Final   1 Original 4 Copies with 2 Sets of CD (Note: 2)  
+Inspection/Test Record   1 Original 4 Copies 
+ 
+ 
+ Note 2: All equipment’s drawings (Electronic file), submitted for Final rev. and/or As built, shall be   
+ generated on CAD software. All Equipment’s document (Electronic file), submitted for Final rev., 
+shall be required & generated on Microsoft program. 
+8.1.4 The following units shall be applied as the measurement system in all aspects; 
+ 
+(  ) Metric and Celsius unit 
+(x) SI unit 
+(  ) Refer to specification (              ) 
+(x) Inch and pound system for pipe size and pressure temperature rating as exception 
+ 
+8.2 Documents Required and Schedule 
+ 
+8.2.1 All documents shall be furnished and arrive at Purchaser’s office in accordance with the following conditions 
+as specified in the attached List of Documents Required : 
+ 
+(1) Technical documents; 
+ (x) as specified in the attached List of document/drawing required and schedule 
+ (  ) as informed later 
+ 
+ (2) Documents related to manufacturing progress and shipping schedule including; 
+ Issue within weeks  
+- Vendor organization 2 weeks after P/O 
+- Overall manufacturing schedule 2 weeks after P/O 
+- Suborder list with sub-vendors 4 weeks after P/O 
+- Monthly progress report (cut-off date 20th) 
+- Vendor Print Index & Schedule (VPIS) 
+at 22th of each month 
+2 weeks after P/O 
+ 
+(3) Documents related to inspection 
+ Issue within weeks  
+- Overall Inspection Schedule 4 weeks after P/O 
+- Monthly Inspection progress report 
+ (cut-off date 20th) 
+at 22th of each month 
+- Application for inspection and test; 2 weeks before test 
+- Inspection / Test Record; 1 week after final inspection 
+ 
+(4) Documents related to packing and shipment ; 
+ Issue within weeks  
+- Perform packing list 2 weeks prior to shipment 
+- Application of packing inspection; 1 weeks prior to shipment 
+ 
+ 
+ 
+ 
+ 
+ Page     7   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+8.2.2 Approval of Vendor’s Documents 
+ 
+The documents to be approved by Purchaser shall be submitted with a mark “For Approval”. 
+one (1) copy of such documents will be returned to Vendor after Purchaser’s stamping with either 
+“Approved”, “Approved as Noted” or “Not Approved” within two (2) weeks from the receipt. 
+ 
+“Approved as Noted” means: Vendor shall revise the documents in accordance with Purchaser’s 
+comments, and shall resubmit them within two (2) weeks from the receipt. Unless otherwise specified, 
+Vendor may proceed with manufacturing work subject to incorporation of the comments.  
+ 
+“Not Approved” means: Vendor shall revise the documents and drawings in accordance with 
+Purchaser’s comments, and shall resubmit them within two (2) weeks from the receipt. Manufacturing shall 
+not be proceeded at this stage 
+ 
+8.2.3 Return 
+ 
+TTCL will return to the Vendor, within (2) weeks after receiving Vendor print, one (1) copy of each Vendor 
+print submitted, on which TTCL’s checking result and/or comments will indicate. 
+ 
+Vendor print will be returned with specifying TTCL’s check results on VPCS using the following 
+abbreviation while definite comments will be specified in each Vendor print 
+a) “AP” which means that the Vendor print was approved by TTCL. Vendor shall submit the Vendor print 
+in Final Vendor Print with the stamp as “FINAL”. 
+b) “AN” which means that the Vendor Print was approved as note and/or with comments. Vendor shall 
+correct/revise the Vendor Print according to TTCL note and/or comments and submit it as “FOR 
+APPROVAL” by the date specified. 
+c) “NA” which means that the Vendor Print was not approved. Vendor shall correct /revise and re-submit 
+the Vendor Print as “FOR APPROVAL” by the date specified. 
+d) “NR” which means the Vendor Print was received and will not be returned. No comment is there in the 
+Vendor Print. 
+ 
+8.2.4 Action required by Vendor on receiving returned Vendor Print 
+ 
+a) When Vendor Print is approved (AP): 
+Unless otherwise specified by TTCL, Vendor should proceed with manufacturing work, using the 
+Vendor Print returned from TTCL. 
+ 
+b) When Vendor Print is Approved as note (AN): 
+Vendor shall correct/revise the Vendor Print in accordance with TTCL’s notes and/or comments, and 
+shall re-submit it within two (2) weeks after its return as “FOR APPROVAL”. Unless otherwise 
+specified by TTCL, Vendor should proceed with manufacturing work, using the Vendor Print returned 
+from TTCL and following TTCL’s notes and/or comments. 
+ 
+In case Vendor does not agree with TTCL’s notes and/or comments, Vendor shall inform TTCL thereof 
+with justifiable reasons within one (1) week after their return. 
+In case such dis-agreement notice is not made within this one (1) week period, TTCL notes and/or 
+comments will be considered as accepted by Vendor and should be followed. 
+ 
+c) When Vendor Print is not approved (NA): 
+Vendor shall correct/revise the Vendor Print in accordance with TTCL’s instructions, and shall re-
+submit it as “FOR APPROVAL” within two (2) weeks after its return. Unless otherwise specified by 
+TTCL, Vendor shall not proceed with the manufacture at this stage. 
+ 
+d) Vendor Print “FOR REVIEW” and “FOR INFORMATION” 
+Vendor Print “FOR REVIEW” and “FOR INFORMATION” submitted to and returned by TTCL shall 
+not be construed to have any influence on the start of manufacture by Vendor submit the Vendor Print 
+as “FOR APPROVAL” by the date specified. 
+ 
+e) “NR” which means the Vendor Print was received and will not be returned. 
+No comment is there in the Vendor Print. 
+ Page     8   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+9. Inspection and Tests 
+ 
+  Inspection and tests shall be made by Vendor in accordance with; 
+ 
+(x) Requirements specified in this requisition and/or  Engineering Specifications attached hereto 
+(  ) Vendor’s proposed procedure approved by Purchaser. 
+ 
+ 
+10. Technical Coordination Meeting 
+ 
+After the order is awarded, Vendor shall, upon receipt of Purchaser’s notice, send a sufficient number of 
+qualified personnel to Purchaser’s office at vendor’s cost to hold the technical coordination meeting(s) 
+according to the follow schedule: 
+ 
+Kick-Off Meeting                    :   (   ) day(s) after (   ) week(s) of Purchase Order  
+    at TTCL’s head office  
+Design Clarification Meeting  :    
+ 
+ 
+11. Guarantee 
+ 
+The Vendor shall guarantee (Mechanical & Performance Guarantee) that the equipment supplied by the 
+Vendor conforms to the Purchaser’s specification, are new and of the best quality of their respective kinds, 
+are free from faulty design, workmanship and material for a period of Twenty-four (24) months after delivery 
+or Twelve (12) months after plant commercial operation date. 
+ 
+In case of any proven defect originating with the design, material or workmanship, the Vendor shall bear on 
+its own account for all expense aroused from repair or replacement as requested by Purchaser to permit the 
+equipment to perform in accordance with the Purchaser’s specifications. Should the Equipment or any parts 
+thereof be repaired or replaced to fulfill the foregoing guarantee, the Vendor shall renew the guarantee period 
+of that repaired or replaced parts, which is Twelve (12) months from the complete repaired or replacing date. 
+ 
+ 
+12. Penalties 
+ 
+All liquidated damages are applicable on the total price of the Purchase Order including amendments. 
+ 
+12.1 For supply of major documents 
+In case of failure to meet the supply date; 
+- Liquidated damages of 0.5% for each complete week of delay, up to maximum of 5% of the final 
+Purchase Order amount will be charged to the Vendor. 
+ 
+12.2 For supply of equipment 
+In case of late delivery the following liquidated damages shall apply; 
+- 0.5% of the Purchase Order amount for each complete week of delay, up to a maximum of 5% of the 
+total Purchase Order amount. 
+ 
+The totally liability of the Contractor for Liquidated damages for late completion of work and non-fulfillment 
+of performance guarantees in aggregate shall not exceed fifteen (15%) of the total contract price. 
+ 
+ 
+13. General Marking and Packing Instruction 
+ 
+Packing shall be performed according to our “General Packing and Marking Instruction Standard”, which 
+attach in this Requisition. 
+ 
+Manufacturer’s standard packing can also be considered for economical reason, but should be approved by 
+Purchaser / TTCL. Spare parts shall be packed separately 
+ 
+ Page     9   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+14. Shipping Instruction 
+ 
+Vendor shall prepare and submit all necessary shipping document as per TTCL’s shipping instruction to be 
+attached to this Requisition 
+ 
+The rental cost or incurred expanse will be charged to Vendor does not follow TTCL’s shipping instruction 
+ 
+15.     Others 
+ 
+Unless otherwise stated in the specification, data sheet and / or formal sketch, the under mentioned shall be 
+complied. 
+ 
+15.1. The thickness and weights indicated in the datasheet’s are indicative only. It is the seller’s responsibility and 
+must be verified in calculations to be submitted by the successful bidder. The seller is responsible for the 
+adequacy of all components to meet the requirements of the specification, of applicable codes, and of good 
+engineering practice. 
+ 
+15.2. Material Certification shall be as a minimum in accordance with ISO 10474 or EN 10204 type 3.1 
+ 
+15.3. Exchanger shall be designed for the Fouling Resistance as specified in Data sheet. Unless otherwise 
+specified, minimum Fouling Resistance shall be considered in accordance with API 662/ISO 15547 part 1. 
+ 
+15.4. Carbon and Carbon Manganese Steels shall be supplied in the Normalized or Normalized and Tempered 
+Condition. 
+ 
+15.5. Minimum Corrosion Allowance of 3.5 mm shall be applied for Carbon Steel parts. 
+ 
+15.6. Minimum thickness of Plate before pressing shall be 0.6 mm nominal. 
+ 
+15.7. All Inlet and Out let Connections shall be Flanged Nozzle.  
+ 
+15.8. Carbon Steels that are to be welded shall comply with the following requirements : 
+ 
+ 
+ 
+15.9. Forged materials in Low Carbon Steels shall have the Carbon Content limited to 0.23 percent and be Heat 
+Treated in the Normalized condition. Marking “N” on the material is required. To denote material is 
+normalized. 
+ 
+15.10. Flanges used for nozzle shall be in accordance with ASME B16.5 and B16.47-Series B. Flanges shall have a 
+Raised Face in accordance with ASME B16.5. 
+ 
+15.11. All bolting threads used for all parts shall be ANSI Unify thread system. 
+ 
+15.12. Tensile stress of anchor bolts shall not exceed 120 N/mm2 based on thread root area. 3mm of corrosion 
+allowance shall be added on thread root diameter. 
+ 
+15.13. Vendor has to recommended size and embeds length of foundation / setting bolt during engineering stage. 
+ 
+15.14. Where fiber elongation exceed 5% cold form head of stainless steel and carbon steel solution annealing heat 
+treatment and PWHT shall be performed. 
+ 
+15.15. All solid plate and forging thickness 50 mm and over shall be examined by UT 
+ 
+ 
+ Page     10   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+15.16. The minimum nozzle size, including vents, drains and auxiliary connections shall be 1-1/2 inch.    
+2 inch nozzles and below shall be stiffened with at least two gusset plate. 
+ 
+15.17. The minimum nozzle neck thickness for carbon steel and low alloy materials are as follow. 
+2” N.B. and Below Long weld neck 
+3” N.B. to 8” N.B. SCH 80 
+Above 8” N.B.  Standard wall   
+ 
+15.18. Erection loads the factor of safety for handling and erection shall not be less than 1.5 
+ 
+15.19. Pressure vessels shall be design for full vacuum when they normally operate under vacuum or vacuum can 
+occur. Steam out and/or steam condensate service shall also be designed for full vacuum. 
+ 
+15.20. Nozzle load shall be considered. Stress analysis according to GCEP-PP-013_F2. 
+ 
+15.21. For heat exchanger in water service tube side, the corrosion protection by means of sacrificial anodes / plate 
+shall be provided. 
+ 
+15.22. New gasket shall be used during Hydrostatic test with the same quality as operation conditions. 
+ 
+15.23. All service bolts shall be supplied new and unused. These bolts shall not be used during the pressure testing 
+of heat exchanger. 
+ 
+15.24. Hydrostatic test shall be carried out using the type of gaskets and bolts/nuts which will be used in service. 
+When girth flange joints are taken apart after a hydrostatic test, re-assembling and re-test for tightness are 
+required with the new gaskets for operation service. 
+ 
+15.25. When heat exchanger of austenitic stainless steel construction or are clad/lined with austenitic stainless steel 
+are to be sested, the maximum chloride content shall not exceed 30 ppm. When heat exchanger of carbon 
+steel or low alloy steel construction, the maximum chloride content shall not exceed 50 ppm. 
+ 
+15.26. After hydrostatic test, heat exchanger shall be immediately drained and dried by using one of the follow 
+A) Hot air drying 
+B) Vacuum drying 
+C) In furnace drying 
+D) Nitrogen drying 
+ 
+15.27. Surface preparation and painting shall be performed in accordance with specification GCEP-PP-005 Painting, 
+Grit or shot blasting shall be applied for surface preparation. 
+ 
+15.28. NDT of welds shall conform to Table 9.1 of GCEP-SE-006 as minimum. 
+ 
+15.29. Minimum requirements for inspection and test plan shall be complied Appendix 7 of GCEP-SE-006. 
+ 
+15.30. Flanged connections shall be protected against corrosion by the application of an easily removable rust 
+preventative coating, and be provided with a rubber gasket and metal or wooden cover plates and secured 
+with a minimum of 4 bolts. 
+ 
+15.31. Outside surface of austenitic stainless steel equipment shall be wrapped by Plastic sheets or any suitable 
+methods to protect Chloride from sea environment during sea transportation. 
+ 
+15.32. Lifting lug holes shall clear insulation by an amount adequate to accommodate lift sling or clevis. 
+ 
+15.33. All spare parts shall be packed separately from the equipment and shipped together with equipment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Page     11   of    11 
+ Requisition 
+For 
+Plate & Frame Heat Exchanger  
+  Job No.      P-445 Req. No. P445-1100-R003 
+ 
+List of Vendor Prints Required 
+ 
+ Document Title Q’ty of Copies 
+Check status 
+(note1) 
+Issue within  
+weeks after P/O 
+Final Document 
+required 
+(  ) Outline Drawing & Loading data 3 A ---- ---- 
+(  ) Data Sheet 3 A ---- ---- 
+(x) Overall Project Schedule 3 A 2 - 
+(x) Vendor Print Index Schedule 3 A 2 - 
+(x) Material purchase specification 3 R 4 - 
+(x) Sub suppliers / Sub vendor list 3 R 4 - 
+(x) Assembly and detail drawing  (Included Loading Data) 3 A 4 X 
+(x) Performance & Mechanical calculation 3 A 4 X 
+(x) Welding procedure specification (WPS), if any 3 A 8 (note2) X 
+(x) Fabrication Sequence Diagram 3 A 8 (note2) - 
+(x) Test result for welding procedure, if any 3 A 8 (note2) X 
+(x) Welder list and Welder Qualification Result, if any 3 R 8 (note2) X 
+(x) Positive material identification procedure, if any  3 - - - 
+(x) Inspection and test plan 3 A 8 X 
+(x) Test & inspection spec. incl. NDE procedures 3 A 8 X 
+(x) Painting specification 3 A 8 X 
+(x) Instruction for chemical cleaning , if any 3 R 10 X 
+(x) Packing sketch & Specification 3 A 12 X 
+(x) Instruction for transportation & storing  3 R 12 - 
+(x) Instruction for bolt tightening  3 R 12 X 
+(x) Spare parts list for commissioning 3 I 12 X 
+(x) Spare parts list for 2-year operation 3 I 12 X 
+(x) Operation and Maintenance Manual 3 R 12 X 
+(x) Guarantee certificate for Equipment 3 I 14 X 
+(x) Manufacturers Data Report (MDR) 6 R 4 weeks after shipment X 
+(x) Final Document 6 R 4 weeks after shipment  
+ 
+ 
+Notes : 1. Issuing status for vendor Drawings / documents is described as following 
+ A : For Approval I : For Information R : For Review 
+ 
+ 2. Before commence the welding work 
+  
+ 

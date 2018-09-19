@@ -1,0 +1,1421 @@
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         1  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+ 
+ 
+Material Requisition 
+for 
+Plate Heat Exchanger 
+ 
+(Document Number:  MR-ME-121) 
+ 
+ 
+Project: KNPC ZOR Project – Waste Water Treatment Package Units 
+Project No.: P055BZOR   
+Site Location: Al-Zour Refinery, Kuwait 
+Owner / Company: KNPC 
+Buyer: FDH JV (EPC Contractor) 
+Purchaser (Seller): KOLON e Engineering Co., Ltd.   
+Vendor: (Later) 
+ 
+ 
+ 
+ 
+ 
+       
+       
+       
+       
+       
+1 16-Dec-2016 Issued For Quotation CH Lee DH Choi EH Kim TJ Lee 
+Rev Date Description Prepared Checked Reviewed Approved
+ 
+  
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         2  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+ 
+Table of Contents 
+ 
+1. General .................................................................................................................................................. 4 
+1.1 Introduction .................................................................................................................... 4 
+1.2 Items & Quantity ............................................................................................................ 4 
+1.3 Project Information ......................................................................................................... 4 
+1.4 Delivery .......................................................................................................................... 5 
+2. Application of Codes, Standards and Specifications ............................................................................ 5 
+2.1 General .......................................................................................................................... 5 
+2.2 Codes, Standards and Specifications ............................................................................ 5 
+3. Extent of Supply and Work .................................................................................................................... 7 
+3.1 Vendor’s Responsibility ................................................................................................. 7 
+3.2 Scope of Supply ............................................................................................................. 8 
+3.3 Scope of Services .......................................................................................................... 8 
+3.4 Scope of Shop Pre-fabrication ..................................................................................... 10 
+3.5 Spare Parts .................................................................................................................. 10 
+4. Technical Requirements ....................................................................................................................... 11 
+4.1 Equipment Design Requirement ................................................................................... 11 
+4.2 General Design Requirement ....................................................................................... 11 
+4.3 Basic Engineering Design Data; .................................................................................. 12 
+4.4 Mechanical Design ...................................................................................................... 12 
+4.5 Civil & Structural Design .............................................................................................. 16 
+4.6 Design Load Requirements ......................................................................................... 16 
+4.7 Surface Preparation, Painting and Insulation .............................................................. 19 
+4.8 Name Plate, Tagging and Marking............................................................................... 19 
+4.9 Mechanical Completion and Preparation for Shipment ............................................... 19 
+4.10 Initial Thickness Measurement .................................................................................... 20 
+4.11 Design Change Notice ................................................................................................. 21 
+5. Quality Assurance and Control ............................................................................................................ 21 
+5.1 Testing & Inspection ..................................................................................................... 21 
+6. Documentation Requirement .............................................................................................................. 25 
+6.1 MAXIMO ...................................................................................................................... 25 
+6.2 Equipment Record Card .............................................................................................. 26 
+6.3 Material Manager “loose items” input sheet ................................................................ 26 
+6.4 Weld Procedure Submittals ......................................................................................... 26 
+6.5 Documents to be submitted with the Proposal ............................................................ 26 
+7. List of Attachments .............................................................................................................................. 27 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         3  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+7.1 Data Sheets and PEFS ................................................................................................ 27 
+7.2 FDH JV Project Specifications ..................................................................................... 27 
+7.3 Project Specifications (P4001 and P4049) .................................................................. 28 
+7.4 Mechanical and Electrical Standard Drawings Project Variations ............................... 28 
+7.5 Shell DEP 32 and Project Variations ........................................................................... 29 
+7.6 Vendor Document Commitment Sheets ...................................................................... 30 
+7.7 Technical Job Bulletins and Process Control Templates ............................................. 30 
+7.8 General Attachments ................................................................................................... 30 
+7.9 Submittal Formats ........................................................................................................ 31 
+ 
+  
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         4  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+1. General   
+n 
+1.1 Introduction 
+This requisition covers the minimum requirements for the engineering, design, manufacturing, 
+inspection, testing, preservation, preparation for shipment and packing etc.  
+For the items listed below, Vendor shall supply fully functional, operable, maintainable and safe 
+equipment completely furnished as specified in this requisition and its attachments.  
+ 
+1.2 Items & Quantity 
+The following items and their auxiliaries shall be furnished, by Vendor, in accordance with the 
+requirements specified in this requisition;  
+No. Equipment No. Description Quantity 
+1 76-E-0301A/B Wastewater Cooler 1+1 
+  --- Blank Below ---  
+ 
+1) Wastewater Cooler 
+a. Material : Frame C.S / Plate SS316L 
+b. Type : Plate & Frame 
+c. Design Code : ASME Sec.VIII Div.1, API 662 / ISO 15547-1:2005 
+d. Fluid Name (Hot/Cold) : Wastewater / Cooling Water 
+e. Design Pressure (Hot/Cold) : 6 / 7.0 barg 
+f. Design Temperature : 85℃ 
+g. Other : “U” Stamp, US National Board 
+ 
+1.3 Project Information  
+ 
+1) Project Title:  KNPC ZOR Project – Wastewater Treatment Units  
+2) Site Location:  Al-Zour Refinery, Kuwait 
+3) Plant Owner (Company): KNPC 
+4) Buyer (EPC Contractor): FDH JV (EPC Contractor) 
+5) Purchaser (Seller):  KOLON e Engineering Co., Ltd. 
+6) Plant Information: 
+KNPC plans to build a new world class refinery (KNPC Al-Zour Refinery) to produce ultra-low sulfur 
+petroleum products. The Al-Zour refinery will use hydro processing technologies to convert the light 
+and heavy crude into LSFO and lighter products.  
+Purchaser (Kolon) will supply the total Wastewater Treatment Package Units to Buyer (FDH JV, 
+Joint Venture of Fluor-Dawoo-Hyundai) including Primary Treatment and Zero Liquid Discharge.  
+ 
+ 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         5  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+ 
+1.4 Delivery  
+1) Delivery Condition:    FAS Masan Port or FAS International Port 
+2) Delivery Period:   Best Delivery (Vendor to propose) no later than 2017-12-31 
+ 
+2. Application of Codes, Standards and Specifications  
+ 
+2.1 General 
+The Codes, Standards and Specifications listed in this section form an integral part of this 
+requisition. Each publication shall be the latest revision and addendum in effect on the date of 
+issue of the Purchase Order, unless stated otherwise.  
+Any exceptions and deviations from the requirements of this specification and/or the related project 
+specifications, codes and standards shall be clearly indicated in writing for Purchaser's approval. 
+ 
+1) Order of Precedence  
+In the event of conflicting requirements, the following descending order of precedence shall be 
+taken;  
+a. Local regulations 
+b. This Requisition including data sheets 
+c. FDH JV Project specification (doc. no. starts with P055BZOR) 
+d. Project specification and standard drawings (doc. no. starts with P4049 or P4001) 
+e. Project Variations to DEP version 32 including standard drawings and MESC SPE Version 13 
+f. Shell DEP’s version 32 including standard drawings and MESC SPE Version 13 
+g. Other national codes and standards referenced in the documents 
+h. International Codes and Standards 
+i. Good engineering practice 
+ 
+2) Deviations 
+a. No deviations shall be allowed from any Local Rules, Regulations and Authority requirements. 
+b. Should conflict exist between requirements of Codes, Standards and Specifications, the more 
+stringent requirements shall be applied.  
+c. Deviations from Codes, Standards and Specifications are acceptable only to the extent they 
+are agreed, in writing, by Purchaser. 
+d. In any case where there is a deviation from or contradiction / conflict between requirements, 
+Vendor shall notify Purchaser immediately and adhere to Purchaser’s decision on to how to 
+proceed.   
+ 
+2.2 Codes, Standards and Specifications  
+The Codes, Standards and Specifications listed in this section form an integral part of this 
+requisition. 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         6  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+ 
+1) Project Specifications 
+List of “FDH-JV Project Specifications P055BZOR”:   Refer to paragraph 7.2  
+List of “Project Specifications P4001 & P4049”:           Refer to paragraph 7.3  
+ 
+2) Project Standard Drawings 
+List of “Mechanical Standard Drawings”:    Refer to paragraph 7.4 
+ 
+3) Shell DEP 32 and Associated Project Variations 
+List of “Shell DEP 32 and Associated Project Variations”:   Refer to paragraph 7.5  
+ 
+a. All referenced Shell Design and Engineering Manuals / Practices (DEP) shall be version 32.  
+b. DEPs are assumed to be in Vendor’s possession and therefore not physically attached to this 
+requisition.  
+c. Project Variations contain variations to the Shell DEPs. Project Variation document numbers 
+have the following format: 
+XX.XX.XX.XX-P4049NRP-00-PV 
+Where XX.XX.XX.XX represents the applicable Shell DEP version 32.  P4049NRP-00-PV 
+represents the identification of the Project Variation 
+d. Project Variations to DEP are available in two formats. 
+e. Completely rewritten document, where the original DEP can be ignored. 
+f. Addendum to an original DEP. 
+ 
+4) Technical Job Bulletins (TJB), Technical Bulletins (TBN), Shell MESC Codes, Control Narratives 
+and Contract exhibits; 
+ 
+List of “TJB, TBN, MESC, Control Narratives and Contract Exhibits” Refer to paragraph 7.7.  
+ 
+5) General Attachments  
+List of “General Attachments”:                    Refer to paragraph 7.8. 
+ 
+6) Applicable Codes and Standards 
+ 
+Applicable Codes and Standards are assumed to be in Seller’s possession and therefore not 
+physically attached to this requisition and other attachments. 
+Below listed international codes and standards latest revision, as of 7th December 2014, shall be 
+used, together with any associated amendments / supplements. If any "Codes and Standards are 
+specifically designated in the DEP, Project Variation (PV) or Project Specification by date or 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         7  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+revision or otherwise" those Codes and or Standards shall be implemented. In the exceptional 
+cases where the specific Code mandates that a later revision [of that Code] shall be used, the 
+latest shall be used. 
+ 
+ ASME Section II   Material Specification 
+ ASME Section V   Non-destructive Testing 
+ ASME Section VIII   Div.1 Pressure Vessels 
+ ASME Section IX   Welding Qualifications 
+ ASME B31.3   Process Piping 
+ ASME B16.5   Steel Pipe Flanges and Flanged fittings NPS ½ through NPS 24 
+ API 662 Plate Heat Exchangers for General Refinery Services 
+ API RP 572   Inspection Practices for Pressure Vessels 
+ API RP 582   Welding Guidelines for the Chemical, Oil, and Gas Industries 
+ OSHA   Occupational Safety and Health Administration 
+ 
+3. Extent of Supply and Work  
+ 
+3.1 Vendor’s Responsibility  
+ 
+1) Vendor’s overall responsibility shall include, but is not limited to: 
+a. Project Management for all the work performed by Vendor as well as for the work performed by 
+his sub-vendor(s), including all components and services, taking unit responsibility for the total 
+supply scope. 
+b. Engineering, design, procurement, manufacturing, testing, inspection, expediting, packing, 
+preservation and preparation for transport of equipment. 
+c. Support for pre-commissioning, construction, training, and performance testing. 
+d. Expediting and inspection of any work and materials supplied by sub-vendor(s). 
+e. Submission of all documentation specified in this Requisition, up to “A” review status, by 
+Purchaser. 
+f. Quality Assurance and Control (QA/QC) in line with the certified quality system, implemented 
+by Vendor and Vendor’s sub-suppliers, to ensure compliance with statutory requirements in this 
+requisition and delivery of Goods as specified in the Purchase Order. 
+2) Compliance with this Requisition does not relieve Vendor of his responsibility to furnish the Goods 
+of proper design, workmanship and materials to meet the specified requirements. 
+3) All services and Goods supplied by the Vendor shall be within the range of Vendor’s proven 
+experience and shall not involve the use of any prototype design or component. 
+4) Sub-Suppliers; 
+Vendor shall submit a list of intended sub-suppliers for Purchaser's approval. 
+5) The extent of supply and services shall be complete in all respects and include as a minimum, but 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         8  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+not limited to, the items listed in paragraph 3.2, 3.3 and 3.4.   
+ 
+3.2 Scope of Supply  
+1) By Vendor   
+a. Equipment specified on paragraph 1.2 including their auxiliaries (support saddle and 
+accessories) 
+b. All required accessories specified on PEFS attached to equipment  
+c. Tie Bolts/Nuts (H.D.G) 
+d. Mounting Feet 
+e. Plate Pack, Frame and accessories 
+f. Drip Tray 
+g. Plate Pack Shroud 
+h. Surface Chemical Cleaning 
+i. Name plates with brackets for each tagged item 
+j. Lifting lugs with reinforcement pad for lifting & freight 
+k. Flanged openings shall be protected with veneer plywood (minimum 5.5 mm thick) or gasket 
+metal covers bolted with at least three bolts to the flanged opening. All parts directly attached 
+to equipment 
+l. Liner, Insert and shims plate 
+m. All consumables for erection, commissioning, start-up and test period 
+n. Spare Parts  
+o. Special tools for installation / maintenance, as required.  
+p. Others necessary to meet the specification requirements  
+ 
+2) Out of Vendor Scope 
+a. Erection and Installation at site  
+b. Insulation and lagging materials and their installation  
+c. Anchor bolts  
+d. Concrete foundations. 
+ 
+3.3 Scope of Services  
+ 
+1) By Vendor   
+a. Mechanical Design including Strength Calculation for equipment  
+b. Loading calculation and setting and/or anchor bolt design (bolt quantity, material, size and 
+anchoring plan drawing)  
+c. Calculation of lifting lugs 
+d. General Arrangement drawings for packaged and stand alone equipment 
+e. Warranty 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         9  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+f. Vendor Print Submission as per project specification requirement   
+g. Material Procurement  
+h. Manufacturing   
+i. Fabrication at Shop  
+j. Verification of the initial thicknesses 
+k. Bolt tightening and tentioning according to P055BZOR.00.10.09.032 Specification for Bolt 
+Torquing and Tensioning. 
+l. QA/QC (Test & Inspection) 
+(1) Inspection test report and material test certificate with required QA/QC documents from  
+1), 2), 3) of clause 2.3. 
+(2) Referenced QA/QC  documents such as ITP, Inspection and test procedure and etc. 
+(3) All test reports shall be combined into FIDB and submitted to KEN(within 1weeks after 
+completing packing).  
+(4) Welding map, NDE map, PMI map, inspection isometrics for indicate location of TML'S, 
+Tabulation of Material Sheet for material identification, pipe welding data sheet and etc. 
+(5) WPS &PQR with PQ Test report and QWL(Qualified Welder List) all required test certificate 
+for welding(e.g. welding consumable). 
+(6) Attachment formats of clause 7.9 (Submittal Formats) 
+m. Registration and Certificates  
+(1) Registration in accordance with the US National Board of Boiler and Pressure Vessel 
+Inspectors is required. 
+(2) Inspection and Test Certificates as required by project specifications  
+n. Pickling and passivation for all stainless steel   
+o. Rust Prevention for Transportation and Storage at Site 
+p. Seaworthy protection & export packing for outdoor storage for 12 months and longer 
+q. Inland Transportation   
+r. Environmental Protection (noise limits, emissions, effluents etc.)  
+s. Documentation 
+(1) All documentation as required for engineering, design, manufacturing, installation, 
+operation and maintenance and process automation including FIDB and MDB 
+(Manufacturer Data Book) and IOM (Installation, Operation and Maintenance Manual). 
+(2) Refer to clause 12 of attached PV Specification ("General Seller Inspection Requirements 
+(P055BZOR-00003-R-024_O)) 
+(3) Documents required for Authority approvals 
+t. Input in Computer System  
+(1) Completed MAXIMO input sheet 
+(2) Completed “Material Management loose items” input sheet  
+u. Attendance to Meetings 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         10  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+(1) Kick-off Meeting  
+(2) PIM (Pre-inspection meeting),  
+v. Supervision service for installation, commissioning and training if needed  
+(1) Supervision by Vendor’s representative(s) of installation, commissioning, start-up & test-
+run at project-site (Option) 
+(2) Pre-commissioning, commissioning and start-up assistance (Option) 
+(3) Training for client’s O&M personnel (Option) 
+w. Shop storage of completed equipment for 30 days, if requested by purchaser, at the stage of 
+delivery 
+ 
+3.4 Scope of Shop Pre-fabrication 
+ 
+1) The equipment shall be fully assembled at shop as much as possible  
+2) Ship Loose Items 
+If there should be ship loose items, they shall be fully packed with the installation materials (stands, 
+brackets etc.)   
+ 
+3.5 Spare Parts 
+ 
+Vendor shall identify the Spare Parts Requirements for maintainable equipment and this 
+information shall be submitted in the Native SPIR format as defined in DEP 70.10.90.11-4049NRP-
+000-PV, “Spare parts”.       Refer to Paragraph 7.5. 
+ 
+Spare parts shall be delivered in robust boxes suitable for long term storage and consolidated into 
+single large boxes where possible. Spare parts shall not be boxed with construction parts or 
+commissioning parts. A complete and clear index of spare components shall be provided both on 
+the storage box, as well as each component tagged within the box. A description of the tools shall 
+be noted, and not simply a part number. 
+The agreed pricing shall be at the same price level as those spare parts purchased for 3 (three) 
+years. i.e. valid duration for spare part price is 3 (three) years. 
+ 
+1) Insurance spares (Option) 
+ 
+2) Construction spare parts 
+These are spare parts that could be used during installation and construction. Vendor shall give 
+recommendation about construction spares (with bid). 
+3) Commissioning and start-up spares 
+These are spare parts that could be used during pre-commissioning / commissioning and 
+consumables during commissioning. Vendor shall give recommendation about Commissioning and 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         11  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+start-up spares (with bid). 
+4) One year operation spares (Option) 
+One year operation spares are required for the first year of operation. Vendor shall give 
+recommendation about one year operation spares (with bid). 
+The priced spare part list shall be provided by Vendor.  The agreed pricing shall be at the same 
+price level as those spare parts purchased as part of the Purchase Order and/or listed in the 
+purchase order.  The spare part price shall be valid for 3(three) years. 
+5) Overhaul spares (Option) 
+These are spare parts required for scheduled overhaul and corrective maintenance actions after 
+the initial one year of operation. Vendor shall give recommendation about overhaul spares (with 
+bid).  
+The priced spare part list shall be provided by Vendor.  The agreed pricing shall be at the same 
+price level as those spare parts purchased as part of the Purchase Order and/or listed in the 
+purchase order.  The spare part price shall be valid for 3 (three) years. 
+6) Special Tools 
+Special tools are tools specifically designed for the installation, operation or maintenance of the 
+equipment and are not available in the plant’s standard tools inventory. Special tools required for 
+installation or disassembly of spare parts shall be submitted with bid. 
+ 
+4. Technical Requirements  
+ 
+4.1 Equipment Design Requirement  
+ 
+1) Refer to the attached Data Sheet, Process Engineering Flow Schemes(PEFS)  
+Refer to paragraph 7.1. 
+2) Vendor shall prepare measures for periodic and long-term maintenance. The maintenance space 
+requirement shall be clearly indicated in the submitted drawings.   
+ 
+4.2 General Design Requirement  
+ 
+1) The supplied equipment shall be suitable for outdoor installation unless otherwise specified.   
+2) Equipment shall be designed for a lifetime of at least 25 years continuous operation, assuming 
+normal wear and tear in the equipment and service, routine preventive maintenance and timely 
+replacement of wear parts. 
+3) All equipment shall be new. Vendor shall not include second hand or refurbished equipment. 
+4) Vendor shall not supply equipment for which the production may be discontinued in the near future 
+and shall guarantee the availability of spare parts during the design life time of the equipment. 
+5) Vendor shall consider the use of standardized equipment and component design to minimize the 
+requirement for spare parts. 
+6) Unit of Measurement & Languages;  
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         12  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+a. Engineering data such as data sheets etc. shall be produced with SI units (bar to be used for 
+pressure). 
+b. All the documents shall be in English. 
+7) Thermal Design and Rating 
+The thermal design and rating of a plate-and-frame heat exchanger can however be checked with 
+reasonable accuracy with computer programs: Xphe developed by HTRI and Aspen Plate 
+Exchanger developed by Aspen Technology Inc. 
+8) The vendor shall recommend the tools needed for the assembly and maintenance of the PHE. If 
+torqueing of bolts is required, the vendor shall provide torqueing procedures. 
+9) The review of general configuration drawings by the purchaser shall not relieve the vendor of the 
+responsibility of meeting the requirements of the purchase order. 
+10) The combined pressure drop attributed to the entrance and exit flow ports shall not exceed 20% of 
+the total pressure drop. 
+11) If specified by the purchaser, the vendor shall furnish copies of applicable welding procedure 
+specifications and weld maps for review or record. 
+12) Multi-pass designs shall not be used unless approved by the Buyer. 
+13) If specified by the purchaser, the vendor shall furnish copies of applicable calculations for review or 
+record. 
+ 
+4.3 Basic Engineering Design Data;  
+ 
+Refer to project specification “P4049NRP-0000-BA30-DCN-0747 Basic Engineering Design Data 
+(BEDD)” for Climate Conditions, Site Conditions, Unit of Measurements, Codes & Standards, 
+Available Utilities Conditions, Allowable Limits of Health/Safety/Environment, Environmental 
+Conditions, etc.          Refer to paragraph 7.3   
+ 
+1) Design dry bulb temperature is 50°C for mechanical equipment and 50°C for electric equipment. 
+2) The minimum ambient temperature shall be considered as -3℃. 
+3) The equipment shall be suitable for outdoor, unheated, unattended, continuous operation in an 
+industrial coastal, desert environment 
+ 
+4.4 Mechanical Design  
+ 
+1) Bolting 
+Stud bolts, threaded over full length and furnished with two heavy hexagonal nuts (H=D), shall be 
+used for flange bolting. Stud bolt length shall be such that nuts are fully engaged but do not project 
+more than 6mm through the nuts. 
+Bolt holes shall straddle normal centerline of the equipment, normal centerline being defined as 
+axial centerline of the compressor cylinder (centerline of top & bottom heads for vertical equipment). 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         13  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+All external bolting shall be covered with metallic base & waterproof lubricant over full length to 
+prevent galling and corrosion during shipping & storage. Zinc particles are not allowed in the 
+lubricant. 
+Bolts with a diameter larger than 38 mm (1½ in) shall have SAE 4140 heat-treated washers under 
+the nuts. 
+2) Materials 
+a. All materials used in the fabrication of pressure parts containing components of this equipment 
+must be traceable to the country of origin. Foreign materials equivalent to ASME or ASTM 
+materials may be substituted only when approved in writing by the Purchaser. The Vendor shall 
+advise the names of sub-Vendors and countries of origin for all items included in their scope of 
+supply. 
+b. All pressure-retaining parts of pressure vessels shall be in accordance with specification 
+P055BZOR.00.10.10.004 (Specification for selection of ASME Materials for pressure Parts of 
+Static Process Equipment) and DEP 30.10.02.11 (Metallic Materials – Selected Standards). All 
+the other parts and components shall be in accordance with applicable PV's, DEP's and MESC. 
+Optionally to P055BZOR.00.10.10.004 pressure equipment parts may be selected in 
+accordance with MESC. 
+c. Material traceability  
+Vender shall maintain the traceability of all materials as follows but not limited to: 
+ Whenever MTC (material traceability certificate) will be upgraded from 3.1 testing 
+certification to 3.2 testing certification for ASME Material (SA Material) Test Report by 
+manufacturer, Buyer inspector shall validate the upgraded testing certificate in lieu of a 
+third party inspector hired by Purchaser. 
+ “Pressure boundary materials and/or product wetted parts shall be delivered with test 
+certificate type 3.2 minimum.” All pressure boundary material and/or product wetted parts 
+(pressure vessel, Heat exchanger, etc) shall be provided with MTC 3.2. The rotating 
+machineries shall be delivered with the test certificate type “3.1B (or 3.1) / 2.2”.     
+ All pressure retaining, structural and severe service materials shall be traceable to their 
+country of origin and manufacture. (i.e. traceable from original creation/production (i.e. 
+smelting/refining), intermediate product forms, and additional semi-final forms encountered 
+prior to and through the fabrication of the final product.) 
+ Weld joints, welder and welding consumables, non-destructive examination and other 
+records shall be traceable to the extent defined in the Material Requisition. 
+All traceability records shall be provided According to attachments in this material requisition. 
+d. All Stainless Steel parts and welding shall be pickled and passivated. 
+e. Use of asbestos in any form is strictly forbidden. Brass or non-metallic components are not 
+permitted in (relief) valves. 
+f. Material certificates shall be included in the Manufacturer Data Books and shall be in the 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         14  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+English language. 
+g. The welding of duplex stainless steels, in either the shop or field, is not allowed. Where MSD 
+specifies use of weldable duplex stainless steel, Vendor shall exclusively use UNS N08825 as 
+an alternate material. In all other cases (wherein MSD does not specify duplex SS), Vendor 
+may use other alternate suitable material. The use of cast grades of duplex where welding is 
+not required, i.e. pump casings, is acceptable. 
+h. Impact test 
+Impact tests for base materials shall be performed by the steel manufacturer according to 
+P055BZOR.00.10.10.004 Specification for selection of ASME materials for pressure parts of 
+static process equipment., i.e. material shall be ordered with impact test where applicable. 
+Qualification of materials by the manufacturer in accordance with UG-84(d)(2) or 3.11.7.4(b) is 
+not allowed. 
+ 
+3) Welding 
+a. Vendor shall perform welding to a manufacturing quality assurance system that meets the 
+requirements of ISO 3834-2. 
+b. Vendor shall organize the manufacturing welding coordination in accordance with ISO 14731 
+with personnel certified at the appropriate level to the criteria of annex A of ISO 14731. 
+c. A complete set of welding Procedures (WPS & PQR) and weld map shall be submitted together 
+prior to Pre-Inspection Meeting. Vender shall not start its manufacturing or assembly until the  
+welding procedures are approved by Purchaser. 
+d. Welding fabrication and non-destructive examination shall be in accordance with specification 
+P055BZOR.000.10.10.002, “Specification for welding fabrication and non-destructive 
+examination”. 
+e. Filler materials  
+Vender must submit welding procedure for Purchaser’s review, along with the initial submittal of 
+the WPS/PQR, the filler material manufacturer’s chemistry range (i.e., not a typical or nominal 
+analysis) for each element listed in the SFA specification as well as mechanical property data 
+for all AWS Classification “G” filler materials. 
+f. Weld consumables 
+As per Project Specification P055BZOR.00.10.10.002 Para 6.1, Welding consumables shall be 
+purchased from manufacturers who are currently acknowledged by bodies which independently 
+test consumables, e.g. Controlas, Lloyd's Register of Shipping, American Bureau of Shipping 
+and Det Norske Veritas. Brand name of the welding consumable manufacture shall be 
+endorsed by above independent bodies. (Approval of brand name by above independent 
+bodies will be there in product catalogue of the welding consumable manufacturer.) 
+The completed welds attaching equipment erection lugs to the equipment shall be 100% 
+magnetic-particle or liquid penetrant examined.  
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         15  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+g. Welding Processes 
+ Welding processes shall be in accordance with DEP 30.10.60.18-Gen. 
+ GTAW shall be used for root, fill and cap for all piping materials with a diameter equal to 
+or less than DN 50. 
+ Welds in austenitic stainless steel that either require PWHT or are applied at high-
+temperature service, the ferrite number for the deposited weld metals shall be in the 
+range of 3FN to 8FN, measured prior to PWHT. The Ferrite Number assessment shall be 
+performed on a cross section of the weld seam, by microscopic point counting method to 
+ASTM E562 and shall be reported in the PQR. 
+ No welding or heating shall be carried out after final PWHT. NDE for acceptance 
+purposes shall be carried out after final PWHT. 
+h. Hardness Testing 
+Production welds 
+Hardness testing shall be carried out on production welds on the weld metal, base metal and 
+heat affected zone, performed in accordance with and meeting the values required by DEP 
+30.10.60.18-Gen, 31.22.20.31-P4049NRP-00-PV and DEP 31.22.20.31. 
+i. Hardness testing shall be performed in accordance with a procedure that has been reviewed 
+and approved by the contractor or Owner. 
+j. PWHT 
+Post weld heat treatment (PWHT) methodology and procedure shall be in compliance with the 
+requirements of project specification P055BZOR.00.10.10.002. 
+k. Vendor shell be in compliance with NDE methodology and procedure according to project(PV) 
+and DEP specification. 
+ 
+4) Lifting and Handling Equipment 
+a. Vendor shall provide its calculation and detail drawings for Purchaser’s review. 
+b. Lifting attachments and their welds shall be designed to comply with local Authority 
+requirements, however shall consider the following as a minimum: 
+ An impact-factor of 1.5 on the lifting weight shall be applied for design of lugs and 2.0 for 
+attachment-welds (in view of material stresses during lifting). 
+ Lifting lugs shall be designed for slings being out of verticality by ± 5°. 
+ When special handling of equipment is required, a clear instruction for lifting shall be 
+marked on the equipment with yellow paint, in lettering of 150mm high. 
+ Safe working load shall be stamped on the lugs and marked with yellow paint. 
+c. Lifting equipment and beams for transport and erection shall be certified by an independent 3rd 
+party. Lifting attachments shall be supplied with ISO 10474-3.1 material certificates. Lifting 
+equipment and lifting attachments shall be painted according to painting specification 
+P055BZOR.000.10.10.005 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         16  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+d. Rigging plan to be supplied by Vendor to verify it fits the lifting provisions before the equipment 
+is shipped. 
+e. Hoisting lug welds shall have multiple pass, full penetration welds and shall be 100% examined 
+by ultrasonic and Magnetic Particle testing. 
+ 
+5) Allowable Nozzle Force & Moment 
+Project specification, “P055BZOR.00.10.09.211, Specification for Loading on Nozzle of Static 
+Equipment” gives the maximum nozzle loads. 
+ 
+4.5 Civil & Structural Design 
+ 
+Refer to the Technical Bulletin “FDH-AZRP-CSA-TJB-0001, Structural Data for Mechanical 
+Equipment” and “FDH-AZRP-CSA-TJB-0002, Fixing Matrix for Mechanical Equipment.” 
+      Refer to paragraph 7.8 / List of “Technical Bulletin” 
+DTI washer shall be provided for steel structure.  
+ 
+4.6    Design Load Requirements 
+ 
+Refer to the FDH JV Project Specifications “P055BZOR.00.10.19.002, Structural Data for 
+Mechanical Equipment”  
+        Refer to paragraph 7.2 / List of “FDH JV Project Specifications” 
+ 
+Loads and forces used for design shall be as defined in ASCE / SEI 7, unless noted otherwise 
+herein. 
+a. Dead Load 
+Dead loads are the actual weight of materials forming the building, structure, equipment, 
+foundation and all permanently attached appurtenances. 
+Weights of fixed mechanical equipment and machinery, including insulation, piping and ducting, 
+electrical conduits, and permanent fixture shall be considered as dead loads. 
+ 
+b. Live Loads 
+Live loads (Impose Loads) are the gravity loads produced by the use and occupancy of the 
+equipment. They include the weight of all movable loads, including personnel, tools, 
+miscellaneous equipment, movable partitions, cranes, hoists, parts of dismantled equipment, 
+and stored material. 
+Minimum live loads shall be in accordance with 34.00.01.30-P4049NRP-00-PV.  
+ 
+c. Wind Loads 
+Unless otherwise specified, wind loads shall be computed and applied in accordance with 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         17  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+EN1991-1-4.  
+ㆍ Basic wind speed (Vb) corresponding to a 10-minute mean in Terrain Category II at  
+standard height of 10m above ground shall be 35m/s. 
+ 
+d. Earthquake Loads 
+Earthquake loads shall be done based on the document Procedures for developing Site-
+Specific Seismic Design Parameters and in accordance with the provisions of IBC-2012 & 
+ASCE 7-10, except for API Standard 650 ground-supported storage tanks. 
+ㆍ Earthquake loads are defined as the static horizontal and vertical forces equivalent in their  
+design effect to the dynamic loads induced by ground motion during an earthquake. 
+         ㆍ ASCE Guidelines for Seismic Evaluation and Design of Petrochemical Facilities may also  
+be used as a general reference for earthquake design. 
+ All equipment shall be designed for earthquake forces according to the following site specific  
+design parameters: 
+ㆍ Seismic Design Category shall be according ASCE7-10, Tables 11.6-1 and 11.6-2 
+ㆍ Importance Factor, (I) = 1.25 (for Occupancy Category III according ASCE7-10) 
+ㆍ Component Importance Factor, (Ip) (according ASCE 7-10, Section 13.1.3) 
+ㆍ MCE Short Period Spectral Acceleration Parameter, (SS) = [0.23g] 
+(according to CSA Design and Engineering Manual P055BZOR.00.10.19.004 Section 3.3.6) 
+         ㆍ MCE 1-Second Spectral Acceleration Parameter, (S1) = [0.13g] 
+(according to CSA Design and Engineering Manual P055BZOR.00.10.19.004 Section 3.3.6) 
+         ㆍ Site Class shall be C 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         18  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+(according to CSA Design and Engineering Manual P055BZOR.00.10.19.004 Section 3.3.6) 
+         The example calculation is provided below and taken from an extract of CSA Design and  
+Engineering Manual P055BZOR.00.10.19.004 Section 5.12. 
+ 
+ 
+e. Impact Loads 
+• Impact loads shall be in accordance with ASCE/SEI7, Section4.7 
+• For equipment carrying live loads that induce impact, the live load shall be increased 
+sufficiently to provide for it 
+• Vertical, transverse, and longitudinal impact forces are normally not considered to act 
+concurrently. Load factors shall be the same as for live load. 
+• Lifting lugs or pad eyes and internal members (including both end connections) framing 
+into the joint where the lifting lug or pad eye is located shall be designed for 100% impact. 
+• All other members transmitting lifting forces shall be designed for 15% impact. 
+• Allowable stresses shall not be increased when combining impact with dead load. 
+ 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         19  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+4.7 Surface Preparation, Painting and Insulation   
+ 
+1) All external surfaces, excluding machined surfaces, shall have surface preparation and painting in 
+accordance with project specification “P055BZOR.000.10.10.005 Specification for selection of 
+coating systems” and “DEP 30.48.00.31/ DEP 30.48.00.31-P4049NRP-00-PV, Protective Coatings 
+for Onshore Facilities”.                                          Refer to paragraph 7.2 & 7.5. 
+2) Components of equipment package in austenitic stainless-steel, non-ferrous metal, non-metallic 
+and nameplates / tag plates do not require painting.             
+Pickling and passivation for all stainless steel shall be performed. 
+3) Outside insulation shall be designed in accordance with project specification “30.46.00.31-
+P4049NRP-00-PV, Thermal Insulation”.                                Refer to paragraph 7.5. 
+ Acoustic / thermal insulation have to be specified and designed by Vendor. 
+ Supply and installation of outside insulation will be performed by Purchaser. 
+ Vendor shall make the necessary provisions for the installation of the outside insulation, such as 
+collars, nozzle stand out, pins, clips, etc. 
+4) Galvanizing requirements are specified in project specification “P4049NRP.00.10.48.002, 
+Galvanizing”.       Refer to paragraph 8.3. 
+5) Vendor shall submit the painting system according to “Painting System Template” as attached.  
+          Refer to paragrapg 7.9. 
+6) The gasket backing surface and threads of the plugs and headers shall be coated with a suitable 
+hread lubricant. Thread lubricants containing copper or molybdenum disulphide shall not be used. 
+ 
+ 
+4.8 Name Plate, Tagging and Marking 
+ 
+1) Direction of rotation shall be marked for easy viewing. 
+2) All instruments shall be clearly tagged with stainless-steel plate and SS wire. Instrument cables 
+shall be identifiable with provision of tags on either ends. 
+3) Each equipment item shall be provided with a permanently secured nameplate in stainless-steel 
+having engraved lettering with reference to manufacturer name / logo, serial no. model, tag no., 
+year of manufacture, purchase-order no. and equipment specific data. Nameplates for fabricated 
+equipment shall also include reference to design code and design pressure & temp. / hydrostatic 
+test pressure (& date thereof). 
+4) Vender shall verify the markings on all materials to be supplied after PMI test and Color coding. 
+ 
+4.9 Mechanical Completion and Preparation for Shipment   
+ 
+1) The equipment shall not be shipped unless Purchaser’s inspector has issued a “Release Note” for 
+shipment. 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         20  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+2) All instruments, auxiliary equipment shall be pre-set to the required parameter at the 
+manufacturer’s works itself. 
+3) All interface flanges shall be covered by mating blind flanges. 
+4) One advanced copy of Manufacturing Data Book (MDB) and Installation, Operation and 
+Maintenance Manual (IOM) shall be available, ready to be shipped with the main equipment. 
+Equipment and corresponding MDB and IOM is considered as one complete delivery. 
+All test reports shall be combined into FIDB (Final Inspection Data Book) and submitted to the 
+Purchaser within 1weeks after completing packing. 
+5) Due to an anticipated large number of shipment packages the wastewater treatment system and 
+other components should be shipped in large pieces, as possible. While Vendor must meet 
+Purchaser’s minimum packing, marking and shipping instructions, Vendor must also ensure that 
+the deliveries are packed and marked for cost and schedule efficient installation at site, and 
+suitable for storage on site. 
+6) Site Erection  
+Vendor is responsible for Purchaser to be able to complete construction activities, at site, in a cost 
+and schedule effective manners. Similarly, Vendor is responsible to pack and mark the Goods both 
+to meet the minimum requirements of Purchaser’s instructions as well as to promote efficient 
+erection on site.     
+7) Training Requirement 
+Minimum training requirements for Operations and Maintenance personnel at site are identified in 
+“Prime Contract Section 4, Part II, Exhibit J, Attachment J-13 “Training Requirements”.     
+Refer to paragraph 8.9 
+8) Pressure vessels that are transported over the ocean shall be purged with an inert gas such as 
+nitrogen at a pressure of not less than 35 kPa (5 psi). The Principal shall specify if a purge is 
+required for over-land transport. 
+9) When PWHT, LINED, Desiccant applicable, vessels shall have care mark in letters that are 75 mm 
+(3 in) high 
+ 
+4.10 Initial Thickness Measurement 
+ 
+1) Initial ultrasonic thickness measurements shall be taken on all Equipment and Piping. As Built 
+isometric drawings shall be prepared for all equipment and piping in A4 Size Visio format, showing 
+the TMLs. Refer to P055BZOR.00.10.09.029 for detail. 
+2) Thickness monitoring locations (TMLs) shall be as follows: 
+a. Four points at each head at 90 degree intervals. 
+b. Four points on each shell plate at 90 degree intervals. 
+c. Two points on each nozzle at 180 degree intervals for nozzles up to 4" diameter, and four 
+points on each nozzle al90 degree intervals for nozzles above 4" diameter. 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         21  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+d. Heat Exchangers: Contractor shall follow Annex C of API RP 572 Inspection Practices for 
+Pressure Vessels. 
+ 
+4.11 Design Change Notice 
+ 
+The following requirements are excerpts from Purchaser’s Prime Contract and shall be addressed 
+by Vendor as part of his design. DCN numbers are shown below for Purchaser’s use. 
+ 
+1) DCN No. 120  
+The use of Duplex Stainless Steel (for example, UNS S31803, S32205, S32750 & S32760) shall 
+be limited to applications where no welding of these materials is required. This requirement is 
+applicable to equipment and piping. Duplex stainless steel piping classes are therefore not to be 
+used. Where weldable duplex stainless steel has been specified on the Material Selection Diagram 
+only UNS N08825 is acceptable as an alternative material. Else, Vendor shall select metallurgy 
+based on Vendor’s experience and suitability for service. 
+2) DCN No. 428  
+All heat exchangers have National Board registration 
+3) DCN No. 454  
+Vendor shall ensure design temperature of all materials, process systems and equipment on all 
+PFS, MSD, PEFS, Equipment List, Line List, and all other associated documents and drawings is a 
+minimum of 85 degrees C to allow for sun exposure. 
+4) DCN No. 752 
+Drip tray and shroud are required for plate and frame Wastewater Cooler 76-E-0302 
+5) DCN No. 764 
+Plate and Frame Heat Exchanger Materials of Construction. Structural parts of Plate and Frame 
+Heat Exchanger which are not in contact with process fluids (compression plates, frame, etc.) may 
+be made of carbon steel. 
+6) Exceptions and Clarifications, which Buyer (Fluor) and Purchaser (Kolon) have agreed, have been 
+outlined on “P055BZOR-7627-R-001 Supplier’s Deviation Summary Sheet KOLON”.  
+ 
+5. Quality Assurance and Control   
+ 
+5.1 Testing & Inspection 
+ 
+Refer to FDH JV Project Specification, “P055BZOR-0003-R-024, General Vendor Inspection 
+Requirements”          Refer to paragraph 7.2 
+The attached Quality and Certification Requirement (QCR) show the major inspection and test item 
+lists.                    Refer to paragraph 7.8 
+1) Inspection & Test Plan (ITP) 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         22  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+a. Vendor shall submit a detailed Inspection & Testing Plan (ITP) for Purchaser’s approval 
+according to the schedule specified in the Vendor data Requirement. 
+b. The minimum requirements for ITP are specified in relevant specifications and Q&CR (Quality 
+and Certification Requirement). Template of ITP shall conform to "ZOR-QUA-INS002 Sample 
+Inspection and Test Plan).     Refer to paragraph 7.9 
+c. The plan shall be prepared based on the actual production facilities of the Vendor or sub-
+supplier(s) performing the work. The plan shall reflect all the activities in the manufacturing 
+process and as mentioned in the applicable project specifications. ITP has to include the 
+following information as a minimum; 
+• Buyer’s Purchase Order number, item tag number, item description, shop order number, 
+etc. 
+• Effective date and revision number. 
+• A complete listing of quality control activities to be performed, including, but not limited to 
+types of inspections, factory tests, control of welding processes, non-destructive 
+examination, and Seller witness and hold points 
+• Provisions for Buyer, Owner, and Third Party Inspector/Notified Body to mark hold, 
+witness, review and random inspection/verification points. 
+• Specific references to technical specification requirements and applicable codes and 
+standards referenced in the specifications and other data included in the Purchase Order. 
+• Reference to the ruling document or code for acceptance and rejection criteria 
+• Sub-supplier responsibilities, including the level of source and receipt inspection to be 
+performed by Seller for major subsupplied items and subcontracted services. 
+d. Owner and Purchaser have the right to review and comment on any required additional 
+surveillance or test requirements during the design phase. These additional items or 
+deviations shall be incorporated and the Vendor ITP shall be revised to suit. 
+e. Inspection and testing of the equipment shall be carried out in accordance with this requisition 
+(including data sheets), the applicable codes, standards, specifications, and the test 
+procedures and inspection and test plan.   
+f. Vendor shall perform the following inspections and tests as a minimum but not limited to; 
+(1) NDE on item components in general. 
+- Radiographic Examination (RT) ; Gamma ray shall not be applied below 10 mm total 
+penetrated steel thickness 
+Film quality requirements shall be as follows:  
+         ㆍfine grain film (Class II) for x-ray; 
+ㆍultra-fine grain film (Class I) for gamma ray; 
+ㆍAn Image Quality Indicator (IQI) with sensitivity better than 2 % shall be achieved by  
+means of source side location of the  IQI.  
+Where access only allows the use of film side IQI, the technique shall be proved by  
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         23  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+means of a representative sample with  IQI set source side and film side. 
+Contour grinding of welds on the outside surface shall be performed to the extent  
+that clarity of the radiographic examination is maintained. 
+- All NDE test according to released international codes and Project. 
+(2) Thickness measurement in accordance with Attachment Baseline Thickness 
+Measurement 
+(3) Material certification. 
+(4) PMI checking during receipt- and usage of materials. 
+(5) Welding inspections. 
+(6) Dimensional check of complete item to ensure compliance with fabrication drawings. 
+(7) Painting check 
+(8) Final inspection of the complete item. 
+(9) Packing check 
+(10) Hydrostatic pressure test for the pressure vessel 
+(11) Hardness test and Ferrite number 
+(12) etc. (Inspection item for a applied activities. 
+g. The Goods shall be subject to inspection and witnessing of tests by the Purchaser as required. 
+Purchaser shall witness all critical equipment tests as will be indicated on the inspection and 
+test plan. 
+2) Inspection and approval by Purchaser or representative inspector shall not relieve Vendor from 
+compliance with this requisition. 
+3) The Vendor shall provide free access to his work shop and that of sub-suppliers for the 
+representative of the Purchaser or Owner and the certifying authority (if required).  All necessary 
+certification of materials, shop test data, NDE reports, etc. shall be made available on request. 
+4) The shop applied hydrostatic and/or pneumatic test shall be in accordance with the pressure 
+design code, except that the Maximum Allowable Pressure (MAP) shall be used in lieu of the 
+Maximum Allowable Working Pressure. 
+Hydrostatic and/or pneumatic test shall be maintained for at least one hour. 
+5) Water used for hydrostatic testing shall be potable. Water used for hydrostatic testing of 
+exchangers made from martensitic and ferritic grades, 12 and 17 Cr stainless steels (ANSI Types 
+405, 410, and 430), 18-8 stainless steels (300 series austenitic), duplex grades (Alloy 2205, Alloy 
+2507, and Alloy 20), or Alloy 400 (Monel), shall not contain traces of any type of sediment or more 
+than 20 ppm chloride by mass. Upon completion of the hydrostatic test, the equipment shall be 
+promptly drained. Pneumatic testing shall be performed with nitrogen or argon that meets a -29°C 
+(-20°F) dew point specification. 
+6) Equipment Test(s) shall include as a minimum, but not limited to the following: 
+a. Steel structure (RT inspection)., if supplied 
+b. Dimensional check of the Goods. 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         24  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+c. Hydro-test of pressure parts 
+d. Standard factory tests for all components of electrical auxiliaries and control systems, if 
+applicable 
+e. Continuity test for instrumentation in the skids, if applicable 
+f. Final inspection of the complete package. 
+g. Attendance to system integration test at site and site acceptance test (per diem). 
+h. PMI will be conducted per 31.10.00.10-P4049-00-PV and Shell DEP 31.10.60.18 “Positive 
+Material Identification (PMI) Program” and P055BZOR.00.10.09.030 “Positive Material 
+Identification (PMI) for Piping” 
+7) Inspection Notifications 
+All formal notifications and invitations for the witnessing of inspections shall be addressed to 
+Purchaser’s Project Inspection Coordinator at latest 27 (twenty-seven) working days prior to the 
+scheduled inspection date by e-mail and for for the following inspection related activities; 
+a. The date of planned Pre-Inspection Meeting (PIM) 
+b. The date when actual fabrication or assembly of goods (e.g. heat exchanger, compressor, 
+etc…) will start in the works; 
+c. The date of completion of bulk goods (e.g. pipe, flanges & fittings) utilizing the G-1093 form; 
+d. The date when there will be a sufficient quantity of bulk goods ready to justify an inspection 
+visit and authorization of a partial shipment; 
+e. The start date of mill runs for plate, pipe, etc; 
+f. The date for casting or forging inspection prior to repairs and then after any repairs; 
+g. The date of inspection for any Hold /Witness points on the Inspection test plan; 
+h. The date of closing or covering up any part of the work (shall be part of the ITP); 
+ 
+When any change of inspection date occurs due to the Vender or vender’s sub vendors schedule, 
+vender shall notify to Purchaser as needed of the revised inspection date by e-mail at least 
+14(fourteen) working days prior to inspection date. 
+The costs related to inspections which will be cancelled less than 5 working days before inspector 
+departure due to mis-communication (or where Vender appeared to be not ready for Inspection) will 
+be back charged to Vender. 
+8) PIM (Pre-Inspection Meeting) 
+Vender shall not start its manufacturing or assembly until, as a minimum, the ITP and the welding 
+procedures are approved by Purchaser. Regarding to typical agenda for PIM meeting refer to the 
+attached “P055BZOR-0003-R-024 General Seller Inspection Requirements–ZOR- QUA-INS003 / 
+004”.           Refer to paragraph 7.2. 
+The discussion points are not limited to those listed in the attachment and maybe amended by 
+Purchaser to meet specific Purchase Order technical requirements. 
+9) Level of Inspection 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         25  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+Inspection level 2 shall be applied.   
+Inspection Level 2 means: Includes as a minimum a pre-inspection meeting; one or more in-
+process surveillance inspection visits as necessary; witness of major tests and tests specified in 
+the data sheet for that type of equipment; review of required documentation; and issue of 
+Inspection Release Certificate. 
+10) Vender shall submit the following documents as a minimum but not limited to; 
+a. Inspection test report and material test certificate  
+b. QA/QC documents such as ITP, Inspection and test procedure and etc. 
+c. All test reports shall be combined into FIDB    
+d. Welding map, NDE map, PMI map, inspection isometrics for indicate location of TML'S, 
+Tabulation of Material Sheet for material identification, line over and MIRV report(Material/Weld 
+Identification and Verification Report ) 
+e. WPS &PQR with PQ Test report, QWL(Qualified Welder List), all required test certificate for 
+welding(e.g. welding consumable).  
+f. Completed QA/QC Templates as attached 
+11) Test equipment 
+Vender shall be used test equipment that acceptable test equipment for hardness, painting, PMI 
+and etc. the vender shall approve the test equipment if it is not acceptable test equipment. 
+12) Hydrostatic pressure testing 
+Water is the preferred medium for hydrostatic testing. See DEP 74.00.10.10-Gen. clause 3.2 for 
+water quality, draining and drying requirements. and Holding time of vessels hydrostatic pressure 
+test shall be held at full test pressure (+ 1.0 %) for at least one hour per 25 mm nominal shell 
+thickness. 
+ 
+6. Documentation Requirement    
+ 
+Documents shall be submitted, as a minimum, in accordance with the following project 
+specifications;   
+1) P055BZOR.00.10.10.010, “Instruction for Document Commitment”  Refer to paragraph 7.3 
+(Vendor shall submit and maintain a “Vendor Document List - SDL” and Vendor shall prepare a 
+‘Document Control Schedule based on the SDL. Vendor shall submit a first issue of the ‘Document 
+Control Schedule’ within 2 weeks after Purchase Order.) 
+2) 000.255.SD4000 Supplier Data and Commitment Form – Packaged Equipment 
+Vendor shall supply all documents specified on the SDDC Form in column 2. The dates in column 8 
+shall be agreed jointly between Purchaser and Vendor. All documents shall be submitted on or 
+before the specified dates.      Refer to paragraph 7.6 
+ 
+6.1 MAXIMO  
+Company maintains a data base of all equipment in a MAXIMO Package, as their asset 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         26  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+management system. Vendor shall comply with the requirements of P4049ZOR-0000-10R-37 
+“Guidelines for Maximo Data Collection”. 
+ 
+6.2 Equipment Record Card  
+Vendor shall complete and submit Equipment Record Card(s), in accordance with DEP 70.10.01.10. 
+ 
+6.3 Material Manager “loose items” input sheet  
+In order to keep track of all loose delivered items, Vendor shall complete and submit the “Material 
+Manager loose items” input sheet. In attachment “Example Material Manager loose items input 
+sheet” an example is given of such filled in sheet. 
+ 
+6.4 Weld Procedure Submittals  
+Welding Procedure Specifications & Procedure Qualification Records (WPS & PQR), PQ test 
+report and weld map shall be submitted together. Each WPS will be assigned as one set of 
+WPS/PQR/Welding Map per equipment like below the examples. 
+Example 1) Pressure vessel: WPS&PQR / Welding map 
+Example 2) Non-pressure tank: WPS&PQR / Welding map 
+The complete PQR test records shall be attached to the submitted WPS according to follow the 
+specification : 
+- P055BZOR.00.10.09.023 " Specification for Welding, PWHT and Non-Destructive Examination of 
+Shop and Field Fabricated Piping"  
+- P055BZOR.00.10.10.002 "Specification for welding fabrication and non-destructive examination" 
+ 
+6.5 Documents to be submitted with the Proposal  
+Vendor’s proposal shall include following minimum data for Purchaser’s evaluation: 
+1) Statement of compliance to Technical Requisition documents, including Shell DEP’s and 
+associated project variations. Exceptions shall be clearly identified with document number, 
+applicable section with description. Exceptions will require Purchaser and / or Company approval 
+prior to proceeding. Vendor shall complete attached form “Clarifications and Exceptions to Project 
+Specifications and Shell DEP's” in both PDF and native Excel format. 
+2) Vendor may suggest alternative proposals which is a better system in view of technical & 
+economical aspects. 
+3) Preliminary General Arrangement Drawing. 
+4) Shipping envelope with dimensions and weights. 
+5) Inspection and Test Plans (ITP) 
+6) (Advanced) Fabrication Schedule, complete with production facility locations for main components, 
+including sub-suppliers  
+7) Reference list of similar Goods supplied by Bidder 
+8) List of sub-suppliers of main (major) components, stating as a minimum; supplier’s name, country 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         27  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+of origin and the Good(s) to be supplied. Sub-suppliers are subject to Purchaser’s approval. 
+9) Bidders to supply preliminary piping and instrumentation diagrams using Bidder’s standard 
+formatting and legend symbology with the technical bid. 
+10) Sized Equipment List, with weights and dimensions 
+11) Bidder to advise an estimated I/O (± 20%) count per technology package. This is considered 
+essential information. 
+7. List of Attachments 
+The following attachments and the therein referenced documents form an integral part of this 
+requisition.  
+ 
+7.1 Data Sheet and PEFS 
+ 
+Data Sheets 
+Document No. Description Rev 
+PHE (Plate Type Heat Exchanger)  
+ 
+PEFS (Process Engineering Flow Schematic) 
+Document No. Description Rev 
+VP055BZOR-4-0761-A-08-
+76A0304-00202 
+Process Engineering Flow Scheme – Biotreatment – Treament 
+Package Unit 76 
+01 
+ 
+7.2 FDH JV Project Specifications  
+ 
+Document No. Description Rev 
+P055BZOR-0003-R-024 General Seller Inspection Requirements (incl. following 
+templates) 
+O 
+ZOR-QUA-INS001 Pre-FAT Checklist 1 
+ZOR-QUA-INS002 Sample Inspection and Test Plan 1 
+ZOR-QUA-INS003 Pre-Inspection Meeting Agenda 1 
+ZOR-QUA-INS004 Pre-Inspection Meeting Notes Template 1 
+ZOR-QUA-INS005 Notice of Inspection form 1 
+ZOR-QUA-INS006 Non-Conformance _Release_ Report form 3 
+ZOR-QUA-INS007 Certificate of Conformance form 1 
+ZOR-QUA-INS008 Supplier Observation Report Log Form 1 
+ZOR-QUA-INS009 Waiver of Inspection Request form 1 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         28  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+P055BZOR.00.10.09.023 Specification for Welding, PWHT and Non-Destructive 
+Examination of Shop and Field Fabricated Piping 
+O 
+P055BZOR.00.10.09.029 Piping Initial Wall Thickness Measurements 1 
+P055BZOR.00.10.09.030 Positive Material Identification for Piping A 
+P055BZOR.00.10.09.032 Bolt Torquing and Tensioning O 
+P055BZOR.00.10.09.104 Piping Material Specification  A 
+P055BZOR.00.10.10.002 Specification for welding fabrication and non-destructive 
+examination 
+B 
+P055BZOR.00.10.10.004 Specification for selection of ASME Materials for pressure 
+Parts of Static Process Equipment 
+A 
+P055BZOR.00.10.10.005 Specification for selection of coating systems A 
+P055BZOR.00.10.09.211 Specification for Loading on Nozzles of Static Equipment O 
+P055BZOR.00.10.09.216 Specification for Loading at Interface Points of Package Units O 
+P055BZOR-0005-R-005 Material Identification Instruction Nov16 O 
+P055BZOR-0010-R-042 Supplier Instructions Maximo Templates (including 
+attachments) 
+O 
+ 
+7.3 Project Specifications (P4001 and P4049) 
+ 
+Document No. Description Rev 
+P40001NRP.00.10.26.001 Design of Lifting Attachments for Pressure Vessels B 
+P4049NRP-0000-BA30-DCN- 0747 Basic Engineering Design Data 1 
+P4049NRP.00.10.06.001 Project Specification for Export Packing A 
+P4049NRP.00.10.06.002 Project Specification for General Packing A 
+P4049NRP.00.10.09.104 Piping Line Classes E 
+P4049NRP.00.10.10.008 Engineering Numbering Specification O 
+P4049NRP.00.10.48.002 Galvanizing A 
+P4049ZOR-0000-10R-37 Guidelines for Maximo Data Collection B 
+ 
+7.4 Mechanical and Electrical Standard Drawings Project Variations 
+ 
+Document No. Description Rev 
+S10.030-P4049NRP-00-PV Lifting Lugs for Top Covers (material: carbon steel, low-alloy A 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         29  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+steel or stainless steel) 
+S10.101-P4049NRP-00-PV Equipment Nozzles A 
+S10.114-P4049NRP-00-PV Nameplate with Bracket for Vessels and Heat Exchange 
+Equipment 
+A 
+S20.004-P4049NRP-00-PV Anchor Bolt Ring or Lugs and Base Plate for Column A 
+S21.071-P4049NRP-00-PV Warning Nameplate, Material: Cast Bronze A 
+S28.020-P4049NRP-00-PV Anchor bolts O 
+S10.016-P4049NRP-00-PV Flanges for Non-Pressure Pipe Connections in Vessels A 
+S10.056 Typical Details of Insulation Collar for Carbon Steel, Low-Alloy 
+Steel or Stainless Steel 
+B 
+S20.003-001 Support Rings for Insulation on Vessels and Heat Exchangers D 
+S20.003-002 thru’ 004 Support Rings for Insulation on Vessels and Heat Exchangers 
+(sheets 2-4) 
+O 
+S68.003 Typical Mounting Details for earthing Connections F 
+S68.004 Earthing Boss for Steel Structures, Tanks, Vessels, etc. H 
+ 
+7.5 Shell DEP 32 and Project Variations 
+ 
+DEPs (including MESC) are assumed to be in Vendor’s possession and therefore some of DEPs 
+are not physically attached to this requisition. 
+Document No. Description Rev 
+30.00.60.13 Human Factors Engineering – Valve Analysis Apr.2009
+30.00.60.18 Human Factors Engineering – Design and Procurement of 
+Skid-Packaged Units 
+Jan.2010
+30.00.60.18-P4049NRP-00-PV Project Variation - Human Factors Engineering – Design 
+and Procurement of Skid-Packaged Units, 
+O 
+30.10.02.11 Metallic Materials – Selected Standards Sep 2002
+30.10.60.18 Welding of Metals May 2004
+30.10.60.18-P4049NRP-00-PV Project Variation - Welding of Metals A 
+30.48.00.31 Protective Coatings for Onshore Facilities Jan.2009
+30.48.00.31-P4049NRP-00-PV Project Variation - Protective Coatings for Onshore 
+Facilities 
+B 
+31.10.00.10 Positive Material Identification (PMI) Sep.2011
+31.10.00.10-P4049NRP-00-PV Project Variation - Positive Material Identification (PMI) C 
+31.10.03.10 Symbols and Identification System - Mechanical Dec 2007
+31.10.03.10-P4049NRP-00-PV Project Variation - Symbols and Identification System - 
+Mechanical 
+O 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         30  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+31.21.01.32 Plate and Frame Heat Exchangers Sep 2011
+31.21.01.32-P4049NRP-00-PV Project Variation - Plate and Frame Heat Exchangers O 
+31.22.10.35 Manufacturing Report for Pressure Vessels Aug.2005
+31.22.10.35-P4049NRP-00-PV Project Variation - Manufacturing Report for Pressure 
+Vessels 
+O 
+31.22.20.31 Pressure Vessels (based on ASME Section VIII) Feb 2011
+31.22.20.31-P4049NRP-00-PV Project Variation - Pressure Vessels (based on ASME 
+Section VIII) 
+B 
+31.37.00.11 Instrument Air Supply Jan.2005
+31.37.00.11-P4049NRP-00-PV Project Variation - Instrument Air Supply O 
+31.38.01.10 Piping Class - Basis of Design Feb.2011
+31.38.01.10-P4049NRP-00-PV Project Variation - Piping Class - Basis of Design O 
+31.38.01.11 Piping - General Requirements Feb.2011
+31.38.01.11-P4049NRP-00-PV Project Variation - Piping - General Requirements D 
+31.38.01.12 Piping Line Classes – Refining and Chemicals Feb.2011
+70.10.90.11 Spare Parts Sep.2002
+70.10.90.11-P4049NRP-00-PV Project Variation - Spare Parts A 
+ 
+7.6 Vendor Document Commitment Sheets 
+ 
+Document No. Description Rev 
+000.255.SD4000 Supplier Data and Commitment Form – Packaged 
+Equipment 
+B 
+L9ZR-671_SUPPLIER-IBTS- 
+TEMPLATE_18AUG2015 
+000.206.F0520a01 Supplier Submissions Form 
+(Vendor Print Submittal Index Cover Format) 
+N/A 
+ 
+7.7 Technical Job Bulletins and Process Control Templates  
+ 
+Document No. Description Rev 
+FDH-AZRP-CSA-TJB-0002 Fixing Matrix for Mechanical Equipment 2 
+ 
+7.8 General Attachments 
+ 
+Description Rev 
+Example Material Manager loose items input sheet TBD 
+Example SPIR Form - 
+PJT No.:    P055BZOR Material Requisition 
+for 
+Plate Heat Exchanger 
+Doc. No.:        MR-ME-121 
+PJT Title:  KNPC ZOR Project Revision No.          1 
+Unit:  Waste Water Treatment Page No.:         31  of  31 
+ 
+                                                                                             
+KNPC ZOR Project   
+                                                   
+Part II Section 4 Exhibit J Attachment J-13 - Training Requirements - 
+Quality and Certification Requirements – Pressure Vessels 2 
+P055BZOR-7627-R-001 Supplier’s Deviation Summary Sheet KOLON B 
+ 
+7.9 Submittal Formats  
+ 
+A. QC Format 
+1) ITP for KNPC ZOR Form 
+2) Vendor Print Cover Sheet Form (for Test Procedures) 
+3) Tabulation of Material Sheet (for Material Traceability) 
+4) P055BZOR.00.10.10.002 appendix 7 Weld map and weld index matrix 
+5) Paint System 
+6) Paint Inspection Report 
+7) QE-049 (Rev.0) Photo for Package 
+8) QE-050 (Rev.0) Photo Table for NCR and punch 
+9) QE-054 (Rev.0) NDE & PMI Map 
+10) Baseline Thickness Report(for Equipment) 
+B. Document Templates 
+1) Document Title Block and Cover Sheet Format  
+2) Drawing Title Block and Border Format  

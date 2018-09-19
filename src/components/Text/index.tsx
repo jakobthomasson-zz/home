@@ -9,6 +9,13 @@ export const SmallText = styled.span`
   margin: 0;
 `;
 
+export const NormalText = styled.div`
+  font-family: ${font.Serif};
+  color: ${color.text};
+  font-size: ${fontsize.medium};
+  margin: 0;
+`;
+
 export const MenuText = styled.span`
   font-family: ${font.Serif};
   color: ${color.text};

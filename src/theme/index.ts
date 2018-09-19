@@ -49,8 +49,8 @@ export const color = {
   background_primary: '#F5F5F6',
   background_secondary: '#E1E2E1',
   text: boxShadowColor,
-  text_secondary: '#a0a0a0',
   box_shadow: getOpacity(0.5, boxShadowColor),
+  text_secondary: '#a0a0a0',
 };
 
 export const border = {
