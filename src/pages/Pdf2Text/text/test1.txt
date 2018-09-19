@@ -1,0 +1,338 @@
+PROJECT SPECIFICATION  
+JOB No. 
+ 
+9103-C02DS02-R1 
+ 
+PAGE  1 OF 9 
+CHEMICAL PLANT 
+DEPT 
+ 
+Anchor Bolt Standard 
+DATE    
+19 JAN 2015 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anchor Bolt Standard 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+      
+1 16 MAR 2015 Updated as per comments K.Teramae L.IIkawa N.Nomura 
+0 19 JAN 2015 1st Issue K.Teramae L.IIkawa N.Nomura 
+Rev. Date Notes By Checked Approved 
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  2 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+ 
+CONTENTS 
+1. SCOPE ............................................................................................................... 3 
+2. ANCHOR BOLTS ................................................................................................ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  3 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+1. SCOPE 
+1.1 This standard covers the coding system and fabrication dimensions for plain and sleeved, 
+carbon and alloy steel anchor bolt assemblies. 
+1.2 Basically, anchor bolt for static equipment (vessel, heat exchanger, furnace, etc.) to be 
+selected from this standard. Anchor bolt for rotating equipment and others can be applied the 
+Vendor’s standard anchor bolt which subject to the Purchaser’s approval. 
+This is applied to packaged equipment also. 
+1.3. Steel bolt assemblies include the following assembly types (Table I): 
+ Carbon Steel - 
+Sleeved 
+Carbon Steel – 
+Non Sleeved 
+Standard Length  
+(in accordance with 
+Table 1) 
+A B 
+Non-Standard Length 
+Details to be provided for non standard 
+bolts 
+1.4 Table I gives the standard dimensions for the various types of anchor bolt assemblies. 
+The length of anchor bolt to be verified by Supplier, in case of using standard dimensions. 
+1.5 Table I gives the standard dimensions for the various types of anchor bolt assemblies. The 
+projection of the anchor bolt “P” is based on the thickness of the plate, the grout and the 
+number of nuts to be installed. For the installation of equipment the anchor bolt projection 
+must take into account, the required anchorage detail of the equipment (i.e. the height of the 
+skirt, etc.). For the structural steelwork, the projection dimension “P” should be rationalised, to 
+allow the fabrication of a particular typed diameter with a defined standard projection. 
+1.6 All assemblies shall have threaded lengths equal to the projection, "P". 
+1.7 For Alloy steel anchor bolts, the length of anchor bolt to be calculated by Supplier as per 
+standard (JPI, ACI, etc.) and the specific requirements are to be clearly noted on the 
+individual construction drawings. The condition of reinforced concrete is the followings. 
+- Specified compressive strength of concrete for design base : Min. 20 N/mm2 (at 28 days, by 
+cylinder test) 
+2. ANCHOR BOLTS 
+2.1 The anchor bolt information shown on the drawings or on the requisition will give the total 
+number of anchor bolts per each bolt code.   
+ 
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  4 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+2.2 Type of anchor bolt to be selected as following conditions; 
+Type A: Horizontal static equipment or Vertical static equipment without template 
+Type B: Vertical static equipment with template 
+2.3 In case B.C.D. of anchor bolt exceeds 3,000mm or bolt diameter is larger than 36mm, 
+template to be supplied and delivered to site with anchor bolt. Shipment schedule for anchor 
+bolt and template to be agreed with Purchaser. 
+2.4 Anchor bolts assemblies shall be fabricated in accordance with the details and dimensions 
+specified within this document. 
+2.5 Sleeves shall be of steel pipe or rolled from steel sheet, 2mm minimum thickness for bolts up 
+to 36mm diameter, and 2.6mm minimum thickness for bolts 42mm diameter and over. 
+2.6 The number and size of tack welds required at each location shall be in accordance with the 
+attached figures.  Care shall be taken to ensure that the strength of the bolt is not impaired 
+where welds occur on bolt shanks. 
+2.7 Each assembly shall be transported fully assembled, i.e. with nuts attached to the bolts and 
+washers in place, threads cleaned and oiled. 
+2.8 Each assembly shall be identified by die stamping its identification mark on the top of the bolt, 
+prior to galvanizing or a metal tag tied to the bolt with soft iron binding wire. 
+2.9 All anchor bolt assemblies are to be hot-dip galvanized, in accordance with ASTM 153. 
+2.10 Cold temperature anchor bolts material shall be SA320-L43 to ASTM A320/A320M.  Cold 
+temperature nuts material shall be SA194 Gr 4 or 7 to ASTM A194/A194M.  Cold 
+temperature anchor/washer plate material shall be supplied as specified on the relevant 
+equipment drawing, material specification SA240-TP 304 to ASTM A240.  Where Alloy steel 
+anchor bolts are required they are to be clearly indicated on the construction drawings, along 
+with any other special instructions. 
+2.11 Anchor bolts shall be identified by the code below, prefixed by “M” indicating ISO Metric: 
+ 
+M       
+ 
+ 
+ 
+Bolt Diameter “d” mm 
+  
+ 
+Bolt Type (from Table 1)  
+  
+ 
+Bolt Projection "P" in cm. 
+  
+ 
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  5 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+ Examples: 
+ 
+ M36A15 = 36mm diameter bolt, Type A with 15cm projection 
+ 
+ M20B10 = 20mm diameter bolt, Type B with 10cm projection. 
+ 
+Where Alloy steel anchor bolts are required the bolt type ref shall be increased to a 2 letter 
+reference with an additional letter “A” being added to the front of the bolt type reference.  These 
+must be clearly indicated on the construction drawing. 
+ 
+Example: 
+ 
+AA  = Alloy steel anchor bolt, Type A 
+ 
+2.12 Drill anchors shall be used only for the parts where neither tensile force nor shearing force 
+acts. 
+2.13 Chemical anchors shall be used for the parts where tensile force and/ or shearing force acts.  
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  6 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+ 
+TABLE 1 – DIMENSIONS OF ANCHOR BOLT ASSEMBLIES 
+ 
+TYPE/PART 
+DIM 
+(mm) 
+BOLT DIAMETER “d” (mm) 
+16 20 24 30 36 42 48 56 64 72 80 90 
+Anchor  
+Type A 
+H 
+L 
+350 
+- 
+430 
+- 
+510 
+- 
+640 
+- 
+770 
+- 
+840 
+750 
+980 
+880 
+1140 
+1030 
+1320 
+1190 
+1510 
+1370 
+1710 
+1570 
+2250 
+2095 
+Anchor  
+Type B 
+L 300 390 460 580 700 750 880 1030 1190 1370 1570 - 
+H 350 430 510 640 770 840 980 1140 1320 1510 1710 - 
+Sleeve 
+D 50 50 70 70 80 80 100 100 150 150 150 170 
+S 300 390 460 580 700 400 400 500 500 500 500 500 
+Sleeve Bottom 
+Plt (t = 6mm)* 
+w - - - - - 100 120 120 160 160 160 180 
+Anchor Plate 
+for Type A 
+W 100 100 140 140 180 180 200 200 250 250 250 280 
+T 20 20 20 25 25 30 30 40 45 45 45 45 
+Anchor Plate 
+For Type B 
+W 90 100 100 130 150 170 200 200 200 200 250 - 
+T 12 12 18 25 25 30 30 40 40 45 45 - 
+Plain Washer NORMAL BLACK – FORM “E”  (BS4320) LARGE 
+ 
+NOTES: 
+1 Typical dimensions and shape for sleeves.  
+Dimensions and shape may change according to the type of approved sleeves used. 
+2 * - Where no sleeve bottom plate size is indicated the sleeve is welded directly to the anchor 
+plate 
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  7 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+ 
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  8 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+ 
+ 
+PROJECT SPECIFICATION 
+JOB No  
+ 
+9103-C02DS02-R1  PAGE  9 OF 9 
+CHEMICAL PLANT 
+DEPT  
+ 
+Anchor Bolt Details 
+ DATE    
+19 JAN 2015 
+ 
+ 
+ 
+ 

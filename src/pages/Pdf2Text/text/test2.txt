@@ -1,0 +1,489 @@
+Form  No.  H10FM01-C-E-R1
+Rev
+1
+2
+3
+4 Fluid Name
+5 Total Flow Rate
+6 Flow Rate per Exchanger
+7 Design Temperature  (Max./Min.)
+8 Minimum Design Ambient Temp.
+9 Design Pressure
+10 Pressure Drop (Allow./Calc.)
+11 Wall Temperature  (Max./Min.)
+12 Fouling Margin　（Remarks a)
+13
+14 Liquid Flow Rate
+15 Vapour Flow Rate
+16 Non-condensables Flow Rate
+17 Operating Temperature
+18 Operating Inlet Pressure
+19 Hydrogen Partial Pressure
+20 Lethal Substance (Remarks b) Yes No Yes No
+21 Flammable Service Yes No Yes No
+22
+23 Density
+24 Specific Heat Capacity
+25 Dynamic Viscosity
+26 Thermal Conductivity
+27 Surface Tension
+28
+29 Density
+30 Specific Heat Capacity
+31 Dynamic Viscosity
+32 Thermal Conductivity
+33 Molecular Weight, Vapour
+34 Molecular Weight, Non-condensables
+35 Dew Point / Bubble Point
+36 Solids Maximum Size
+37 Solids Concentration
+38 Latent Heat
+39 Critical Pressure
+40 Critical Temperature
+41 Heat Curve Yes No Yes No
+42 Total Heat Exchanged
+43 Overall Heat Transfer Coef.
+44 LMTD
+45 Heat Transfer Area
+46 Stream Heat Transfer Coef.
+47 Remarks 
+48 a. A minimum of 20% excess area must be provided in account for the fouling margin. (80% Cleanleness factor)
+49 b. See ASME Boiler and Pressure Vessel Code Section VIII Division 1 UW-2 & UW-11.
+50 c. Design, fabrication, inspection and testing shall be according to ASME Section VIII Division 1, API 662 Part-1, and
+51 Purchaser's specifications as listed in the requisition. 
+52 d. Items marked with " STA " shall be filled by Supplier.  ( STA : Supplier to Advise )
+53 e. Completed datasheet shall be submitted by Supplier.
+54 f. All surfaces in contact with the hot side fluid shall be Type 316L S.S.
+55 Chroride contents in cooling water is approx. 300 ppm.  Supplier shall recommend the suitable exchanger material if the specified material is not adequate.
+56 g. Minimum thickness of heat transfer plate shall be 0.6 mm before pressing.
+57
+58 See Sheet 2 for additonal notes.
+31 SHEET 
+1-24DSHT-1HE108
+Document No.
+ApprovedCheckedBy
+N. S. Y. M. N. Sato
+/
+oC
+0
+Rev.
+1
+Date Description
+8 Jun.' 18 1st Issue
+2
+3
+- - - -
+- - - -
+OF
+Applicable To :
+Lean Solution Water Cooler
+- - - -
+-
+-
+-
+STA
+STA/
+kW
+W / m²  ºC
+STA STA
+STA
+STA
+Service ConditionClean Condition STA STA
+x 1.112,014
+mm
+kPa (a)
+oC
+kg / m3
+mPa s
+N / m
+32.0 44.4
+542.3
+-
+kg / hr
+-35
+/
+/
+Lean Solution
+CASE
+HOT SIDE
+AS BUILT○
+Data Sheet for Plate & Frame Exchanger
+KAWASAKI HEAVY INDUSTRIES, LTD. Item No. : 1-HE108 Service :
+ Job No    :
+ Unit       :
+ No.Req'd  :
+120
+kg / m3
+mPa s
+kJ / kg ºC
+W / m ºC
+kJ / kg ºC
+IN OUT
+IN
+0.395 0.368
+1,002.2
+W / m ºC
+W / m²  ºC
+○○
+oC
+m2
+% Volume
+kJ / kg
+-
+-
+oC
+%
+kg / hr
+oC
+kPa (a)
+kg / hr
+VAPOUR PROPERTIES
+79.1 50.0
+210.8
+-
+NORMAL OPERATION CASE
+x 1.1
+-35
+490 / F.V.
+386,370
+Client     : Shchekinoazot JSC 36B0-0001-9103  Req. No.  : SA-1HE108AM
+Project   : 1140 MTPD Ammonia Plant Ammonia  P.O. No.  : -
+x 1.1
+x 1.1
+x 1.1 x 1.1
+x 1.1
+Location : Efremov, Russia 1
+kg / hr
+kg / hr
+oC
+oC
+kPa (g)
+PURCHASE
+Cooling Water
+70
+PROPOSAL
+980 / F.V.
+/ /
+-35
+COLD SIDE
+x 1.1386,370
+-
+1,023.0
+kPa (a)
+LIQUID PROPERTIES
+OPERATING DATA IN
+2.433 0.764 0.590
+- -
+-
+386,370 838,125
+-
+- -
+-
+838,125x 1.1
+x 1.1
+x 1.1
+3.758
+IN OUT
+0.618 0.636
+OUT
+1.180
+kPa
+STA
+98.1
+3.928
+IN OUT
+995.2 990.2
+4.178 4.178
+x 1.1
+x 1.1
+x 1.1
+-
+-
+-
+-
+-
+-
+-
+-
+OUT IN OUT
+x 1.1838,125
+386,370 x 1.1 838,125 x 1.1
+STA
+34.3 STA
+STA
+- - - -
+-
+-
+-
+Form  No.  H10FM01-C-E-R1
+Rev
+1
+2
+3
+4 Fluid Name
+5 Total Flow Rate
+6 Flow Rate per Exchanger
+7 Design Temperature  (Max./Min.)
+8 Minimum Design Ambient Temp.
+9 Design Pressure
+10 Pressure Drop (Allow./Calc.)
+11 Wall Temperature  (Max./Min.)
+12 Fouling Margin　（Remarks a)
+13
+14 Liquid Flow Rate
+15 Vapour Flow Rate
+16 Non-condensables Flow Rate
+17 Operating Temperature
+18 Operating Inlet Pressure
+19 Hydrogen Partial Pressure
+20 Lethal Substance (Remarks b) Yes No Yes No
+21 Flammable Service Yes No Yes No
+22
+23 Density
+24 Specific Heat Capacity
+25 Dynamic Viscosity
+26 Thermal Conductivity
+27 Surface Tension
+28
+29 Density
+30 Specific Heat Capacity
+31 Dynamic Viscosity
+32 Thermal Conductivity
+33 Molecular Weight, Vapour
+34 Molecular Weight, Non-condensables
+35 Dew Point / Bubble Point
+36 Solids Maximum Size
+37 Solids Concentration
+38 Latent Heat
+39 Critical Pressure
+40 Critical Temperature
+41 Heat Curve Yes No Yes No
+42 Total Heat Exchanged
+43 Overall Heat Transfer Coef.
+44 LMTD
+45 Heat Transfer Area
+46 Stream Heat Transfer Coef.
+47 Remarks 
+48 h. Nozzles may be studded port.     If any welding is done on the cover plate, PWHT shall be performed.
+49 i. 2 nozzles in/out are acceptable.  If this is used, Supplier shall provide piping header with expansion joint (if req'd), so that there will be only one nozzle in/out.
+50 j. Strainers shall be provided by Supplier for inlet nozzles on both sides.    Lean Oase & cooling water shall be strained to 1.5 mm particle size.
+51 Supplier shall confirm or provide the alternate recommendation.
+52 k. Exchanger can be operated at a turndown to 70% of normal flow and duty.
+53 l. Supplier shall provide size of chemical cleaning connections which will be located in the piping.
+54 m. Supplier shall provide a common skid mounted cleaning system, including instructions.
+55 n. Cold side shall be flowing up.
+56 o. Non Symmetrical plates are not allowed.  Plates must be symmetrical.
+57 p. 20% of heat transfer plates with their gaskets shall be provided for two years operation spare.
+58 q. PHE shall withstand the external nozzle load specidfied in D-180E Nozzle Loads of "Standard Drawings for Vessels, Tanks and Heat Exchangers"
+59 (Spec. No.: 9103-D00DS05).
+60
+61
+62
+3
+Data Sheet for Plate & Frame Exchanger
+KAWASAKI HEAVY INDUSTRIES, LTD. Item No. : 1-HE108 Service : Lean Solution Water Cooler
+Project   : See Sheet 1  Unit       : See Sheet 1  P.O. No.  : See Sheet 1
+Client     : See Sheet 1  Job No    : See Sheet 1  Req. No.  : See Sheet 1
+○ AS BUILT
+CASE ALTERNATIVE CASE (DESIGN CASE)
+HOT SIDE COLD SIDE
+Location : See Sheet 1  No.Req'd  : See Sheet 1
+Applicable To : ○ PROPOSAL ○ PURCHASE
+kg / hr 386,370 x 1.1 838,125 x 1.1
+Lean Solution Cooling Water
+kg / hr 386,370 x 1.1 838,125 x 1.1
+See Sheet 1
+oC See Sheet 1
+kPa (g) See Sheet 1 See Sheet 1
+oC See Sheet 1 / See Sheet 1 See Sheet 1 /
+%
+OPERATING DATA IN OUT IN OUT
+STA
+oC STA / STA STA / STA
+kPa 34.3 / STA 98.1 /
+x 1.1 838,125 x 1.1
+kg / hr - x 1.1 - x 1.1 - x 1.1
+kg / hr 386,370 x 1.1 386,370 x 1.1 838,125
+x 1.1
+oC 87.5 50.0 32.0 48.0
+- x 1.1
+kg / hr - x 1.1 - x 1.1 - x 1.1 -
+kPa (a) 210.8 542.3
+kPa (a) - -
+LIQUID PROPERTIES IN OUT IN OUT
+kg / m3 995.6 1,023.0 995.2 989.1
+kJ / kg ºC 3.978 3.758 4.178 4.178
+mPa s 0.990 2.433 0.764 0.566
+W / m ºC 0.404 0.368 0.618 0.639
+N / m
+VAPOUR PROPERTIES IN OUT IN OUT
+kg / m3 - - - -
+kJ / kg ºC - - - -
+mPa s - - - -
+- -
+oC - -
+W / m ºC - - - -
+- -
+kJ / kg - -
+kPa (a) - -
+mm - -
+% Volume - -
+kW 15,596 x 1.1
+W / m²  ºC Clean Condition STA Service Condition STA
+oC - -
+Document No. 0
+oC STA
+m2 STA
+W / m²  ºC STA STA
+ SHEET 2 OF1-24DSHT-1HE108 Rev.
+Form  No.  H10FM01-C-E-R1
+Rev
+1 CONFIGURATION FOR EXCHANGER AND PLATE DETAILS
+2 Number of Exchangers in Parallel Heat Transfer Area per Exchanger
+3 Number of Exchangers in Series Heat Transfer Area per Plate
+4 Number of Passes, Hot Side Number of Plates per Exchanger
+5 Number of Passes, Cold Side Plate Chevron Angle(s)
+6 Relative Directions of Fluids Nominal Plate Thickness
+7 Nominal Plate Gap
+8 DESIGN DATA
+9 Pressure Vessel Design Code
+10 Applicable Standard
+11 Code Certification Mark Yes No
+12 Applicable Specifications
+13 Local Rules and Regulations
+14 Material Certificate Type
+15
+16 Test Pressure
+17 Max. Allowable Working Press.
+18 Velocity Between Plates (Ave.)
+19 Wall Shear Stress (Ave.)
+20 Volume Liquid per Exchanger
+21 Length / Width / Height / /
+22 Weight - Empty
+23 Weight - Operating
+24 Weight - Full Water
+25 CONNECTIONS
+26 Nozzle Size (NPS)
+27 Flange Rating / Type / / / /
+28 COMPONENT
+29 Exchanger Type Gasketed PHE Semi-welded PHE Welded PHE
+30 Plates
+31 Plate Gasket Fixing Type Glued Not Glued N/A
+32 Gaskets Hot Side / Cold Side
+33 Fixed Cover / Movable Cover
+34 Tie Bolts / Nuts
+35 Carrying Bar / Guide Bar / Support Column / /
+36 Connection Design Flanged  Nozzle Studded
+37 Nozzle Pipes / Flanges
+38 Corrosion Allowance on Connections
+39 Stud Bolts / Nuts
+40 Anchor(Setting)  Bolts / Nuts
+41 Protective Metal Shroud Spray Fire None
+42 Drip Tray Yes No
+43 Painting Specification Manufacturer's Std. Purchaser's Spec.
+44 Insulation Yes (By Supplier) Yes (By Others) No
+45 Fire Proofing Yes (By Supplier) Yes (By Others) No
+46 LOADING
+47 Connection Loads / Moments API 662 Table -1 API 662 Table -2 Other
+48 Wind Load Design Code
+49 Seismic Load Design Code
+50 Cyclic Load Yes No
+51 Transportation Load Yes (Purchaser's Spec.) No
+52 TESTING AND INSPECTION
+53 Specific Drying Procedure Yes (Purchaser's Spec.) No
+54 Dried by Blowing Air Yes No
+55 Inspected By Purchaser ASME AI Third Party
+56 Radiography Requirement
+57 Remarks 
+58
+59
+60
+61
+62
+63
+64
+65
+3
+STA
+150 RF
+12
+150 RF
+12
+150 RF
+STA
+STA
+STASTA STA
+STA
+SA-320 Gr.L7
+9103-U00DS01
+-
+kg
+kg
+Hot Side None Cold Side
+STA
+None
+STA
+API 662 Part-1 1st Edition
+ASME Section VIII Division 1
+See Purchaser's Requisition and Specifications.
+See Purchaser's Requisition and Specifications.
+See Purchaser's Requisition and Specifications.
+COLD SIDEHOT SIDE
+Per Code Per Code
+STA
+STA
+STA
+STA
+STA
+STA
+m3
+kPa (g)
+kPa (g)
+Pa
+m / s
+Data Sheet for Plate & Frame Exchanger
+KAWASAKI HEAVY INDUSTRIES, LTD. Item No. : 1-HE108 Service :
+1-24DSHT-1HE108 Rev.  SHEET 3 OF0
+mm
+Document No.
+mm
+kg
+Lean Solution Water Cooler
+mm
+OUT IN OUTIN
+12
+150 RF
+12
+STA
+0.0
+SA-193 Gr.B7 / SA-194 Gr.2H
+STA
+3.0 on C.S.
+SA-193 Gr.B7 / SA-194 Gr.2H
+MATERIALS
+Type 316L S.S.
+STA STA STA
+/
+/
+/
+EPDM (Crip on)
+STA
+STA
+EPDM (Crip on)
+STA
+1
+1
+STA
+STA
+Countercurrent
+STA
+STA
+STA
+STA
+STA
+STA
+m2
+m2
+pcs
+deg.
+mm
