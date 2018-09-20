@@ -2,6 +2,7 @@ import { RouteProps } from 'react-router-dom';
 import TopAnimePage from 'src/pages/TopAnime';
 import HomePage from 'src/pages/Home';
 import Pdf2TextPage from 'src/pages/Pdf2Text';
+import TutorialPage from 'src/pages/Tutorial';
 
 export interface IRoute extends RouteProps {
   title?: string;
@@ -24,6 +25,11 @@ const routes: IRoute[] = [
     path: '/pdf2text',
     exact: false,
     component: Pdf2TextPage,
+  }, {
+    title: 'TS DEMO',
+    path: '/tsdemo',
+    exact: false,
+    component: TutorialPage,
   },
 ];
 

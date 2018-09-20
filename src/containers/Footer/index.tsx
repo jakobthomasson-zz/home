@@ -15,10 +15,7 @@ class Footer extends React.Component<FooterProps> {
   public render(): React.ReactElement<{}> {
     const { } = this.props;
     return (
-      <Wrapper>
-        Footer
-      </Wrapper>
-
+      <Wrapper/>
     );
   }
 }

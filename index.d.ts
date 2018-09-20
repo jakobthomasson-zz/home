@@ -1,7 +1,7 @@
 declare namespace Al {
 
   export interface Action<T = any> {
-    type: string;
+    readonly type: string;
     payload?: T
   }
 }
