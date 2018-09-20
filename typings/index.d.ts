@@ -1,8 +1,11 @@
 
 declare namespace I {
-  export interface Action<T = any> {
-    type: string;
-    payload?: T
+  export interface Action<T> {
+    type: T;
+  }
+
+  export interface PayloadAction<T, P> extends Action<T> {
+    payload: P;
   }
 
   export interface Loader {

@@ -9,12 +9,11 @@ import delay from 'delay';
 function* modifyCounterSaga(action: actions.ModifyCounterAction) {
   try {
     yield call(() => delay(action.payload.timeout));
-
-    const successAction: I.Action<number> = { type: actions.MODIFY_SUCCESS, payload: action.payload.modifyBy };
+    const successAction: actions.ModifyCounterSuccessAction = { type: actions.MODIFY_SUCCESS, payload: action.payload.modifyBy };
     yield put(successAction);
 
   } catch (error) {
-    const errorAction: I.Action<Error> = { type: actions.MODIFY_ERROR, payload: error };
+    const errorAction: actions.ModifyCounterErrorAction = { type: actions.MODIFY_ERROR, payload: error };
 
     yield put(errorAction);
   }

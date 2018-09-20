@@ -1,7 +1,7 @@
-import { applyMiddleware, createStore, Store } from 'redux';
+import { applyMiddleware, createStore, Store  } from 'redux';
 
 import { composeWithDevTools } from 'redux-devtools-extension';
-import { state, IState } from './reducers';
+import { state, IState, Actions } from './reducers';
 import sagas from './sagas';
 
 import createSagaMiddleware from 'redux-saga';
@@ -14,7 +14,7 @@ const enhancer = composeWithDevTools(
   applyMiddleware(sagaMiddleware),
 );
 
-const store: Store<IState, I.Action> = createStore(
+const store: Store<IState, Actions> = createStore(
   state,
   // initialState!,
   enhancer,

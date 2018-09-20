@@ -10,9 +10,7 @@ const initialState: Readonly<State> = {
   isCounting: false,
 };
 
-export type Action = actions.All;
-
-export default (state: Readonly<State> = initialState, action: Action): Readonly<State> => {
+export default (state: Readonly<State> = initialState, action: actions.Actions): Readonly<State> => {
   switch (action.type) {
     case actions.MODIFY:
       return {
@@ -21,7 +19,7 @@ export default (state: Readonly<State> = initialState, action: Action): Readonly
       };
     case actions.MODIFY_SUCCESS:
       let { counter } = state;
-      counter = counter + action.payload;
+      counter = counter + (action.payload);
       return {
         ...state,
         counter,

@@ -2,8 +2,7 @@ import * as React from 'react';
 const connect = require('react-redux').connect;
 // import { connect } from 'react-redux';
 import { createStructuredSelector } from 'reselect';
-import { modifyCounter } from 'src/store/tutorial/actions';
-// import { Action } from 'src/store/tutorial/reducer';
+import { modifyCounter, Actions } from 'src/store/tutorial/actions';
 
 import { Dispatch } from 'redux';
 import { selectCounter, selectIsCounting } from 'src/store/tutorial/selectors';
@@ -40,7 +39,7 @@ function mapStateToProps() {
   });
 }
 
-function mapDispatchToProps(dispatch: Dispatch<I.Action>) {
+function mapDispatchToProps(dispatch: Dispatch<Actions>) {
   return {
     onModifyCounter: (counter: Payloads.Counter): void => {
       dispatch(modifyCounter(counter));

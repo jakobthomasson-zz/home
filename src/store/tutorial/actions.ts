@@ -1,58 +1,25 @@
-// import { actionTypes as at } from './constants';
-import { ActionCreator } from 'redux';
+import { createPayloadAction } from 'src/helpers/redux';
 
-// Action Types
+// Action Type Constants
 export const MODIFY = 'COUNTER/MODIFY';
 export const MODIFY_SUCCESS = 'COUNTER/MODIFY_SUCCESS';
 export const MODIFY_ERROR = 'COUNTER/MODIFY_ERROR';
 
-// export const DECREMENT  = '[Counter] Decrement';
-// export const RESET      = '[Counter] Reset';
+// Action type constant, typeof treats MODIFY as a type which is necessary for typed actions in reducer.
+export type ModifyCounterAction = I.PayloadAction<typeof MODIFY, Payloads.Counter>;
+export type ModifyCounterSuccessAction = I.PayloadAction<typeof MODIFY_SUCCESS, number>;
+export type ModifyCounterErrorAction = I.PayloadAction<typeof MODIFY_ERROR, Error>;
 
-export const modifyCounter = (counter: Payloads.Counter): I.Action<Payloads.Counter> => {
-  return {
-    type: MODIFY,
-    payload: counter,
-  };
+export const modifyCounter = (payload: Payloads.Counter): ModifyCounterAction => {
+  return createPayloadAction(MODIFY, payload);
 };
 
-export const modifyCounterSuccess: ActionCreator<ModifyCounterSuccessAction> = (modifyWith: number) => {
-  return {
-    type: MODIFY_SUCCESS,
-    payload: modifyWith,
-  };
+export const modifyCounterSuccess = (payload: number): ModifyCounterSuccessAction => {
+  return createPayloadAction(MODIFY_SUCCESS, payload);
 };
 
-export const modifyCounterError: ActionCreator<ModifyCounterErrorAction> = (error: Error) => {
-  return {
-    type: MODIFY_ERROR,
-    payload: error,
-  };
+export const modifyCounterError = (payload: Error): ModifyCounterErrorAction => {
+  return createPayloadAction(MODIFY_ERROR, payload);
 };
 
-export class ModifyCounterAction implements I.Action<Payloads.Counter> {
-  readonly type = MODIFY;
-  public payload: Payloads.Counter;
-  constructor(payload: Payloads.Counter) {
-    this.payload = payload;
-  }
-}
-
-export class ModifyCounterSuccessAction implements I.Action<number> {
-  readonly type = MODIFY_SUCCESS;
-  public payload: number;
-  constructor(payload: number) {
-    this.payload = payload;
-  }
-}
-
-export class ModifyCounterErrorAction implements I.Action<Error> {
-  readonly type = MODIFY_ERROR;
-  public payload: Error;
-
-  constructor(payload: Error) {
-    this.payload = payload;
-  }
-}
-
-export type All = ModifyCounterAction | ModifyCounterSuccessAction | ModifyCounterErrorAction;
+export type Actions = ModifyCounterAction | ModifyCounterSuccessAction | ModifyCounterErrorAction;

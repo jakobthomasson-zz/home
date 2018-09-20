@@ -5,6 +5,7 @@ import { combineReducers, Reducer } from 'redux';
 import exampleReducer, { State as AnimeState } from './example/reducer';
 import loaderReducer, { State as LoaderState } from './loader/reducer';
 import counterReducer, { State as CounterState } from './tutorial/reducer';
+import { Actions as CounterActions } from './tutorial/actions';
 
 export interface IState {
   animeDomain: AnimeState;
@@ -18,3 +19,5 @@ export const state: Reducer<IState> = combineReducers({
   counterDomain: counterReducer,
 
 });
+
+export type Actions = CounterActions;
